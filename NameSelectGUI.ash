@@ -1,1 +1,0 @@
-// This module handles the GUI functions for the NameSelect window.

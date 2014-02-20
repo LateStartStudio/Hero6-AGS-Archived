@@ -1,1 +1,0 @@
-// This module handles the GUI functions for the Charsheet and Charsheet2 windows.
