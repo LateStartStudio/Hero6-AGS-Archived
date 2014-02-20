@@ -1,0 +1,1 @@
+// This module handles the GUI functions for the JobBoard window.

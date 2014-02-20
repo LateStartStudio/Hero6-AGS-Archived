@@ -1,0 +1,35 @@
+// Script header for module 'Generic Descriptions'
+
+import function grass_look();
+import function grass_talk();
+import function grass_use();
+import function darkgrass_look();
+import function darkgrass_talk();
+import function darkgrass_use();
+import function dirtground_look();
+import function dirtground_use();
+import function rockyground_look();
+import function ground_look();
+import function ground_use();
+import function boulder_look();
+import function boulder_use();
+import function boulder_talk();
+import function bush_look();
+import function bush_use();
+import function bush_talk();
+import function cloud_look();
+import function mountain_look();
+import function mountain_talk();
+import function tree_look();
+import function tree_use();
+import function tree_talk();
+import function sky_look();
+import function sky_use();
+import function sky_talk();
+import function backforest_look();
+import function flowers_look();
+import function flowers_use(); 
+import function flowers_talk(); 
+import function cliff_look(); 
+import function cliff_use(); 
+import function cliff_talk(); 
