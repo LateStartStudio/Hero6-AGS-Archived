@@ -1,4 +1,6 @@
 Compiled/
+_Debug/
 backup_acsprset.spr
 *.bak
 desktop.ini
+README.MD
