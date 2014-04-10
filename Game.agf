@@ -771,7 +771,7 @@
           </UnloadedRoom>
           <UnloadedRoom>
             <Number>3</Number>
-            <Description />
+            <Description xml:space="preserve">Old Mage Shop</Description>
           </UnloadedRoom>
           <UnloadedRoom>
             <Number>4</Number>
@@ -8937,8 +8937,8 @@
           </InventoryItem>
           <InventoryItem>
             <ID>64</ID>
-            <HotspotX>2</HotspotX>
-            <HotspotY>2</HotspotY>
+            <HotspotX>16</HotspotX>
+            <HotspotY>12</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <CursorImage>564</CursorImage>
             <Image>564</Image>
@@ -19756,8 +19756,8 @@ stop
       </MouseCursor>
       <MouseCursor>
         <ID>5</ID>
-        <HotspotX>8</HotspotX>
-        <HotspotY>8</HotspotY>
+        <HotspotX>0</HotspotX>
+        <HotspotY>0</HotspotY>
         <StandardMode>False</StandardMode>
         <Image>1659</Image>
         <View>0</View>
@@ -19780,8 +19780,8 @@ stop
       </MouseCursor>
       <MouseCursor>
         <ID>7</ID>
-        <HotspotX>8</HotspotX>
-        <HotspotY>8</HotspotY>
+        <HotspotX>0</HotspotX>
+        <HotspotY>0</HotspotY>
         <StandardMode>False</StandardMode>
         <Image>24</Image>
         <View>0</View>
@@ -34242,6 +34242,82 @@ stop
             <Loops>
               <Loop>
                 <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>89</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>90</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>91</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>92</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>93</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>94</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>95</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>96</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>97</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>98</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>1</ID>
                 <RunNextLoop>False</RunNextLoop>
                 <Frames>
                   <ViewFrame>
@@ -54916,30 +54992,6 @@ stop
           <ScriptAndHeader>
             <ScriptAndHeader_Header>
               <Script>
-                <FileName>Particle.ash</FileName>
-                <Name>Akumayo's Particle Engine</Name>
-                <Description>This update features an option to run the emmision continuously, resulting in an easier interface.</Description>
-                <Author>Akumayo</Author>
-                <Version>1.5</Version>
-                <Key>-1820509302</Key>
-                <IsHeader>True</IsHeader>
-              </Script>
-            </ScriptAndHeader_Header>
-            <ScriptAndHeader_Script>
-              <Script>
-                <FileName>Particle.asc</FileName>
-                <Name>Akumayo's Particle Engine</Name>
-                <Description>This update features an option to run the emmision continuously, resulting in an easier interface.</Description>
-                <Author>Akumayo</Author>
-                <Version>1.5</Version>
-                <Key>-1820509302</Key>
-                <IsHeader>False</IsHeader>
-              </Script>
-            </ScriptAndHeader_Script>
-          </ScriptAndHeader>
-          <ScriptAndHeader>
-            <ScriptAndHeader_Header>
-              <Script>
                 <FileName>Gamedata.ash</FileName>
                 <Name>GameData</Name>
                 <Description />
@@ -55053,6 +55105,30 @@ stop
                 <Author />
                 <Version>1.0</Version>
                 <Key>2049511446</Key>
+                <IsHeader>False</IsHeader>
+              </Script>
+            </ScriptAndHeader_Script>
+          </ScriptAndHeader>
+          <ScriptAndHeader>
+            <ScriptAndHeader_Header>
+              <Script>
+                <FileName>Particle.ash</FileName>
+                <Name>Akumayo's Particle Engine</Name>
+                <Description>This update features an option to run the emmision continuously, resulting in an easier interface.</Description>
+                <Author>Akumayo</Author>
+                <Version>1.5</Version>
+                <Key>-1820509302</Key>
+                <IsHeader>True</IsHeader>
+              </Script>
+            </ScriptAndHeader_Header>
+            <ScriptAndHeader_Script>
+              <Script>
+                <FileName>Particle.asc</FileName>
+                <Name>Akumayo's Particle Engine</Name>
+                <Description>This update features an option to run the emmision continuously, resulting in an easier interface.</Description>
+                <Author>Akumayo</Author>
+                <Version>1.5</Version>
+                <Key>-1820509302</Key>
                 <IsHeader>False</IsHeader>
               </Script>
             </ScriptAndHeader_Script>
@@ -55544,7 +55620,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-12-13 08:38:08Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-12-13 08:38:10Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music20.ogg</SourceFileName>
@@ -55748,7 +55824,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-29 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-25 23:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.mp3</SourceFileName>
@@ -55760,7 +55836,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-06-01 12:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-29 07:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
@@ -55772,7 +55848,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-15 06:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-12 01:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound12.ogg</SourceFileName>
@@ -55784,7 +55860,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-16 03:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-12 11:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
@@ -55796,7 +55872,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-29 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-25 23:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
@@ -55808,7 +55884,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-29 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-25 23:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
@@ -55820,7 +55896,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-29 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-25 23:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
@@ -55832,7 +55908,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-29 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-25 23:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
@@ -55844,7 +55920,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-29 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-25 23:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
@@ -55856,7 +55932,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-29 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-25 23:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
@@ -55868,7 +55944,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-29 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-25 23:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
@@ -55880,7 +55956,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-29 13:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 08:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Robert Kety\Google Drive\Hero6\Hero6_32bit current\Sound\Scored Points.ogg</SourceFileName>
@@ -55892,7 +55968,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-16 01:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-12 09:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>

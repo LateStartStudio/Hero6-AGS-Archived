@@ -263,6 +263,8 @@ struct Flags {
 		short DlgTethra;
 		short DlgSigurd;
 		short DlgVeran;
+    
+    import function Init();
 };
 
 struct RiddleData {
