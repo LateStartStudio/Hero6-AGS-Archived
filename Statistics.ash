@@ -24,3 +24,5 @@ import function HandleCharacter();
 import function HandleCharacter2();
 
 import function Update_stats();
+import function refreshPoolStats();
+import function setInitialClassStats(short class);

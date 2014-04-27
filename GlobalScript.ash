@@ -78,6 +78,7 @@ import function subStealth_Click();
 import function subLock_Click();
 import function back_Click();
 import function start_Click();
+import function reroll_Click();
 
 /* SubMenuGUI Script Functions - A modularization initiative */
 import function viewCharSheet_Click();
