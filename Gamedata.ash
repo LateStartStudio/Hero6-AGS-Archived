@@ -88,7 +88,7 @@ struct Flags {
 
 		// Generic Flags
 		bool FlanaginnRented;
-		
+		bool UpperLibraryDoorUnlocked;
 		bool VisitedDarkForest;
 		
 		bool VisitedForestFirstTime;
