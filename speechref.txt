@@ -1,0 +1,1479 @@
+// AGS auto-numbered speech lines output. This file was automatically generated.
+cLlewella: &1 Hi there. Feeling hungry?
+cLlewella: &2 I'm Llewella, and this is my food stand. Do you need something, or are you just trying to be charming?
+cLlewella: &3 My food is simple, but filling. My lamb pasties are 3 pennies. 1 penny gets you a loaf of cornbread.
+cLlewella: &4 A serving of berry cobblers is 2 pennies, and a plate of candied fruit goes for 3.
+cLlewella: &5 Albion is a nice town with many fine establishments. It used to be nice, that is. These days there are too many strangers about.
+narrator: &1 She eyes you suspiciously
+cLlewella: &6 There is no peace on the streets, even at night. Once I could send my daughter to read alone in the library and not worry one bit. Now I fear for her safety.
+cLlewella: &7 We have a well-stocked store, a library and an inn all within the city walls. A healer has her shop in a house on this very square, and there is a shop of magic not far from here.
+cLlewella: &8 I don't know what the Duchess was thinking, inviting every vagabond and ne'er-do-well in the land to come here. Yes, there is danger in the woods, but it's nothing our own city guards could not handle!
+cLlewella: &9 I also hear that at least five of these vagabonds have been killed through their pathetic endeavours.
+cLlewella: &10 Adventurers they call themselves. Never did an honest day's work in their life, most of them.
+cLlewella: &11 The woods have never been safe. That is why the town has walls.
+narrator: &2 She pauses, then continues reluctantly.
+cLlewella: &12 Still, of late I've heard of horrors there that go beyond the ordinary. Of Shadow Mages, and other undead creatures long not seen in Albion.
+cLlewella: &13 The city guards are Albion's finest folk. They face danger so that we may remain safe. My husband is a city guard, as is my brother. As was our father before he passed.
+cLlewella: &14 I don't know what the Duke was thinking, inviting every vagabond and ne'er-do-well in the land to come here. Yes, there is danger in the woods, but it's nothing our own city guards could not handle!
+cLlewella: &15 I also hear that at least five of them have been killed.
+cThaen: &1 Hey kid! What brings ya here?
+cThaen: &2 Call me Thaen. Or Sheriff. Or Sheriff Thaen. After all, that's what I am around here.
+cThaen: &3 Albion's full of shops and things to do. Keep yourself busy kid. It'll save ya a lot of trouble.
+cThaen: &4 Oh, the guild? Hywel and Veran run it.  They do a good job, I suppose; Don't really visit them much.
+cThaen: &5 Head on over if you're really into the whole adventuring thing.
+cThaen: &6 The FlanagInn is a roof over your head. You can buy food or drink. It's a nice and cozy place for travelers and even townsfolk.
+cThaen: &7 Belenus comes from some distant place, but that doesn't matter. He's a fine healer and that's all that's important.
+cThaen: &8 I'm not sure what exactly goes into his potions; and I'm sure I don't wanna know either but they seem to work.
+cThaen: &9 At any rate he's most certainly not a fraud like most medicine men.
+cThaen: &10 It's where you read books, ya nitwit.
+cThaen: &11 And you're supposed to be an adventurer. Kid doesn't even know what a library's for!
+cThaen: &12 Fernin the magic user runs it. I don't trust him. I don't trust any magic user, for that matter.
+cThaen: &13 Ron Bars runs it. He's a big fellow. If you're smart you won't mess with him.
+cThaen: &14 Dangerous. Very dangerous. Don't venture far past the town if you like being alive.
+cThaen: &15 There's not many places to sleep with both eyes closed. The monsters'll rip ya to pieces, and we wouldn't want that, would we kid?
+cThaen: &16 I've heard there's a magical pool out there. I've never seen it, but then again I never leave the town. It's rumored it's safe to sleep soundly around there.
+cThaen: &17 That's where dead people live.
+cThaen: &18 There're lots of 'em. Some gang up on ya, others prefer one-to-one battles. Watch out, cause all of 'em are fearsome things.
+cThaen: &19 We don't talk 'bout 'em.
+cThaen: &20 They like to gang up on you in the night. As many as four of the buggers'll will surround you, and then you're dead.
+cThaen: &21 Ugly human imitations. They've got repulsive scrunched pink faces. They like to steal from ya even as ya fight 'em.
+cThaen: &22 If you wanna see what one looks like, I've got a mirror somewhere.
+cThaen: &23 Spindly little things. Mutated gnomes, I s'pose.
+cThaen: &24 I'm tired. I've gotta watch the city, and the people, and make sure everything's running smoothly. It's not as easy as it sounds nowadays.
+cThaen: &25 The Duke, Thorn Conrad, was responsible for keeping order around.
+cThaen: &26 Ever since he disappeared, everything changed around here.
+cThaen: &27 There's been much disorder in Albion, and I had to station many guards just to keep the peace.
+cThaen: &28 Colleen, his daughter, has been forced to take over leadership and I don't feel she is truly up to it.
+cThaen: &29 It's only a matter of time before even she will lose control and that'll be the end of Albion's peace, I can tell you as much.
+narrator: &3 You begin to question the last known location of the Duke's whereabouts.
+cThaen: &30 So you plan to do some detective work, huh?
+cThaen: &31 I guess there's no harm in telling you, since our investigations have yielded nothing so far.
+cThaen: &32 Three months ago, the duke received reports about suspicious activity near the tower. He set off with ten of his best men to investigate.
+cThaen: &33 As they approached the dark forest, they were ambushed by a group of shadow mages. Our men were separated from the Duke.
+cThaen: &34 We tried to search for him, but it was always the same result with every search party, empty handed and several injured guards.
+cThaen: &35 Eventually we had to accept that the worse had happened, so we held a funeral.
+cThaen: &36 Colleen still believes that he's alive, and since the guards couldn't deal with finding him AND protecting the town, she sent out a call for adventurers.
+cThaen: &37 I don't know where my brother went, nor why, but I'd wager that it had something to do with that tower.
+cThaen: &38 Colleen's been taking it rather hard. She's a good woman, mind you, but can she govern a town under all that strain?
+cThaen: &39 I hope for her sake that she can, but hope has been stretched too thin and too far these days.
+cThaen: &40 So you want to play the hero, huh? Good luck with that.
+cThaen: &41 Five adventurers have come before you and none of them succeeded. I hardly think it'll be any different for you.
+cThaen: &42 Still, I suppose there's no harm in trying.
+cThaen: &43 I don't have much to aid you with since our search parties found nothing, but I can tell you this; the duke disappeared shortly after heading towards the tower.
+cThaen: &44 That sounds suspicious enough to warrant a search in that area.
+cThaen: &45 My men say there's a stone man that lurks in the caves. It is believed to be a blood-thirsty giant with limbs the size of tree trunks.
+cThaen: &46 While they've been known to exaggerate at times, I've seen the wounds they received from that creature, and they don't look pretty.
+cThaen: &47 Why'd you ask?
+narrator: &4 You tell the sheriff of your encounter with the sidhe, and who he told you to seek.
+cThaen: &48 Find the stone man? Do you have a death wish?
+cThaen: &49 If you think it's worth following up, by all means go ahead. Just watch your back.
+narrator: &5 You tell the sheriff about the golem letting the Duke enter the caves.
+cThaen: &50 Thorn's been hiding in the caves all this time?! Is he still alive? Why didn't you get him out?
+narrator: &6 You tell him that the golem cannot let you explore the caves until you give him a name.
+cThaen: &51 A name?! What the... Of all the things to ask for! Can't you just call him Bob or something?
+narrator: &7 You reply in the negative, explaining that the golem wants a Reman name. Thaen sighs.
+cThaen: &52 Veran might be able to help you there, as he's familiar with Reman lore. You can find him in the Adventurers' Guild.
+cThaen: &53 Try not to get yourself killed.
+cHywell: &1 There are a few others looking for adventure in the valley. They stop in from time to time.
+cHywell: &2 Hmph! What most people call adventure, real adventurers call danger. I'd rather have roasted boar and cold ale at the tavern than cold venison and wounds to nurse by the trail on some lonely quest. Still, a good fight gets the blood flowing!
+cHywell: &3 The valley of Albion is mostly mountain slopes and forest, though there is a small hamlet and a few farms outside of the city.
+cHywell: &4 The mountains look nice but travel can be treacherous, especially at night.
+cHywell: &5 The forest is large and full of lessons for the adventurous. But be cautious when travelling by yourself, and don't go out at night.
+cHywell: &6 Albion is a great place. It used to be peaceful but things have gotten pretty troubled since the rogues and monsters showed up. With their attacks increasing and becoming more brazen, it's no wonder the Duchess sent out a call for heroes.
+cHywell: &7 Duchess Colleen is a worthy woman, but the monsters have become too numerous for her forces. They morale has also taken a blow ever since the Duke disappeared. She sent a call for heroes to prevent losing more guards.
+cHywell: &8 The guards used to come here to train. Now there are fewer of them and they mostly rest when they aren't fighting the rogues or shadow mages.
+cHywell: &9 There are a few places to practice your skills. Here you can spar with the other aspiring heroes. There is a target for archery over by the castle.
+cHywell: &10 Weapons? Keep 'em clean and sharp. It's nice to have a shiny new piece of steel, but it's not the weapon that makes the warrior. My trusty warhammer is hundreds of years old.
+cHywell: &11 Glad you like it. That warhammer has saved my life hundreds of times. Of course, it didn't make such a good impression on the orcs that caught it.
+narrator: &8 Hywel pats his battered warhammer.
+cHywell: &12 Hmph! Magic is a very dangerous thing to get mixed up in. There are also rumors of some nutcase wizard roaming the valley. You'd best ask Fernin if you want to know about magic.
+cHywell: &13 He runs the magic shop near the front gate, but he's mostly harmless.
+cHywell: &14 Hmph!
+cHywell: &15 There are many monsters roaming this valley. Your eyes would provide a far better description than anything I could say about them.
+cHywell: &16 Hmph... Yes, mooses are dangerous!
+cHywell: &17 Don't go into a fight if you're not ready for it!
+cHywell: &18 The duke disappeared about a few weeks ago. No one knows where he is or if he's even alive. There's a reward to anyone who can help find out what happened to him. You should check out the job board for more information..
+cVeran: &1 I like to think of myself as a guiding hand of sorts for the novices.
+cVeran: &2 I do embark on the occasional adventure myself, but guild work has kept me too occupied for full-fledged questing.
+cVeran: &3 At any rate, it's better than seafaring.
+cVeran: &4 There are enough prospective heroes here to make a small army, but most care more for bragging than real heroism.
+cVeran: &5 The Adventurer's Guild is a noble institution. In suspicious climes, it may be your only safe haven.
+cVeran: &6 My task as Guildmaster's Assistant is to help adventurers in any way that I can. And, if I may say so, you seem to be in need of both practice and help.
+narrator: &9 Veran grins and leans over, half-whispering.
+cVeran: &7 Mysterious places, strange creatures, room to explore. An adventurer's Elysium!
+narrator: &10 Veran resumes his pensive demeanour.
+cVeran: &8 A paradise for us, if not, alas, for its unhappy citizens. Do be careful when walking these forests full of monsters, and dark beings, and rogues.
+cVeran: &9 Before I met Hywel, who, in his own inimitable way, put me on the straight and narrow, I was a bit of a rogue.
+cHywell: &19 A Northern raider. A pirate.
+cVeran: &10 A swashbuckler.
+cHywell: &20 Pirate.
+cVeran: &11 This has long been a point of contention, actually.
+cVeran: &12 Heroism is not a matter of telling tales or collecting magic trinkets. To be a hero is to stand against wickedness, and show others they can do the same.
+cHywell: &21 Don't knock the trinkets, Veran.
+cVeran: &13 I suppose we can have the trinkets.
+cVeran: &14 Well, as it's my job to help you keep your feet firmly planted on this mortal coil, I'm willing to spar with you at any time.
+cVeran: &15 Care to practice now?
+cVeran: &16 Oh wait! Delta ain't implemented it yet. Lazy bugger!
+cVeran: &17 A guildmaster's occupation may look simple and, almost all of the time, it is.
+cHywell: &22 But it's the 'almost' that gets you.
+cVeran: &18 We do adventure now and then, but as a guildmaster only attains the post after years of service, Hywel has no need to prove himself.
+cHywell: &23 Enough, Veran. You're makin' me sound like a relic. I got a few more decades in me, I say.
+cVeran: &19 I assist him gladly.
+cVeran: &20 I could list a few, but I'd rather you discovered them for yourself. They are not always obvious; the wise read strange mysteries in a circle of flowers, or in the scratchings on a cave wall.
+cVeran: &21 This is a legend-haunted land. It seems that every ancient hero or villain has left some imprint to mark his passage. Certainly, the ancient races of the valley did.
+cVeran: &22 Swarms of monsters infest our valley, with the shadow mages, hobgoblins, and boggles most prominent among their kind.
+cVeran: &23 Ghostly cats, spectral mages, and the occasional ghost. They hate light and flame, I am told.
+cVeran: &24 Should you ever encounter a specter you cannot defeat, look for its grave. Some will vanish if you destroy the monument that marks their burial mound.
+cVeran: &25 They're far tougher than they appear. You may be able to defeat a single weak rogue, but you'd be wise to avoid groups.
+cVeran: &26 In every land some tell of a golden age, of a paradise departed. And for some, it seems, this age never ended. Supposedly, these hidden races dwell in the clandestine places of this very valley.
+cVeran: &27 Few humans speak of having met them, and most, I suspect, lie. The rest speak either of terrible dangers and horrors, or of poor hospitality and worse food.
+cVeran: &28 Creatures of dark magic. They were once men but corrupted in their thirst for power.
+cVeran: &29 Really, I would avoid the shadow mages for now. They are too powerful for a novice.
+cVeran: &30 Weak creatures who wouldn't dare challenge an adventurer alone.
+cVeran: &31 Little monsters that pack a nasty punch. Try not to underestimate them.
+narrator: &11 You tell Veran about the golem you met in the Reman cave.
+cVeran: &32 So it wants a reman name. Well, from what I know, freed Reman slaves had compound names in three parts: a praenomen, a nomen, and a cognomen.
+cVeran: &33 The praenomen and nomen would be the name of the slave's former master. That shouldn't be too difficult to find out.
+cVeran: &34 The cognomen, however, would be the slave's old name... and the golem doesn't have one. Hmm... this is tricky.
+narrator: &12 Veran frowns as he strokes his chin thoughtfully. After a moment's pause, he snaps his fingers.
+cVeran: &35 I've got it! The golem could use an honorific cognomen... but only if he accomplishes something that raises his esteem in the eyes of the public.
+cVeran: &36 In other words, he would have to slay a drake for the public good to be named, in Reman, Drakeslayer. But he can't leave his place, can he?
+cVeran: &37 Perhaps you should talk to the townspeople, see if they can find a worthy task for the golem.
+cVeran: &38 Let me get you a list of common Reman compound names.
+narrator: &13 Veran gets up and retrieves a piece of paper from the drawer. He then hands it to you.
+cVeran: &39 In order to name the golem, you'll need a praenomen, a nomen, and a cognomen.
+cVeran: &40 The praenomen and nomen would be the name of the slave's former master.
+cVeran: &41 Since the golem doesn't have a name, he'll have to use an honorific cognomen... but only if he accomplishes something that raises his esteem in the eyes of the public.
+cVeran: &42 Goodbye. I hope you will survive long enough to spar with me someday.
+cColin: &1 Welcome, laddie, to me inn.
+cColin: &2 Me an me wife, uh.. Br... uh...
+cBriana: &1 Briana!
+cColin: &3 O' course!  Briana.  An a lovely wife she is.  Anyhow, we settled here after me little accident.
+cBriana: &2 Little my foot!
+cColin: &4 It's a wonderful place, wi' children playin' in the crops, an' leprechauns dancin'...
+cBriana: &3 No it ain't, not since the troubles started!
+cColin: &5 I be Colin Flanagan.  Beyond this here door, my wife resides.
+cColin: &6 We got the regular room, and the deluxe.  They both 'ave all the amenities, sponge bath, bed an' chamber pot.
+cColin: &7 Course, the bed in the regular room is rock solid an' uncomfortable.  It costs 10 quid less, tho'.
+cBriana: &4 We don't even use quid!  It costs eight pennies for the regular and twelve pennies for the deluxe.
+cColin: &8 I just remembered... it's eight pennies for the regular, an' twelve pennies for the deluxe.
+cColin: &9 Err. . .come again.
+cColin: &10 Well, one day I was walki...
+cBriana: &5 Quiet!  We shouldn't bore visitors with details like this!
+cColin: &11 'Course... silly daft fool I am.  It 'asn't been nice since the troubles started.
+cColin: &12 What troubles?
+cBriana: &6 The troubles in the valley!
+cColin: &13 Oh, that. The crops are bein' trampled an' stuff...
+cColin: &14 Oh, the leprechauns are wonderful bairns wit 'their wee little eyes, wee little noses, wee little feet an' wee little hands...
+cBriana: &7 Yes... all the better to rob you with.
+cBriana: &8 Don't even bother... not when 'e gets like this.
+cColin: &15 She's a wonderful woman... kind an' gentle...
+cBriana: &9 No I ain't, I'm nasty.  It's alright, tho', 'e 'asn't been quite right since the 'accident.'
+cGreenleaf: &1 I'm Greenleaf. I protect the forest and its inhabitants.
+cGreenleaf: &2 I am well.
+cGreenleaf: &3 This garden is protected by strong magical enchantments. You're safe here.
+cGreenleaf: &4 There's a shameful secret there. Ask no more of it.
+cGreenleaf: &5 The valley is no longer safe. I sense a terrible evil slowly but surely corrupting the land. It would take a true hero to save it.
+cGreenleaf: &6 Apart from this garden, there's Helmsdale and the dark forest. What would you like to know about them?
+cGreenleaf: &7 I'm sorry, but I do not know much about that area; only that it was already cursed before I came to live here.
+cGreenleaf: &8 I'm glad I was able to rescue you from those shadow mages. You need to be more careful next time.
+cGreenleaf: &9 Where did you hear that name?
+narrator: &14 You tell her what the woman in your dream said.
+cGreenleaf: &10 What's past is past.
+cGreenleaf: &11 May the sun shine upon you always.
+cBelenus: &1 I am called Belenus.
+cBelenus: &2 I serve this town as a healer and alchemist.  Business has been picking up of late due to the increased attacks by monsters and bandits.
+cBelenus: &3 While I am glad of the extra patronage, I do not like the fact that I am making a living off the suffering of this valley.
+cBelenus: &4 I sell many potions and pills. What would you like to know about?
+cBelenus: &5 We have fallen on hard times in Albion Valley. The rogues are attacking the caravans and farmers, and more monsters than ever stalk the forests.
+cBelenus: &6 There will be much bloodshed before evil is cleansed from this valley.
+cBelenus: &7 Albion is a pleasant town to live in.
+cBelenus: &8 There is an Inn down the street and the Smithy works near the stables, and, of course, my own humble store is here.
+cBelenus: &9 The Inn is an interesting place to spend the night.  However, with the rogues prowling the streets at night, the keepers have understandably become less trusting of newcomers.
+cBelenus: &10 Ron Bars is a truly irritating man. Even if he is severely wounded, he will not come in for healing.
+cBelenus: &11 I have heard them prowl the streets at night, though they do not attempt to rob me, the bandits are too frightened of my 'magic' to enter my shop, most of the time.
+cBelenus: &12 I have heard that many adventurers such as yourself have flooded the valley, questing for wealth and glory.  At the rate things are going they shall make me a rich man in no time.
+cBelenus: &13 The healing potions I brew will make torn flesh meld together faster, and bruises fade in moments.  I will sell them to you for the small price of 22 silver pieces per potion.
+cBelenus: &14 These elixirs will focus and recharge the mana energy within a person, for those who dabble in magic.  They cost 45 silver each.
+cBelenus: &15 They will bring you to full alertness faster than a cup of the strongest Raseirian coffee, and relieve fatigue better than an hour of rest.  They will cost you just 13 silver pieces each.
+cBelenus: &16 What would you like to buy?
+cBelenus: &17 If you ever need healing, you know where I am.
+cRowena: &1 This is Albion's sole library.  The Duke's family started it sev'ral yars ago with the basic parpose o' keepin' records and accounts o' the valley's hist'ry.
+cRowena: &2 Julian's muy aulder brudder.  He always warries too much about me.
+narrator: &15 She winks at you again.
+cJulian: &1 Oh! I do not!
+cRowena: &3 Albion is a wondarful city!  The band at the inn is just marvelous. Also, don't miss Belenus, the healer. He is a very intarestin' parson ta talk with.
+cRowena: &4 I don't know about those wizards. Although Fernin seems really strange, and that evil man Marvin us up ta no-good, I just know it!
+cRowena: &5 Most o' these books have bin copied by hand. A lot o' them are just boring records about castle suppluys and such, but we do have a few books on myths and fairies and the like.
+cRowena: &6 Belenus is a strange one, but he's been really helpful. All yee advent'rers would be in one hell o' a fix if he wasn't 'round, too.
+cRowena: &7 He's the cause o' our problems!  Farst, he hired those rogues ta come attack anyone who steps foot in the forest, then he summoned all sorts o' nasties with his magics!  I hope someone can fuynd where he's hiding, and put an end ta this!
+cRowena: &8 Evidence? Dun need none! He's a wizard, admits it 'imself!
+cRowena: &9 I've only talked to him once.  I don't luyk wizards who truy ta act all mysterious luyk that. It means they're truyin' ta hide somethin'.
+cRowena: &10 Sorry, I've never seen d'ese before so I don't know what they are. We've about fiftyish books about symbols. which would you like?
+narrator: &16 Perhaps you should find some other way of identifying the symbols first. Fifty books is a lot.
+narrator: &17 You ask her about the Reman Symbolism that Colleen told you about
+cRowena: &11 Aye, we do have a book abut dem Reman symbuls. I must say, ya da first person to ask abut it.
+cRowena: &12 The book can be found on da second shelf in the History section. Tis a thick green book called 'Reman Symbolism' or sumthin luyk that.
+cRowena: &13 Take care. And drop buy again. Parhaps we can...read somethin' togethar, eh?
+narrator: &18 She smiles and winks at you as you turn away, or perhaps she just got something in her eye...
+cJulian: &2 Welcome ta Albion's one and only library. Feel free ta look 'round and read.
+cJulian: &3 Our parents helped get this library built while Duke Conrad's father was aluyv.  We've bin keepin' things organuyzed here all o' our luyvs.  I deu most o' the copyin'.
+cJulian: &4 She's my little sister.  I think she tries ta druyv me crazy, always goin' off ta the castle and not tellin no one.
+narrator: &19 From the corner of your eye, you catch Rowena as she sticks her tongue out towards Julian.
+cJulian: &5 This is a wondarful city.  Our Duke was a great leader, and his guards are well trained ta keep us safe, insuyd the walls atleast.
+cJulian: &6 But things ain't been so great lately since our Duke disappeared abut ta month ago.
+cJulian: &7 Most people say he wus killed. Though I try not ta dwell on such speculation.
+cJulian: &8 Duke Conrad's guards are vary well trained in the use o' puyks and spears.
+cJulian: &9 But now, after the monsters been through wit dem, the Duke's small force is just not enough to withstand the evil that roams the forest
+narrator: &20 You ask Julian about the Reman Symbolism that Colleen told you about
+cJulian: &10 Aye, we do have a book abut dem Reman symbuls. I must say, ya da first person to ask abut it.
+cJulian: &11 The book can be found on da second shelf. Tis a thick green book called 'Reman Symbolism' or sumthin luyk that.
+cJulian: &12 Copyin' books is hard.  Yee have ta be able ta wruyt vary clearly and without drippin' any extra ink onta the page. I would even say it takes a callin'.
+narrator: &21 Julian holds up his hands, they are remarkably clean. He must be rather good at it.
+cJulian: &13 Have a nuyce day, advent'rer.
+cThaen: &54 What's this?
+narrator: &22 The sheriff examines the sword.
+cThaen: &55 Why, I believe that's the Duke's sword! Where did you find it?
+narrator: &23 You tell the sheriff about the caves.
+cThaen: &56 I'll bet that the Duchess would want to hear about this. Wait a moment.
+narrator: &24 The sheriff grabs a quill and paper, and then begins to scribble a note.
+cThaen: &57 Here. Show this to the guard at the castle gates. He'll let you pass. And be courteous towards Colleen.  She's 'ad it rough.
+cThaen: &58 Oh, and here's ya five gold. Now get moving.
+cColleen: &1 I'm Duchess Colleen Conrad. You may address me as "Duchess Conrad".
+cColleen: &2 My father was...I mean, is Duke Thorn Conrad. He's a great man and a loving father, and it grieves me that he is still missing after all these weeks.
+cColleen: &3 He left about three months ago. I just don't get it. Why hasn't he returned?
+cColleen: &4 I know many think he's dead, but I know he's out there somewhere, alive. I just wish he would come back.
+cColleen: &5 Thank you. I pray that you'll succeed.
+cColleen: &6 The sword you carry can only be wielded by a Paladin. My father is not only a Duke, he's also a Paladin.
+cColleen: &7 It worries me that he was parted from his sword.
+cColleen: &8 A paladin is a champion of good. Only a hero with a pure heart could become one.
+cColleen: &9 I don't recall my father ever mentioning the caves at all, so why did he go there?
+cColleen: &10 I'm still trying to make sense of it.
+cColleen: &11 I can't help you much there as I don't know much about symbols. Perhaps the library might yield more information.
+cColleen: &12 We Conrads are descendents of the Remans. Unlike my father however, I didn't pay much attention to its lore or symbolism.
+cColleen: &13 I wish I did.
+cColleen: &14 Has Thaen been giving you a hard time? I should hope not. He does tend to be a little hard on strangers, but I suppose he meant well.
+narrator: &25 You tell Colleen that the golem believes the duke knew what the symbols meant.
+narrator: &26 You ask if she knows what Remans would likely value.
+cColleen: &15 My father never told me about the symbols. I know little about Reman lore. All I recall him mentioning is this proverb.
+cColleen: &16 "May you find your virtue in strength, honor and duty." I'm not sure if that helped at all.
+cColleen: &17 May you find your virtue in Strength, Honor and Duty. It's a Reman proverb that my father used to say to me.
+cColleen: &18 He told me they were the key to finding one's way.
+cColleen: &19 Please let me know if you discover any new developments. You are dismissed.
+cThaen: &59 Well, well, look who showed up. Found anything new?
+cThaen: &60 I'm tired. I gotta watch the city and the people, and make sure everything's running smoothly...
+cThaen: &61 So you found a bunch of symbols? Can't help ya there, kid. I'm no expert on cave drawings.
+cThaen: &62 Still no sign of 'im. Why would 'e rush off to that cave? It's almost as if... but that's just ridiculous! What could be in there worth guarding anyway?
+cThaen: &63 Whatever you said to her that day lifted her spirits, I'll tell ya that. But it won't last, not until the Duke's been found, or whatever's left of him.
+cColleen: &20 I'm fine, thanks for your concern.
+cColleen: &21 It hasn't been easy tending to Albion's problems but I'll manage it...somehow.
+cColleen: &22 My father is still missing. I hope he's not in danger.
+cColleen: &23 He left about three months ago. I heard it was right after hearing a scout's report. I just don't get it. Why hasn't he returned?
+cColleen: &24 What could have been so important that he would seemingly abandon his kingdom and disappear without a trace?
+cColleen: &25 Most importantly, what was his sword doing in those caves?
+cColleen: &26 May you find your virtue in strength, honor and duty. I'm not sure if that helped at all.
+cColleen: &27 May you find your virtue in strength, honor and duty. It's a Reman proverb that my father used to say to me.
+cBelenus: &18 I have taken some time to examine the Duke's condition more closely. Thanks to your efforts, I was able to save his life for now, but his condition is still getting worse.
+cBelenus: &19 There are some foul-smelling wounds on his body; the like of which I've never seen before. I dread to imagine what sort of creature did this to him, though I do know that it must be magical in nature.
+cBelenus: &20 And that foolish Niall thinks that hunting Marvin down will fix that, but I doubt he'll get anywhere. A crusade against a wizard of questionable guilt will not be the savior of this dying man.
+cBelenus: &21 Anyway, as I've told you before, only the Lamburu can save him or he will surely die. It's a very rare but powerful herb, and it used to grow in Helmsdale, so that's the best place to start looking for it.
+cBelenus: &22 Unfortunately, Helmsdale is located in the ill fabled Dark Forest, and no one has been able to enter it in years.
+cBelenus: &23 Given how you managed to find the Duke when none thought possible, you may be the best man for this job.
+cBelenus: &24 Would you accept this task?
+narrator: &27 You nod your approval.
+cBelenus: &25 I pray for your success.
+cBelenus: &26 Is there anything you'd like to know more about concerning this matter?
+cBelenus: &27 Don't worry about me. There are more pressing matters at hand.
+cBelenus: &28 He's resting now. Those wounds of his are only going to worsen over time unless we act quickly.
+cBelenus: &29 Whoever attacked the Duke is still out there. It would be wise of you to be careful when you venture outside of Albion.
+cBelenus: &30 Finding out who attacked the Duke will not be an easy task. However, there are three clues that can help narrow the search:
+cBelenus: &31 One, the attacker is most likely a magical creature. Two, given that I've never seen these wounds before, this creature is probably not native to Albion, or this world, for that matter.
+cBelenus: &32 Your best bet would be to investigate all magical locations for unusual activity; such creatures are usually drawn to power.
+cBelenus: &33 Fernin might be able to tell you more about them, as he's the magic counselor.
+cBelenus: &34 Helmsdale is a ghost town. People here don't like talking about it because it used to be their town before the war, and they don't like being reminded of it.
+cBelenus: &35 Some say that it's haunted, and that strange apparitions are seen there at night.
+cBelenus: &36 It's also the place where Lamburu used to grow plentifully. They might still be there.
+cBelenus: &37 Fernin is a smart man.  I assume he has his own theories about who, or what, could have attacked the duke.
+cBelenus: &38 Duchess Colleen's taking it hard right now. I've never seen her like this.
+cBelenus: &39 The dark forest is impenetrable due to its powerful magical wards. If you are ever going to get into Helmsdale, you'll need to find a way around the wards protecting the Dark Forest.
+cFernin: &1 Ain't got nothing to say right now
+cFlasamus: &1 What he really means is that there is no placeholder dialog available for us in this chapter
+cFlasamus: &2 Its a hard life being an NPC I tell you.
+cFernin: &2 You can say that again.
+cFernin: &3 Hmphf, Go away. Come back when you've completed the 'Finding the Duke' quest
+cFernin: &4 I am well. The recent events, however, are troubling.
+cFernin: &5 Although our duke has returned, the valley is still in turmoil. Monsters roam the valley and people are losing faith.
+cFernin: &6 You witnessed yourself how Niall attempted to rally an army to hunt down Marvin.
+cFernin: &7 Although these times do not provide the luxury to turn down help, I'm afraid Niall's temper will lead to destructive actions that damage rather than help us.
+cFernin: &8 Niall is too firm a believer of muscular solutions.
+cFernin: &9 The obvious villain is often not the true danger and our current problems may be too complicated for a straight forward approach.
+cFernin: &10 I know people suspect Marvin, mind you. Based on my old friendship with Marvin, I can not believe he is the person behind the recent events.
+cFernin: &11 People are always quick to point their finger towards anyone who stands out in the crowd. Being able to use magic can be a dangerous thing, you know.
+cFlasamus: &3 Tell him about the blood seal
+cFernin: &12 Ah yes of course. Few know this but Marvin does not bear the dark seal of power.
+cFernin: &13 The symbol is a simple oval with four distinct horns representing the four elements.
+cFlasamus: &4 Many sorcerers liked that symbol. They were all bad.
+cFernin: &14 Indeed. The symbol is a seal of blood from whom they dare not speak of. Yet even the presence of this blood holds a connection to his evil power that still plagues our land.
+cFernin: &15 If you ever see such a blood seal, you know the power of evil is at hand, and you must find a way to destroy the seal, thus extinguishing any evil energy nearby.
+cFernin: &16 There are many ways to destroy these seals, the question is whether you are able to do so before you are taken by the evil power.
+cFernin: &17 Even looking at that cursed image gives me chills.
+cFernin: &18 Even though we had our differences in the past, I know Thorn Conrad to be an honorable man and an able ruler.
+cFernin: &19 Our people are in need of him in these dire times and I do hope he recoups his strength soon.
+narrator: &28 You tell Fernin of Belenus' attempt to heal Thorn Conrad and his suspicions about the dark magical creatures that attacked the duke.
+cFernin: &20 Hmmm.. Belenus' suspicions might very well be true. If these creatures originated from this valley I would surmise they are linked to a powerful magical source.
+cFernin: &21 Aside from the cursed hamlet, you might want to check out the dark forest.
+cFernin: &22 Lastly, I have heard rumors about a woman living in the woods south of this city.  She is said to be magically attuned to the forest.
+cFernin: &23 It is a small settlement that was destroyed during a previous war in this valley. The ghosts that now dwell the houses make it an unattractive site for creatures of flesh and bone such as you and I.
+cFernin: &24 Although I have never been there myself, I have heard stories from local townsmen and adventurers such as you.
+cFernin: &25 A strange darkness seems to cloud the sight of any visitors and abysmal sounds are heard in the proximity of the forest.
+cFernin: &26 Like I said, all that I know of this woman is based on gossip. I enjoy my privacy as the next man, but she seems to avoid any contact with other humans.
+cFernin: &27 You are well advised to proceed with caution. Any creature that is able to overcome our Duke's fighting abilities is likely to be an uneven match for your physical prowess.
+cFernin: &28 Be careful, young man.
+cRonbars: &1 Yes, I am Ron Bars, fighter and blacksmith.
+cRonbars: &2 I was always strong, adventurer. My muscles were never pale and lax like yours are. The fighter's path appeared perfect when I was young.
+cRonbars: &3 Young and foolish, I say now. The years I spent swinging hammers, swords and whatever else I happened across are a waste, I say.
+cRonbars: &4 I learned the blacksmith's trade quite late in my life, but I rather like it. It is a rewarding profession. I used to spend most of my time making horse-hooves and nails.
+cRonbars: &5 Now, there's weapons and armor too, there's all you adventurers to be equipped. If I didn't hate the rogues so much, I'd wish they stayed around longer. My weapons fetch good gold these days.
+cRonbars: &6 There are only two ways a fighter's destiny can turn out. He either dies or sees his friends die.
+cRonbars: &7 First tip, if you see a monster, run away. If you can't or won't do that and find yourself fighting a battle, you just make the best of it. An inept weakling will always die.
+cRonbars: &8 Therefore, you have to train yourself. Build your strength and stamina while practicing the four basic warrior's skills: dodging, parrying, attacking and blocking.
+cRonbars: &9 There are many enemies in Albion these days. Why, they sometimes appear at our gates now.
+cRonbars: &10 From the looks of you, you should run away from anything bigger than a drake or a hobgoblin.
+cRonbars: &11 Perhaps a weak rogue wouldn't be beyond you either, but be careful. No matter how much I hate them, I have to admit some of them know how to fight.
+cRonbars: &12 The essence of dodge is speed. If you are not masterful at using a shield or buckler, never wait for the attacker's blow to land. Be elsewhere when it strikes.
+cRonbars: &13 Timing and confident stance are the two main components of evasive ability. Both may be learned only though hours of long, hard work.
+cRonbars: &14 The gist of parrying is not, as many believe, the ability to hold back the enemy's attack with your sword by sheer strength of muscle. When parrying, you must always seek to attack while your enemy is in an overextended position.
+cRonbars: &15 Never block a weapon head on. Let it slide along the blade of your sword so that you don't waste your strength and can follow through with a counterattack.
+cRonbars: &16 A masterful attacker can win a battle with the first strike. He must never bother with dodging, blocking or parrying.
+cRonbars: &17 In an attack, aim and speed are of equal importance. You must, of course, aim at an area of the opponent's body that is not protected by shield or buckler or armor.
+cRonbars: &18 Remember, however, that every opening may be a trap. As your proficiency increases, you will grow more adept at landing your strikes exactly where you mean to.
+cRonbars: &19 Then, a single-strike victory will no longer be anything to be surprised about, whether it be a piercing of the heart or a stab through the brain that you should choose.
+cRonbars: &20 A masterful attacker will attack even a deliberate opening. With superior speed, he will kill the opponent before any trap can be sprung.
+cRonbars: &21 Using a shield to block your opponent's attacks might seem simple. In truth, it is anything but.
+cRonbars: &22 First of all, you must know when to block and when to attack.  A fighter who only defends will surely lose.
+cRonbars: &23 Second, and more important, you must know when and where to block. Only practice can teach you that.
+cRonbars: &24 My goods are the finest in the valley. That is why I have become the castle's smith, though the duke's got a monopoly on this place for the castle soldiers.
+cRonbars: &25 I have meditated in the forest a few times before. You should try it sometime if the valley would ever be safe again.
+cRonbars: &26 A book in the library taught me how. I just sit there, below a tree, and try to empty my mind. It can be an exquisite experience, seeing rain fall on your skin, but not feeling it land.
+cRonbars: &27 It's a very nice place , if you disregard the fact that our Duke's missing and morale is at an all time low.
+cRonbars: &28 I like visiting the library and doing some wrestling with the guys at the tavern. And then there's Belenus and his shop. I sometimes drop by to buy a potion or something small for myself.
+cRonbars: &29 Of course, Albion would be even better if the rogues would stop attacking it. With our portcullis badly damaged, all that's protecting us now are the Duke's men.
+cRonbars: &30 If we can't find the Duke... the men won't fight much longer.
+cRonbars: &31 Well...it's a place you borrow books from. Not much else I can say about it.
+cRonbars: &32 I don't like the ale there, but the company's good, most of the time.
+cRonbars: &33 No one knows what happened to him. Rumor has it that Marvin's behind it.
+cRonbars: &34 The portcullis will have to be replaced or repaired. I'm a strong man, but bending steel bars takes time. Unless you know someone who can do a faster job of it...
+cRonbars: &35 May you return in health, adventurer.
+cRonbars: &36 What would you like to buy?
+cGlith: &1 What would you like?
+cGlith: &2 Pleasure doing business.
+cTethra: &1 I see you've finally made it. I am Marvin's familiar, Tethra.
+cTethra: &2 Marvin is away, but we must speak quickly before he returns.
+cTethra: &3 Marvin is out in the forest trying gather more information about the golems which have appearing there.
+cTethra: &4 Marvin is my dearest friend and master, so it grieves me to say this.
+cTethra: &5 I believe he has been unwittingly raising the undead creatures that are currently plagueing the valley.
+cTethra: &6 Marvin is not a confident man. He knows not his own power, and pours far too much energy into his spells and enchantments. This energy must go somewhere, and I believe that it is leaking into the countryside, raising monsters!
+cTethra: &7 I have told Marvin, but he believes that the undead were created by such a means would not be wantonly destructive. But what if some corrupting sorcery were...
+narrator: &29 Tethra pauses for a moment as if trying to sense something...
+cTethra: &8 My master, he comes now. We must speak later. Meet me at the base of the tower stair in after you're done talking to Marvin.
+cMarvin: &1 Hello there. It's not all that often that I receive visitors. How farest thee today?
+cMarvin: &2 Oh my, I forget my manners again. I am Marvin.
+narrator: &30 You tell Marvin that Fernin sent you here
+cMarvin: &3 Ahh. Excellent. I should like to examine some of that. I'll be off to see him as soon as I can.
+cMarvin: &4 That's me. I guess you knew that. I don't really know what to tell you about myself.
+cMarvin: &5 This is a fine valley.  I moved here not long ago.  The people seem nice enough, and there is a useful magic shop in the city.
+cMarvin: &6 It is strange, however, how much trouble has been stirring here lately.  Are you one of those fabulous 'heroes' the Duke has loudly proclaimed are here to help us?
+narrator: &31 You tell Marvin that you are not much of a hero, but that you are trying to help out in what ways you can.
+cMarvin: &7 Well that is the most sensible thing I have heard coming from one of your kind.  There might be more to you, after all.
+cMarvin: &8 Do you like it?  I decorated this room with my own hands.  Well, rather, with my magic.  I am quite proud of it.
+cMarvin: &9 A wizard is someone who lives for magic, both shaping it and being shaped by it.  You should consider a career change, my friend.
+cMarvin: &10 Magic is the fuel of my life and the life of many wizards.  If you are interested in magic you should probably go to MAGI; I do believe they still accept new members.
+cMarvin: &11 Well, they're specific gestures and incantations that form and shape the powers of magic.  Some can be quite difficult and dangerous.  That is why the talentless should not try to meddle with magic. Those who do may often perish, or worse.
+cMarvin: &12 I can teach you a spell if you would like.  But I do think you'll need to practice your magic a bit before you are ready for it.  Maybe some other time.
+cMarvin: &13 The Magical and Alchemical Guidance Institute?  A place for marvelous study. I never graduated properly though; I felt that there was much more to life than what studies could offer me.
+cMarvin: &14 Two of the most powerful spells are commonly known as Summon Staff and Summon Familiar.  They can be quite useful over long periods of time.
+cMarvin: &15 My familiar is called Tethra.  I summoned him only a few years back, a while before this place became dangerous.
+cMarvin: &16 Oh, he's out and about somewhere.  He likes the forest a lot.  I guess you will meet him eventually. Tethra's quite a character.
+cMarvin: &17 A staff is a useful tool, good for a wizard who is not yet properly initiated into MAGI or someone who isn't highly serious about magic.  I probably should have one too, but I seem to manage well enough without it.
+cMarvin: &18 I don't really know a lot of them.  It would probably be best for you to meet them yourself.
+cMarvin: &19 A friend of mine, Fernin, owns the magic shop.  You might find it useful if you're interested in magic.  He does have a good stock of spells, even if they are of a low level.
+cMarvin: &20 He's my best, and I think only, friend in this valley.  You'd do well to meet him, if you have not done so yet.  There is much he can teach you.
+cMarvin: &21 I did enjoy your visit; feel free to come back anytime.  There is much we could still discuss.
+cTethra: &9 Ah, now that Marvin is gone I may continue...
+cTethra: &10 It is good that you came, I have found a way to stop the golems without harming Marvin. However, I will need your help.
+cTethra: &11 Do you know what an amulet of binding is?
+cTethra: &12 An Amulet of Binding is a container and conduit for magic. Weaker amulets may store simple spells, while powerful forms can suck the magic from a wizard or artifact and transfer it elsewhere.
+cTethra: &13 With your aid, I intend to forge a low-level Amulet of Binding, which I shall disguise as a protective charm and present to Marvin. As long as Marvin wears the amulet, it will divert the excess energy from his spells.
+cTethra: &14 Starved for dark magic, the shadow mages will disintegrate. Only then will I reveal our ruse.
+cTethra: &15 Faced with such evidence, my master must admit that his power spawned these mages. The amulet will return his magic, he will resolve to be more careful, and all will be settled.
+cTethra: &16 Indeed, I suspect he would be grateful for your role in his... enlightenment. A reward would be in order.
+cTethra: &17 The only problem is finding the artifacts to make the amulet: a medallion, a black diamond blade, and a small bit a nullwater.
+cGolem: &1 You go no further. I protect cave.
+narrator: &32 The golem pulls a sword from a fallen skeleton, bends it in a knot, and hands it to you.
+narrator: &33 You stare in shock at the bent sword, then at the golem, and then you hastily remembered not to leave your jaw hanging open.
+narrator: &34 You introduce yourself to the golem and ask for its name. The golem ponders slowly.
+cGolem: &2 Name? I not have name like you. I only servant.
+cGolem: &3 This cave belongs to Remans. I must protect cave, not let anyone enter, like last time.
+cGolem: &4 Remans built cave.
+cGolem: &5 Duke trick me in leaving cave mouth to enter it. Duke now inside somewhere. I not fall for trick again.
+cGolem: &6 Duke injured. I not seen him since that day. Cannot reach him.
+narrator: &35 You ask to be let in to search for the Duke.
+cGolem: &7 I cannot. Not my choice. I only nameless servant with no will.
+narrator: &36 You tell the golem that everyone has a name. Surely he has one too.
+cGolem: &8 Not all. Remans never name me.
+cGolem: &9 You want to give name? No one done that before...
+cGolem: &10 You are kind, but I only want Reman Name.
+narrator: &37 You threaten to force your way in if he doesn't step aside.
+cGolem: &11 You want to be like bent sword?
+narrator: &38 On second thought, brunt force might be a very bad idea.
+narrator: &39 You hurl cruel words at the golem.
+cGolem: &12 Stop. You no like me when I angry.
+narrator: &40 The golem accepts your wise apology.
+cGolem: &13 Me very strong.
+cGolem: &14 I not know about valley. Me stay in cave always.
+cGolem: &15 Goodbye.
+cGolem: &16 Hello adventurer. Me still cannot let you in cave.
+cGolem: &17 I not have name like you. I only servant.
+cGolem: &18 Duke still in caves. I not let anyone else enter it.
+cGolem: &19 My master is Marvin Draiodoir.
+cGlith: &3 Welcome to my humble shop. Feel free to browse around.
+cGlith: &4 I'm Glith. Would you like to make a purchase?
+cGlith: &5 I sell all sorts of practical goods here, even for adventurers such as you! You might be interested in a torch and flint for exploration, or perhaps some rations to fill your stomach while you're out in the forest! Every hero needs rations!
+cGlith: &6 Glith: Ah yes, a torch is very useful for lighting up dark places. Might I suggest you purchase that along with the flint. A torch without a flint is like Laurel without Hardy!
+narrator: &41 You stare at the shopkeeper quizzically.
+cGlith: &7 You don't know them? How could you not know them? Never mind. The gist is that you need both. They're inseparable!
+cGlith: &8 You need this to start a fire. You should get a torch as well if you purchase this.
+cGlith: &9 My rations are very tasty, and they meet all the daily requirements to keep you healthy!
+narrator: &42 Glith mutters something under his breath. You swear it almost sounds like, "...even if they taste like dirt."
+cGlith: &10 I used to have many customers. Things aren't what they used to be now that the rogues have been at Albion's doorstep almost daily.
+cGlith: &11 But I'm sure you'll help us by patronizing our shops! Every little bit helps!
+narrator: &43 You ask Glith whether you could borrow his wagon to transport the gate.
+cGlith: &12 You need a wagon? Sure, you can use it! Just remember to return it after you're done with it.
+cGlith: &13 Pleasure doing business with you! Be sure to come back again!
+cGolem: &20 Hello friend. You find duke yet?
+cGolem: &21 Me like Cosantoir. Thank you.
+narrator: &44 Cosantoir beams at you.
+cGolem: &22 Duke still in caves. I only let you enter.
+cGolem: &23 Duke injured. I still not see him.
+cGolem: &24 Symbols open door. I not know which to press.
+cGolem: &25 Remans know, Duke knows, but they not tell me. Maybe Reman tell you.
+cGolem: &26 Maybe need to know what Reman value most.
+cGolem: &27 I not seen it before. Not know whose sword.
+cGolem: &28 Good luck, friend. Hope you find duke fast.
+cGreenleaf: &12 TODO: The rest of this dialog won't be implemented until the dialog tree is final. I'm sure I ought to say more.
+cNiall: &1 There's good eating on these things.
+cNiall: &2 Yes that's me. What do you want?
+cNiall: &3 They are the ripest of the whole region. And some folk say they help you see light in very dark places. But what other kind of nonsense would you expect from a silly wife's tale?
+cNiall: &4 You want my berry? Finders, keepers, I say. Go get your own.
+cNiall: &5 However... if you want it bad enough, we can play a little game for it. Fancy a bet?
+cNiall: &6 Beat me in mock combat at the Adventurer's Guild and you'll get the fruit. But if I beat you, you have to pay me a gold piece.
+cNiall: &7 Deal?
+cNiall: &8 Get your gold ready, 'cause you'll be paying me once this is over.
+cNiall: &9 Pah! Why am I wasting my time talking to a coward like yourself. I'll be at the Guild Hall if you ever change your mind.
+cNiall: &10 Too scared to face me in combat? And you call yourself a hero?
+narrator: &45 Niall snorts out laughing.
+cNiall: &11 Well, lucky for you, I don't say no to easy money so I'll accept ten gold in exchange for that berry.
+cNiall: &12 Easiest ten gold I've ever made.
+narrator: &46 You can't help but feel that he ripped you off.
+cNiall: &13 Humph. Then you don't get the berry.
+cNiall: &14 Don't try to be a hero kid. We don't need 'em round here.
+cNiall: &15 Back again so soon? You're either very brave or very dense.
+cNiall: &16 Still haven't given up, eh? While you're not much of a challenge, you provide easy gold, and I never say no to that.
+cNiall: &17 Beat me in mock combat and you'll get the fruit. But if I beat you, you have to pay me a gold piece.
+cNiall: &18 Wuss! I'll be here if you ever change your mind.
+cNiall: &19 If you ever want a rematch, you know where to find me.
+cNiall: &20 I like easy money.
+narrator: &47 You don't have enough money for the purchase.
+narrator: &48 Mostly just grass with some dirt in between.
+narrator: &49 You see some ants moving food through the grass. They refuse to share it with you.
+narrator: &50 You look around to make sure there aren't any 'Stay Off The Grass' signs.
+narrator: &51 Grass seems perfectly healthy around these parts.
+narrator: &52 Talking to the grass is useless. It doesn't answer you.
+narrator: &53 It tastes like... grass!
+narrator: &54 No, I'm not putting my mouth there and you can't make me!
+narrator: &55 Grass. It's whats for dinner.
+narrator: &56 No, not really.
+narrator: &57 Grass. The other white meat.
+narrator: &58 You hear a thousand tiny voices screaming from beneath your feet.
+narrator: &59 Your mother wouldn't approve.
+narrator: &60 You take some of the grass and feel it in your palm.
+narrator: &61 The grass feels as it should.
+narrator: &62 The grass presents a gloomier outlook in the dark forest.
+narrator: &63 The grass was definitely greener on the other side of the forest.
+narrator: &64 You find the remains of some dead insects lurking within the grass.
+narrator: &65 Talking to the dark grass is useless. It doesn't answer you.
+narrator: &66 You really don't want to consider putting that grass in your mouth
+narrator: &67 If the ground here is cursed, its not the kind of curse where the grass will gladly have a conversation with you.
+narrator: &68 You start to feel an overwhelming sense of madness from the dark forest as you find yourself talking to the ground.
+narrator: &69 The grass here feels wet and slimy.
+narrator: &70 It's dirty. Someone should really sweep out here... though you're not sure what good it would do. 
+narrator: &71 It's the ground.
+narrator: &72 Dirt, it's not very interesting but thats why you like it.
+narrator: &73 Nothing useful here, just dirt.
+narrator: &74 It feels gritty.
+narrator: &75 You're not picking that up.
+narrator: &76 Igneous.
+narrator: &77 Metamorphic.
+narrator: &78 Sedentary. Or was that sedimentary? Maybe you should have paid more attention in Earth Science.
+narrator: &79 You find a gold nugget among the rocks! Heh, had you going there didn't we?
+narrator: &80 You can always use a handful of dirt...
+narrator: &81 The ground is cool beneath your fingers.
+narrator: &82 If it looks like dirt, smells like dirt, and feels like dirt...
+narrator: &83 It must be dirt!
+narrator: &84 Welcome to the Rock.
+narrator: &85 It's a rock.
+narrator: &86 Gray, round, in the ground; guess what our great hero found!
+narrator: &87 ...odds are, it's a rock.
+narrator: &88 Yep, feels like a rock...
+narrator: &89 And you want to do... what?
+narrator: &90 Assuming  you had the strength to lift it, of course.
+narrator: &91 The rock maintains a stony silence...
+narrator: &92 The bushes look lush and green.
+narrator: &93 Its just an ordinary bush.
+narrator: &94 They don't have much to say.
+narrator: &95 You can't eat that.
+narrator: &96 You stick your hand in the bush. You are greatly releaved that it is still there when you pull it out.
+narrator: &97 Stop beating around the bush!
+narrator: &98 The bush isn't going anywhere.
+narrator: &99 It's big, white, and puffy.
+narrator: &100 That one looks like a marshmallow! Or maybe you're just hungry.
+narrator: &101 That cloud looks like a horse! Either that or your Aunt Esther.
+narrator: &102 You're no weatherman, but it looks like it might rain. Then again, it's always raining in this part of the world.
+narrator: &103 That cloud looks like a duck!
+narrator: &104 The mountains in the distance appear purple. You wonder if mountains come in any other color.
+narrator: &105 Any words spoken to that distance are lost in the wind.
+narrator: &106 This mountain just isn't much of a conversationalist.
+narrator: &107 Maybe you should try talking to living creatures. They might actually respond. Then again, they might not.
+narrator: &108 It doesn't answer.
+narrator: &109 Welcome to the jungle! We've got... this game.
+narrator: &110 It's the famous money tree! Unfortunately, you find the money is all in foreign currency, and with the exchange rates nowadays, it really isn't worth taking any of the money with you.
+narrator: &111 Tree.
+narrator: &112 Two, one.
+narrator: &113 Well, it has green leaves, a brown trunk, and has birds living in it. That's about it.
+narrator: &114 You see some squirrels fighting amongst each other. This must be a hot living spot.
+narrator: &115 A heart is carved into the tree. It says 'Conan loves Helga.' Isn't that sweet?
+narrator: &116 It's a fir tree, made with imitation fir.
+narrator: &117 Climbing might not be such a good idea...
+narrator: &118 ... the squirrels might object.
+narrator: &119 LEAVE ME ALONE
+narrator: &120 Did that tree just say something?
+narrator: &121 The tree doesn't say anything.
+narrator: &122 It's obvious that this tree hates you.
+narrator: &123 You get no response.
+narrator: &124 The sky is blue with fluffy white clouds hovering over the distant mountains.
+narrator: &125 The night sky is lit by white pixels that haven't been implemented yet
+narrator: &126 Reach for the sky!
+narrator: &127 You can't reach the sky, smart guy.
+narrator: &128 You try to fetch some air but it is quickly lost in the breeze.
+narrator: &129 There is nothing worth taking in the air so don't bother trying.
+narrator: &130 You're full of hot air already.  You don't need any more.
+narrator: &131 You call out to the sky. No one answers.
+narrator: &132 A bird looks at you as you say hello but flies away.
+narrator: &133 You yell out a hello and listen to your echo.
+narrator: &134 A forest thrives in the distance.
+narrator: &135 Many beautiful flowers grow here.
+narrator: &136 You don't need these flowers.
+narrator: &137 These flowers are not of the talking variety.
+narrator: &138 That thing's so high, you couldn't climb it with suction cups.
+narrator: &139 I don't think you'll be able to scale this puppy.
+narrator: &140 This cliff appears to be the strong, silent type.
+narrator: &141 Error facing hero
+narrator: &142 above northexit!
+narrator: &143 WARNING: Monster failed to spawn in current room.
+narrator: &144 Holding your nose to avoid the foul smell, you withdraw seven of the dead hobgoblins damaged teeth and take them with you. You hope you don't make a habit of this.
+narrator: &145 You already searched this creature
+narrator: &146 You search the body but nothing of any value is found.
+narrator: &147 After searching the body, you find %d gold and %d silver pieces.
+narrator: &148 After searching the body, you find %d silver pieces.
+narrator: &149 After searching the body, you find %d gold pieces.
+narrator: &150 You already searched your opponents.
+narrator: &151 After searched your defeated opponents. you find %d gold and %d silver
+narrator: &152 You search the bodies but nothing of any value is found.
+narrator: &153 ExitVal=%d Unable to find available exit for monster spawn. Please report this bug.
+narrator: &154 Your lucky. you lost the beast
+narrator: &155 No weapon! YOU'RE DEAD MEAT!
+narrator: &156 HIT
+narrator: &157 Setting dark forest parameters
+narrator: &158 Setting tower parameters
+narrator: &159 Setting Golem Name quest parameters
+narrator: &160 Adding torch to inventory
+narrator: &161 Adding flint to inventory
+narrator: &162 This is only applicable to fighters
+narrator: &163 Time tick value:%d; >4275 is sunset; Max 5400 ticks in a day (90 minutes); Day:%d
+narrator: &164 After 10 minutes rest, you feel better
+narrator: &165 After 30 minutes rest, you feel better
+narrator: &166 After 60 minutes rest, you feel better
+narrator: &167 Sleep not fully implemented. One day has passed.
+narrator: &168 Invalid hero class value. How the hell did you manage that?!
+narrator: &169 You're a little too tied up to access your inventory right now.
+narrator: &170 Hero6 is a fan-made game.  Thank you to all the heroes who made it possible to continue the quest.
+cGreenleaf: &13 Thank you for bring me the fruit. I shall now help you as promised.
+cGreenleaf: &14 The only way to see clearly in the dark forest is by drinking the water from this potion just before entering. 
+cGreenleaf: &15 One bottle should be able to help you for as much as you need.
+cGreenleaf: &16 Now that you have proven yourself capable, I trust that you will be able to take care of yourself in there. 
+cGreenleaf: &17 A word of caution though. Do not stay in the forest any longer than you need to, for it is fraught with danger. Good luck.
+narrator: &171 She hands you a flask of her special nullwater. You place it in your inventory.
+cHywell: &24 Hi. I'm Hywel, the guildmaster here. I suppose you're another one of those heroes who's going to save Albion from the trouble that plagues it.
+cHywell: &25 Hi again. If you want to be helpful, remember to check the questboard on the wall.
+cVeran: &43 Well. Should I even bother to introduce myself?
+cVeran: &44 What I mean is,
+cVeran: &45 Do you intend to ignore me entirely,
+cVeran: &46 Run headlong into the woods,
+cVeran: &47 Be minced into a bloody mess,
+cVeran: &48 And trip me during my morning stroll,
+cVeran: &49 Completely ruining my appetite?
+cHywell: &26 Belay, man, belay. He just wants to help. Might even want to train with you.
+cVeran: &50 Introductions then. I'm Veran. And who would you be?
+narrator: &172 You tell Veran your name.
+cVeran: &51 Well, I hope you will prove more than just another ne'er-do-well glory seeker.
+cVeran: &52 Well, it seems you have managed to remain healthy still. I hope for your sake this is not only luck.
+cBelenus: &40 Greetings. Have you discovered anything new since our last visit?
+cBelenus: &41 I don't know whether you are strong enough to defeat the Duke's attacker.  Considering the Duke is a paladin, you had best think twice before engaging.
+cBelenus: &42 Better take preparations just in case. Here are two healing potions
+cBelenus: &43 I sense you do have some magical skill. I don't know whether you will be able to hurt that magical creature with a direct magical attack.
+cBelenus: &44 Be careful.
+cBelenus: &45 You're a brave man to search for the Duke's attacker. Be careful and keep your distance from that monster.
+cBelenus: &46 This creature injured the Duke, himself a Paladin. I'm afraid it will be too much for your close combat skills. You had best equip yourself well.
+cBelenus: &47 If you ever need healing, you know where to come.
+cGreenleaf: &18 We dare not speak of it.
+cGreenleaf: &19 You wish to venture into the dark forest? You won't be able to go far. A mysterious darkness always clouds those regions.
+cGreenleaf: &20 A mysterious darkness always clouds these regions. You noticed this, haven't you?
+cGreenleaf: &21 I can help you get past the barrier of darkness, but first I need to ask a favor of you.
+cGreenleaf: &22 As I've told you before, the only way to see clearly in the dark forest is by drinking the water from this pool just before entering. 
+cGreenleaf: &23 One bottle should be able to help you for an hour, so I advise you to take as much as you need. 
+cGreenleaf: &24 Be careful and good luck.
+cGreenleaf: &25 The Lauburu grows in Helmsdale, a ruined village in the dark forest. Why'd you ask?
+narrator: &173 You tell Greenleaf about the Duke's illness, and how you need to find the Lauburu to cure him.
+cGreenleaf: &26 You will need to get past the dark forests wards to enter Helmsdale. I can make you a potion that will do just that, but I'll need you to bring me a fruit from the cliffside.
+cGreenleaf: &27 As I said before, the Lauburu grows in Helmsdale within the dark forest. I need you to bring me the fruit from the cliffside, then I make you a potion to allow you through the wards of the darkness.
+cFernin: &29 Welcome to my shop, young adventurer. It is most fortunate and yet unfortunate that you facilitated the return of our duke.
+cFernin: &30 You shouldn't have moved him, but it's already too late. The damage has been done.
+cFernin: &31 Still, it might be possible to fix the problem you caused...
+cFernin: &32 Welcome back adventurer.
+narrator: &174 The sheriff eyes you suspiciously for a few seconds. 
+narrator: &175 You SURE you wanna be an adventurer? You didn't know what a library is and you don't even know what a graveyard is?
+narrator: &176 Why don't you try a new line of work? Accounting, maybe?
+cVeran: &53 Listen to those around you. You never know what fact may save your life.
+cVeran: &54 When exploring, be sure you know the quickest way to a place of safety. It wouldn't do to become monster fodder just because you ran the wrong way.
+cVeran: &55 Be sure to carry several pieces of food with you at all times, lest you feel the fangs of hunger at the most inopportune moment.
+cVeran: &56 Although you have much to do, you should still remember to rest. A tired mind is a slow mind and a tired hand is a weak hand.
+cVeran: &57 One man's waste is another man's treasure. Do not discard anything mindlessly. You never know what may be of use to you in the future.
+cVeran: &58 Never be ashamed to run from a fight you can't win. There's no glory in getting yourself killed. Of course, if you practice enough, you won't be running very often. I hope.
+cVeran: &59 You will someday be asked to fetch magic water. Every adventurer is. Laugh if you must, but this is Natural Law.
+cVeran: &60 I suggest carrying at least two flasks around at all times. Four if you can afford it. That way, you can always keep a little water for yourself.
+cVeran: &61 I've found that when I am particularly perplexed, a visit to the library is refreshing. Even swordsmen must keep their minds engaged.
+narrator: &177 TODO: Wagon cut-scene.
+narrator: &178 Ron bars helps you put the portcullis into the wagon, and then both of you set off to meet with the golem.
+narrator: &179 You didn't realise inflation on food prices was so high. You simply do not have that kind of money.
+cNiall: &21 Seriously, I'm not in the spirit of killing today and you don't look like your fit for a duel. Come back when your ready.
+cNiall: &22 Engarde!
+narrator: &180 You don't even have a gold coin.
+narrator: &181 You see nothing of interest
+narrator: &182 That is no place for your hand
+narrator: &183 You'd better not.
+narrator: &184 That wont help.
+narrator: &185 What are you trying to do?
+narrator: &186 That doesn't seem to work.
+narrator: &187 These two don't go together.
+narrator: &188 You don't want to put that in your mouth.
+narrator: &189 It doesn't say much.
+narrator: &190 There is no response.
+narrator: &191 Who are you trying to talk to?
+narrator: &192 He doesn't seem interested
+narrator: &193 Quest A
+narrator: &194 Quest B
+narrator: &195 Couldn't resist the curiosity could you? Chapter 3 is far from done right now
+narrator: &196 You have %d healing potions
+narrator: &197 You have %d mana potions
+narrator: &198 You have %d stamina potions
+narrator: &199 You have %d gold and %d silvers in your pouch
+narrator: &200 You wouldn't want to set your entire inventory on fire. You decide to wait until a lit torch is needed.
+narrator: &201 You look through the list of names that Veran gave you. The cognomen, 'Cosantoir', catches your eye for it means 'worker of steel'.
+cGuard01: &1 Hmm, what's this?
+narrator: &202 The guard examines your letter.
+cGuard01: &2 Very well then. You may enter.
+cGuard01: &3 I've seen it kid! Stop wasting my time.
+narrator: &203 You have no reason to show him the sword.
+narrator: &204 You've already shown him the sword
+cThaen: &64 Don't just stand there, boy! The Duchess will want to see you! Get excited!
+cThaen: &65 Go through the north gate into the castle courtyard and show the guards the note I gave you. They will escort you to the Duchess.
+cRowena: &14 Oh, anothar prospective hero!  Welcome ta Albion's one and only library. I am Rowena, your humble librarian
+cRowena: &15 Feel free ta look 'round and read,
+narrator: &205 She smiles sweetly at you and winks.
+cRowena: &16 Welcome back.
+narrator: &206 He looks back at you calmly. You can't help but feel that you're being sized up.
+cVeran: &62 Keep it. Fernin's potions always make me a touch queasy.
+cHywell: &27 So he lets the spider bathe in the cauldron now and then. Have some backbone, man!
+cVeran: &63 Hywel, it's not the spider that bothers me. I am open-minded. But one day, when visiting the shop, I saw him leave the soap in.
+cVeran: &64 Not that you should hesitate to use them if you need them. They could save you.
+cVeran: &65 Thank you for your kindly offer, but I provide my services free of charge.
+cGreenleaf: &28 I see that you've received my message. Good. We have much to discuss.
+cGreenleaf: &29 Fair weather to you.
+cBelenus: &48 Greetings, traveler.  Would you care for one of my many curatives?
+cBelenus: &49 Welcome back, adventurer. How is your health today?
+narrator: &207 You tell Belenus about the Shadow Mage you fought in the dark forest and show him the cape.
+cBelenus: &50 You took on a shadow mage all by yourself? Impressive.
+cBelenus: &51 You should take that to Fernin. He'll definitely want to see this.
+cBelenus: &52 You found it? Wait, these are seeds, and we need the herb to save the Duke.
+cBelenus: &53 I guess we'll have to grow them. They only grow on magical soil.
+cBelenus: &54 Thank you for finding these. There might still be hope left for our Duke.
+narrator: &208 You tell Fernin about the Shadow Mage you fought in the dark forest. When you show him the cape, his eyes appear to glow with interest.
+cFernin: &33 Excellent work. Let me have a look.
+narrator: &209 Fernin examines the cape.
+cFernin: &34 Hmmmmm. This is most peculiar. I will need some time alone to properly examine this.
+cFernin: &35 I will discuss with you my findings tomorrow. I must not be disturbed; my shop will be closed until tomorrow morning.
+cFernin: &36 Farewell.
+cNiall: &23 TODO: Ok. Here's the deal. I bet my berries, you bet a gold coin. If I win, I keep the berries and earn a shiny new coin. If you win, you get the berries and you keep your money.
+narrator: &210 You have no reason to show him the bent sword right now.
+cRonbars: &37 Unbelievable!
+narrator: &211 Ron Bars examines the bent sword.
+cRonbars: &38 Whoever did this must have had the strength of ten men! Who did this?
+narrator: &212 You tell the blacksmith about the golem.
+cRonbars: &39 Can he come here to fix the gate? He'd probably have it done in a blink of an eye!
+narrator: &213 You tell him that the golem does not wish to leave the caves.
+cRonbars: &40 He can't come here? Then we'll have to bring the gate to him, but how will we do that?
+cRonbars: &41 I suppose we could dig it out and cart it through the forest, if we have a big wagon or cart of some kind...
+cRonbars: &42 Go and see Glith about using his wagon. I hope it ain't too damaged after the last time. Tell him that I sent you.
+cRonbars: &43 I've already seen it. Though I'm still bewildered that the creature could bend it so effortlessly.
+cRonbars: &44 Good day to you.
+narrator: &214 The healing potion soothes and refreshes you as your cuts quickly begin to heal.
+narrator: &215 He's your run-of-the-mill town guard.
+narrator: &216 The guard does not take bribes.
+narrator: &217 Despite how it looks, the guard is busy standing there and doesn't want to talk.
+narrator: &218 You can't rest now. You're in danger!
+narrator: &219 Reward of 5 gold coins for information about the Duke's whereabouts. 25 gold for finding him. Inquire at the sheriff's office.
+narrator: &220 You know about as much about magic as a Servant knows about how to manage a production team.
+narrator: &221 Unfortunately you failed your Magic 101 finals when you accidently turned your teacher into a llama.
+narrator: &222 You process no magic skills.
+narrator: &223 No matter how many times you click this button, it's not going to work.
+narrator: &224 Greetings, traveler.  Would you care for one of my many curatives?
+narrator: &225 The mana potion burns but makes you feel more powerful.
+narrator: &226 The stamina potion invigorates you.
+narrator: &227 Careful, you don't want to lose your money.
+narrator: &228 You don't have enough mana to cast that spell.
+narrator: &229 The craftsmanship of this sword is superb. You notice an unusual symbol on the blade near the handle. Is that a symbol of royalty?
+narrator: &230 You begin to read a book on Reman symbolism.  It follows a wise man as he imparts his wisdom to his grandson, Iseriod.
+narrator: &231 You read the letter that Thaen hastily wrote: "I hereby give this man permission to speak to the Duchess. Signed,  Thaen Conrad. Sheriff"
+narrator: &232 For some inexplicable reason, you feel the urge to raise that sword into the air and yell "I HAVE THE POWER!". Fortunately, you restrain youself from acting foolishly.
+narrator: &233 How strange. It appears to be shut. They never said nothing about a half day closing.
+narrator: &234 It's the rare white flower you risked life and limb to get. How romantic.
+narrator: &235 You have 7 of the defeated hobgoblins teeth. It goes without saying that he never brushed his teeth.
+narrator: &236 You'd rather not attempt to try these teeth as dentures.
+narrator: &237 The flask contains the water from Greenleafs pool. According to her words, you will see in the dark upon drinking it. There's a cool alternative to carrots.
+narrator: &238 You drink from the flask of water given to you by Greenleaf.
+narrator: &239 That was a cruel way to abuse your heroic form. Maybe you require an appointment with the samaritans.
+narrator: &240 It would seem that the old saying, 'Try not to shoot yourself in the foot' has particular relevance here.
+narrator: &241 I guess if you don't have any cyanide, this is the next best thing if you want to kill yourself!
+narrator: &242 WOW! The magical presence in this area is almost overwhelming.  Through the confusing amount of information, you can sense that there is a strong connection between the ghastly creature and the stone structure.
+narrator: &243 You sense no magical activity.
+narrator: &244 The fetch spell has no effect.
+narrator: &245 You were never cut out for sneaking.
+narrator: &246 You are not the stealth type.
+narrator: &247 I can lift the veil of your eyes and see through the darkness. Meet me at the pool, south of the town. Greenleaf.
+narrator: &248 You unfold the note from Angus. It reads....
+narrator: &249 The robed figure is surrounded by energy charges from the stone structure. Its hood prevents you from getting a good look at its features. You have a bad feeling about this creature.
+narrator: &250 Much of the dismay of the creature who you have successfully evaded, you perform a melee attack on your opponent from behind.
+narrator: &251 The ropes are a little too tough for your puny muscles. You are unable to break yourself free.
+narrator: &252 You manage to break free of the ropes and untie yourself.
+narrator: &253 Sorry, not now.
+narrator: &254 Restore
+narrator: &255 Cancel
+narrator: &256 Select a game to restore:
+narrator: &257 Save
+narrator: &258 Type a name to save as:
+narrator: &259 Replace
+narrator: &260 The save directory is full. You must replace an existing game:
+narrator: &261 Replace:
+narrator: &262 With:
+narrator: &263 Quit
+narrator: &264 Play
+narrator: &265 Are you sure you want to quit?
+narrator: &266 You are carrying nothing.
+narrator: &267 You ask yourself why you are talking to yourself.
+narrator: &268 You rub your hands up and down your clothes.
+narrator: &269 Damn, I'm looking good!
+narrator: &270 How strange, the shop appears closed and Belenus did not leave a note.  He must be nearby...
+narrator: &271 The library has closed early today.  You don't recall it being a holiday.
+narrator: &272 Locked!
+narrator: &273 Too far.
+narrator: &274 You're not sure you are skilled enough to make the climb.
+narrator: &275 Closed during business hours?  What is Glith thinking?
+narrator: &276 A large food cart sits in the middle of town. There appears to be a variety of foods for sale.
+narrator: &277 You can't steal from the cart while she is watching you.
+narrator: &278 The cart can't talk, but it would be a very interesting conversation if it could.
+narrator: &279 The healers is closed for the night.
+narrator: &280 The library is closed for the night.
+narrator: &281 The general store is closed for the night.
+narrator: &282 You hear what sounds like a crowd gathering to the east.
+narrator: &283 The door appears to be sealed.
+narrator: &284 A huge mob has gathered outside the magic shop
+cNiall: &24 ... so he lurks in his tower, watching us all. He's already sent his shadowy minions to harm the duke! We heard our duke raving about the attack, and it won't be long till he strikes again!
+narrator: &285 An angry murmur of assent passes through the crowd.
+cNiall: &25 Albion needs heroes, so says our Duchess, and I agree. But they need not be strangers! YOU can be the heroes! You want to be heroes?
+narrator: &286 'YES!'
+narrator: &287 Veran turns to you.
+cVeran: &66 Finally; I was waiting for that. It's an unquestionable rule, you know. Every mob must shout the word YES! in unison at some point.
+narrator: &288 Veran turns back to face the speaker.
+cNiall: &26 I said, do you want to be heroes?
+cNiall: &27 Then have some backbone! Do what must be done! If the Duchess won't bring justice by the law, then we must bring justice by the sword! Death to evil!
+narrator: &289 'DEATH!'
+cNiall: &28 Death to Marvin the Mage! Death! And let the law go hang...
+narrator: &290 The agitator cuts off in mid-sentence as they stride in.
+cColleen: &28 Repeat that last statement, Niall.
+narrator: &291 Niall lowers his gaze.
+cNiall: &29 I said, 'Let the law go hang.'
+narrator: &292 Duchess Conrad nods quietly. Her companion nudges her in the side, flashing a knowing grin.
+cThaen: &66 Hey, I told you he was making trouble again. Think he needs to cool his heels a bit?
+cColleen: &29 Your zeal is good, Thaen, but that will not be needed. Niall, do you have any evidence of wrongdoing on Marvin's part?
+cNiall: &30 He's been hiding in his tower, and the duke's shadowy attackers must have used magic to hurt him, and, blast, are there any other sorcerers around these parts?
+cThaen: &67 Short answer: 'Nope. No evidence.'
+cColleen: &30 Niall, a sense of justice is a noble thing. A lust for revenge is not. Especially when misdirected.
+narrator: &293 The Duchess turns to face the crowd.
+cColleen: &31 Citizens, mob justice is no justice at all. The innocent are sacrificed to common rage, while the guilty hide in the shadows.
+cColleen: &32 Until there is real evidence of Marvin's guilt, there must be no violence.
+cColleen: &33 The Duke has been brought in for healing. As soon as he recovers, we will hunt down the true villains, and Albion will be restored to her former glory!
+narrator: &294 The crowd applauds, Marvin forgotten.
+cColleen: &34 You are all dismissed.
+narrator: &295 The spectators filter out of the square as Colleen and her escort leaves to the north.
+narrator: &296 Belenus turns to you.
+cBelenus: &55 Hey! I had a feeling I'd find you here
+cBelenus: &56 I must speak to you urgently. Please follow me back to my shop
+narrator: &297 The magic shop is closed for the night.
+narrator: &298 A huge mob has gathered outside the magic shop. 
+cFernin: &37 The boy was a fool to have dragged the Duke out when he was clearly injured!
+cVeran: &67 Be reasonable, Fernin! He did it with good intentions! He couldn't have known any better...
+cNiall: &31 Course he should have! Any idiot would have known better than to force a sick man to overstrain himself! And now the Duke could die any minute!
+cVeran: &68 At least the Duke's been found now and can still be cured because he didn't give up the search, unlike some people who did nothing about it!
+cNiall: &32 What makes you think I'm going to do nothing? Oh, I know what we should do. I say it's time to hunt down the wizard Marvin and extract the cure from him by force!
+cFernin: &38 Now just hold on. There's no proof Marvin did it, and no guarantee he even has the Lauburu in the first place!
+cNiall: &33 We'll be the judge of that. Now, who's with me?
+narrator: &299 The crowd cheers loudly.
+cNiall: &34 Good! I say we all march to his tower right now and demand that he release the cure!
+narrator: &300 Suddenly, the crowd becomes silent. Then, one by one, the crowd disperses.
+cNiall: &35 Fine! I'll go!
+narrator: &301 Belenus approaches you.
+narrator: &302 Even adventurer's guilds need to close at night.
+narrator: &303 The magic shop is closed.
+narrator: &304 Something important must be happening.  The sheriff has locked up early.
+narrator: &305 The sheriff has locked up for the night.
+narrator: &306 Two guardposts guard the gate between the city and the castle.
+narrator: &307 You can't reach them!
+narrator: &308 You call out to the guard to open the gate.
+narrator: &309 But the guard hasn't been programmed to open the gate yet, so he stands there, and looks at you funny.
+narrator: &310 This is the where the local mason works.
+narrator: &311 This man is obviously quite wealthy since he can afford a two story house.
+narrator: &312 Yeah, feels like a mason did the work on this building.
+narrator: &313 If you want to hire the mason for a job, go and tell him in person instead of shouting outside.
+narrator: &314 You can't quite reach that from here. Try getting up there first.
+narrator: &315 The Inn
+narrator: &316 Do you go around feeling every house you come across?
+narrator: &317 You shout at the inn. No one responds.
+narrator: &318 Its a little too dark to see under there from out here.
+narrator: &319 Maybe you'd better find someone else to stick their hand down there first.
+narrator: &320 You call out to whatever is under the house, but nothing emerges.
+narrator: &321 You hear what sounds like a crowd gathering nearby.
+narrator: &322 You follow the sounds to the source of the commotion,
+cGuard03: &1 Are you okay my friend?
+cGuard02: &1 Just a scratch.
+narrator: &323 The guard turns to you.
+cGuard03: &2 Looks like we beat them. No thanks to you.
+cGuard03: &3 You one of those pathetic hero wannabes? We are the heroes round here. So why don't you GET LOST!
+cGuard03: &4 Thanks. I guess we owe you one.
+cGuard02: &2 Although lets be honest. If it hadn't been for us, the rogue would have been too strong for you.
+cGuard03: &5 You look like one of them Hero types. You best watch your step. I hear we've had five of them go missing already.
+narrator: &324 Your sneaky attack from behind has caught the rogue off guard and forced him to retreat.
+cRoguemonster: &1 You ain't seen the last of us!!
+narrator: &325 If you intend to perform a surprise melee attack on the rogue, you'll need to get closer.
+cRoguemonster: &2 Hey. Who's that!
+narrator: &326 The hostile rogue has seen you. You prepare for battle.
+cRoguemonster: &3 Ouch! Now I'm mad!
+narrator: &327 Your dagger hits the rogue solidly. He is obviously hurt.
+cRoguemonster: &4 You'll never get away with that!
+cRoguemonster: &5 You have not seen the last of us!!
+narrator: &328 The rogue has successfully evaded your dagger with little more than a scratch.
+cRoguemonster: &6 Thought that was clever eh? Prepare to die!
+cRoguemonster: &7 They are all the same.
+narrator: &329 Your first battle against the rogues prove pitiful as you collapse to the ground in defeat. What an unfortunate way to begin your first adventure.
+cRoguemonster: &8 You haven't seen the last of us, you fools.
+cGuard03: &6 Oh no. Its another one of them hero types.
+cGuard03: &7 Hey guys! Bring one of Belenus' remedies. This sucker's taken a bit of a blow.
+narrator: &330 You win.
+narrator: &331 The wounded rogue retreats upon his defeat in battle.
+cRoguemonster: &9 Beware! You have made a powerful enemy today. Make the most of your victory while you still can. 
+cGuard03: &8 You! Get out of here or I'll kill him!
+cRoguemonster: &10 You wouldn't dare.
+narrator: &332 The enraged guard points his sword only a few inches from the fallen rogue's throat.
+cGuard03: &9 This is your last warning.
+cRoguemonster: &11 Pah! I remember when even you had honor, you coward!
+cRoguemonster: &12 You haven't seen the last of us!
+narrator: &333 Having decided you are not ready for this kind of confrontation, you flee the scene and hope the situation resolves itself.
+narrator: &334 As you approach the Albion gate, you find it is under siege!
+narrator: &335 You watch as the rogue falls under the might of the city guard. But even he can not hide his apprehension.
+cGuard02: &3 Help! I can't hold them much longer. Close the gate!
+cGuard03: &10 Oh no. It's stuck again!
+cGuard02: &4 HELP!
+narrator: &336 TODO: Guard collapses
+cGuard03: &11 I've fixed the gate. C'mon! Hurry!
+cRoguemonster: &13 Ha! Too late! Your friend is close to death.
+cRoguemonster: &14 Anyone else?
+narrator: &337 You hear excited shouts from the guards.
+cGuard02: &5 By the gods! He's carrying the Duke!
+narrator: &338 Your heroics have attracted a large crowd. Belenus rushes forward, examining the Duke.
+cBelenus: &57 Oh dear! I'm afraid you shouldn't have moved him. All this movement is causing his poison to accelerate!
+cBelenus: &58 Guards! Help me carry him to my hut. He needs to be treated immediately!
+narrator: &339 You ask Belenus if the Duke can be cured. Belenus bows his head.
+cBelenus: &59 Unless we find the miracle herb, Lauburu, he can't be cured.
+narrator: &340 Congraulations! You have completed the Find the Duke Quest. Please report any bugs, weirdness or quirks you spotted in the progress of his quest
+narrator: &341 Begin Chapter 2
+cAngus: &1 Hey you! Some lady wanted me to give you this.
+narrator: &342 Angus hands you a note. You start to reads it.
+narrator: &343 The bottom of the wall is covered with vines that have grown over a long time.
+narrator: &344 These vines are surprisingly tough to move. They will not budge.
+narrator: &345 Are you sure that is wise? They might be poisonous!
+narrator: &346 A tough steel gate hangs above the entrance to Albion. The gateway is open.
+narrator: &347 You reach up to the gate and try to pull it down on top of you. But then you realize that that would be quite painful.
+narrator: &348 Open Sesame!
+narrator: &349 Oh wait. It is already open.
+narrator: &350 This large wooden structure is surrounded by hay and smells like horse manure. It's clearly a barn.
+narrator: &351 As any doctor will tell you, trying to lift a barn is the quickest way to a hernia. Better leave that to the professionals.
+narrator: &352 You may be hungry enough to eat a horse, but a whole BARN?
+narrator: &353 This run-down wooden cart appears to have found a permanent residence outside the Albion wall.
+narrator: &354 This old cart is in no condition for a joy ride.
+narrator: &355 They sure do have a lot of hay. They must grow it around here.
+narrator: &356 If you stuff your pockets full of hay, people may mistake you for a scarecrow. Better leave the haystack alone.
+narrator: &357 Hay was never the best substitute for Caesar salad.
+narrator: &358 The small town of Albion is surrounded by a thick, tough, stone wall. You've seen many of these.
+narrator: &359 Considering that the gateway into town is open, you decide not to make a fool of yourself by climbing over the wall.
+narrator: &360 The wall has nothing to say to you.
+narrator: &361 Beyond the wall, you see Albion.
+narrator: &362 It appears to be an emblem.
+narrator: &363 The wooden fence does a reasonable job of separating the hay from you.......at least most of the hay.
+narrator: &364 Welcome to the commentary system. The commentary is designed as an opportunity for us developers to publicly share some thoughts and comments regarding game development. This can relate to anything you experienced in Hero6 related to programming, art design, plot design, Hero6 politicial drama or Servant![We should use this system as a chance to talk about any deleted ideas and why Hero6 was in development for so long. So feel free to put forward any commentary you wish to add. Just remember that its only one commentary node per room so choose your room carefully.[[Take care.
+narrator: &365 The door to the room you've rented.
+narrator: &366 This door leads to a guest room.
+narrator: &367 It's locked.
+narrator: &368 It's got legs, and it knows how to use them.
+narrator: &369 It's hard, like a table.
+narrator: &370 You imagine the inn keeper's reaction to seeing a good portion of his table in your mouth and reconsider your actions.
+narrator: &371 In the middle sits the bowl that time (and the innkeeper) forgot, filled with a sickly green broth. It is no meal for an adventurer such as yourself.
+narrator: &372 Its a chair.
+narrator: &373 Stealing furniture is a violation of the law and, in your case, a waste of time.
+narrator: &374 Chair taste GOOD.
+narrator: &375 The wood railing leads weary adventurers (and occasionally drunks) up the stairs and to their rooms.
+narrator: &376 This railing probably keeps many patrons from falling unpleasantly onto the floor below after a long night of swash-buckling.
+narrator: &377 The wooden counter is clean. A registry book and a note lie on it.
+narrator: &378 The stout metal shield has a dent the shape of a boar's head in it. You wonder what happened to its owner.
+narrator: &379 It is a heavy, obsolete model. You are not going to carry that thing around.
+narrator: &380 A beautiful, expensive-looking carpet, most likely an import item from Bugdul or Mashrik. You wonder how it ended up in a place like this.
+narrator: &381 Not in daylight! And most likely not during night either; it looks too heavy to carry.
+narrator: &382 You find a note on the counter
+narrator: &383 ATTENTION ALL PATRONS: Due to a great number of complaints, we no longer rent out rooms to vampires, ghouls or royalty.
+narrator: &384 It's appears to be glued to the counter.
+narrator: &385 It's the guest registry log.
+narrator: &386 The fireplace is large and surely must warm the common room well on cold winter days.
+narrator: &387 You don't need any firewood.
+narrator: &388 You stand in the Flanagan Inn. Various chairs and tables are scattered about. There are rooms for the guests up the stairs.
+cGuard01: &4 Halt. Nobody enters the castle unless it's for important business.
+cGuard01: &5 This means you! BEAT IT!
+cGuard01: &6 Don't dare think that you can sneak past behind me. I'm watching you!
+cGuard01: &7 The Duchess will not be disturbed right now. You may not enter.
+narrator: &389 You are not close enough to the door.
+narrator: &390 The smith was never one of late night shifts.
+narrator: &391 Two oriental shield occupy an otherwise dull and deserted wall.
+narrator: &392 These shields are strictly oriental and have no use in battle.
+narrator: &393 Only a few books occupy this bookcase. Perhaps the owner is dyslexic.
+narrator: &394 This book shelf is surprisingly clean. It's certainly uncontaminated by books.
+narrator: &395 These cold steel bars prevent escape from even the toughest of rogues.
+narrator: &396 You feel the bars. They are HARD!
+narrator: &397 These cold cells have no toilet facilities. You hate to end up in one of these.
+narrator: &398 The desk is a boring one. Its not even worth describing.
+narrator: &399 It shall not be moved
+narrator: &400 This is the local sheriff's office and command center for law and order in the local region.
+narrator: &401 It's a thatched roof. Someone took hay and grass and wove it together into a roof.
+narrator: &402 You wonder how well that works when it rains.
+narrator: &403 More importantly, you wonder how well that works when there's flames. After all, this is a blacksmith's.
+narrator: &404 Trying to bring down the house? Sorry, but they raised the roof to stop you.
+narrator: &405 You've entered the blacksmith's shop in the castle courtyard. Looking around, you see all the necessary tools for the blacksmith: an anvil, a firepit, a hammer, bellows, and water to cool the blacksmith's tools.
+narrator: &406 Looking around, you see a good collection of weapons hanging from the walls. Behind the counter are an assortment of farm tools and smaller weapons.
+narrator: &407 You also see a nice suit of armor hanging on a rack. This shop should be able to provide you with any weapons and armor you may need while you're here in Albion.
+narrator: &408 You see some of the high quality weapons available at the blacksmith's.
+narrator: &409 Don't play with that, you might hurt yourself.
+narrator: &410 You see a rack of sharp looking spears.
+narrator: &411 Hey, quit poking that! It's supposed to be poking you!
+narrator: &412 A smooth, shiny, high quality piece of armor occupies the corner of the room..
+narrator: &413 I guess the blacksmith knows how to use it for something other than dropping on people's heads.
+narrator: &414 It's hard and warm. The blacksmith must have been working metal on it recently.
+cRonbars: &45 Come in. No, don't tell me, I know, you're one of them adventurers. A lot of you hanging around lately. Not that I mind. My name is Ron Bars, and I've got swords and armor to sell.
+narrator: &415 'The History Of Albion Agricultural Development'. The pages are almost struck together.
+narrator: &416 'The Legend of the Druids'. Apparently, they were wiped out by the Reman race many years ago and little trace remains.
+narrator: &417 You find an interesting paragraph in 'The History of Albion, Vol I' - The yearly flooding of its namesake river makes the Valley a richly soiled land, and the strong westerly winds that dominate the winter makes for a very mild climate, thus enriching the flora and fauna of the region. Naturally, this makes for inhospitable dwellers, which have always been a obstacle for civilization in these parts.
+narrator: &418 You leaf through an article in 'The History of Albion: Volume II', which you remember from your old adventurer training days. It says that...
+narrator: &419 By the end of the Celt age, the Formori race controlled at least half the land. With their sudden demographic explosion and inhuman strength, they had little trouble driving out the Celts from half their land. Unexplainably, the Formori did not destroy the Celts, rather an unspoken truce was reached and both races were able to live in relative peace - that is, avoiding each other.
+narrator: &420 The Celts populated the northeastern side of the valley, taking no real settlement but keeping to whatever flatlands they could find. The Formori took to the hills and upper regions, living in their tribal groups. Thus the valley existed for a good time, till the invasion of the Remans.
+narrator: &421 'History of Albion: Volume III'. This book tells of the war with the remans.
+narrator: &422 Under the command of Emperor Claudius, the Remans invaded Britan and some parts of the Isles. Becoming aware of Albion valley, they sent a contingent of troops there to hold it; arable land in a location where crops could be easily loaded onto ships bound for the Reman Empire was obviously of great value.
+narrator: &423 When the division arrived, they were expecting to be faced with, at best, solid resistance from the indigenous Celtic tribes. They quickly decided to set up a defensible base and began to explore the area more thoroughly. Finding a clearing near the mountains that surrounded the valley, the division began construction of their fort. In the process, they discovered a passageway going back into the bowels of the mountains.
+narrator: &424 Although the commander was a bit uncomfortable with the idea of having a hole in his defenses, the fort was built around the cave; it was decided that the cavern could be used as a storage location and, if the fort was overcome, it could be used as an escape route (if there was an exit) or a final defensive line (if there was no egress).
+narrator: &425 The Remans were not far from wrong about the resistance. Although there were only a small number of Celts, the area was teeming with a greater threat- the Formori. Large, heavily muscled, and powerfully built, the Formori were easily a match for two Reman legionaries. Fortunately, they were also none too bright, so the limited number of troops were able to force the lumbering behemoths out without too much difficulty.
+narrator: &426 With the breathing space that the removal of the Formori gave them, the Remans began to expand their base a bit more, bettering the defenses. After all, it was their responsibility to keep the valley secure. They continued to fulfill their orders, defending the borders of Albion from incursions by both the Celts and Formori.
+narrator: &427 However, eventually, the gradual attrition that comes from such skirmishes began to wear on the Albion Garrison. They were generally able to get reinforcements... until the Reman Empire began to decline.
+narrator: &428 When this occurred, there were no more fresh troops for an unproductive, isolated fort on a rapidly shrinking frontier. The garrison was weakened, and the Formori somehow sensed this. They began to attack in greater numbers, finally destroying the garrison altogether. The last remnants of the Reman troops fled into the catacombs and were never seen again.
+narrator: &429 'History of Albion: Volume IV'. You find a section telling of the Conrads rise to power...
+narrator: &430 It was not until half a millenium had passed that outside influences disturbed the valley. These years are notorious among historians because little or no information is available for research: the Formori had no way of keeping information stored, save for their tribal religion; and the Celts of the valley remembered only through word of mouth.
+narrator: &431 What is known about these times comes from the journals of the Conrad family. The first records indicate the arrival of Imherius Conrad and his family to the valley. Being the second son of a noble family, he struck out of his British homeland in search of a land to claim his own, bringing but his wife and a small contingent of guards.
+narrator: &432 Imherius speaks of a valley deeply affected by the aftereffects of a powerful spell cast not long before (Editor's note: further research has proved that the spell discussed here is Anlimisar's Talisman-enchanting Ritual). The Formori who inhabited the region were suffering from diseases and an all-abiding depression. In their weakened state, they were little trouble for the new conquerors.
+narrator: &433 After successfully dealing with the Formori, the Conrad family headed for the flatlands, where he established what would be his city. He declared himself Duke of Albion and with the help of his guards and some Celts, began the organization of his Dukedom.
+narrator: &434 With the offer of arable virgin land with the annual flooding of the river Albion, a farming community was quickly established. Under superb administration by the Conrads, Albion valley flourished. Albion city was erected, and the seat of government is situated there to this day.
+narrator: &435 'Treasure Hunting for Dummies' by El Ammo.
+narrator: &436 'The Grog Diet' - It almost seems like a list of problems that can be solved by embibing large quantities of grog.
+narrator: &437 'I Drank the Dragon's Breath, and You Can Too!' - A guide on building immunity to the ill-effects of Dragon's Breath.
+narrator: &438 'Fee Fie Fo Fum, Third Edition' - The book describes itself as a guide to 'what other bones can be ground to create pastry.'  The writer has obviously spent a long time experimenting.
+narrator: &439 'Shaman Cosmetics' - Beutifying enchantments, for those who just can't bear to wear lipstick.
+narrator: &440 You gingerly pick up 'Avoiding Copyright Laws for Dummies'... it seems to have been read and annotated over by many people for many years. A concern for people in this town, perhaps?
+narrator: &441 'The lives and times of Tabitha Thistle, transmogri....' STOP! Copyright infringement is already risky enough as it is in this game.
+narrator: &442 'Tales of the Infamous Adventurer - A story of a man women found irresistable'. Half the pages appear to be incomplete.
+narrator: &443 'Xia - Memoirs of a confused Geisha'. This book contains many unfortunate errors. For some reason, the lead character is Chinese despite Geisha's being of Japanese origin. No wonder she was confused.
+narrator: &444 'Tales of the Undead'. This book gave you nightmares as a child.
+narrator: &445 'The Whipping Boy 2: Whipped Into a Frenzy.'  What a catastrophe.
+narrator: &446 'The Tale of the Ancient Land Mariner' - It truly is just as rivetting as it sounds.
+narrator: &447 'Sir Ethril: The Mistress of Disguise'. The story of a young girl who disguised herself as a man in order to get a place in art design.
+narrator: &448 You pick up a copy of 'Dragon Music' by Chagall Brassfire. It's a an extremely rare book for this library, as it is the only written record of authentic dragon music.
+narrator: &449 'LBCBR by Jodo Kast' - apparently a rare unpublished novel. 
+narrator: &450 'Magic Spells for Dummies'. You've already read this book many times.
+narrator: &451 'Famous Spellcasters of our time'. The book mentions Fernin who holds 4 patents in the field of creating familiars and a PhD in the use of magic to sort tiny screws.
+narrator: &452 'The Art of Transmogrification'. It appears that due to patent issues, the frog transformation section has been omitted.
+narrator: &453 'The Channeling Properties Of: Dolmen' - Theoretical and empyrical data abound on the effects of Dolmen structures on magic.
+narrator: &454 'The Presdigitator'. This seems to be a thieves guild publication put in the magic section by accident. It tells all the secrets of shell games, coin tossings and other parlor games to gamble in.
+narrator: &455 Wow, here's a copy of 'Magical Mushrooms: spells and other uses for the broad-minded magician'. This book was deemed dangerous when a group of strange-acting magicians took it as their main book of reference. Apparently, all of them thought they could fly without using magic. Preposterous!
+narrator: &456 'IP sub-masking and its effects on recall time'... clearly a magical tome beyond your comprehension'
+narrator: &457 You find a pamphlet adveritising the services of AOL - Albion On-line - they seem to be promoting some sort of multi-crystal ball network to 'enhance communications and information access worldwide'... Poppycock!
+narrator: &458 'Magical Rodents - familars or annoyances?' by P. Silverbolt is part of the Familiar Selection series. You once heard rumors that the author lives with a giant stuffed mouse and no friends; but his book is definitely well-researched!
+narrator: &459 'Heroes and Rulers: Their inexplicable connection',  a treatise examining the mysterious emergence of catastrophes with any new government that can only be solved by Heroes.
+narrator: &460 'The Mating habits of Drakes'. The male drakes are known to become extra protective and aggressive towards other species during the mating season due to an increase in the dedracohydroepiandrosterone hormone. What a mouthful!
+narrator: &461 'Demystifying Magic - A Scientific Explanation for Everything!'. You find the book a truly boring and unconvincing read and quickly return it to the shelf.
+narrator: &462 You thumb your way through the 'humanoid encyclopaedie', the most thorough compendium of knowledge on all humaniform creatures - the passage on centaurs and their condescencion towards horse riders looks very interesting.
+narrator: &463 'Quest Survival in Extreme Situations' is an anonymous field manual written by an order of Holy Knights long ago. It speaks of SOS messages carried by messenger swallows on coconut shells and minstrel recipees for when your party runs out of other food. Unfortunately, it fails to accurately distinguish between African or European swallows.
+narrator: &464 'Random Pepperoni Distribution and its effects on bird migration' is the latest paper published by the Pizza Research Institute. A bit too dense for non-pizzologist readers, but it definitely sparks up an appetite!
+narrator: &465 'How to achieve a perfect org...'
+narrator: &466 You find yourself unable to resist reading the rest of the title.
+narrator: &467 '...organization of professional conduct in your home'. Perhaps this book has been misplaced.
+narrator: &468 You find a untitled book containing pictures of maidens showing their clear legs.
+narrator: &469 'Top 100 sexiest Heroes', this ones for the ladies.
+narrator: &470 'Top 100 sexiest Heroines'. The #1 spot is held by a distant hero from the east called Silveran.
+narrator: &471 Your hand falls upon an old copy of 'Playcentaur' that clearly has no place there. You sneak a quick peek, just to make sure...'
+narrator: &472 Based on the librarians advice, you find the book on Reman Symbolism and take it with you
+narrator: &473 The children's section.
+narrator: &474 You have no need of reading any children's books.
+narrator: &475 This is the history and culture section. All the books appear to focus on history in the Albion valley. Perhaps this is the only history known in the area. Many of these books are written by the scholar, 'Ianfe Brillem'.
+narrator: &476 This is the self-help section.
+narrator: &477 This is the literature and poetry section.
+narrator: &478 This is the Magic arts section. It contains various textbooks in the magical practices as well as recently published research into magical activity.
+narrator: &479 This is the scientific and philosophical research section. Many textbooks and research journals are placed here.
+narrator: &480 The adult section.
+narrator: &481 The rug is very clean. There isn't even any dust underneath it.
+cFernin: &39 Here's what I've discovered so far. That cape was worn by a mage who died more than twenty years ago.
+cFernin: &40 I suspect, though I can't be sure, that these shadow mages are some kind of silhouettes of deceased men.
+cFernin: &41 I'm afraid that's all I can tell you for now. Marvin, however, should be able to shed more light on this mystery.
+cFernin: &42 I'd contact him myself via that crystal ball you see over there, but lately I've not been able to reach him at all.
+cFernin: &43 The only other way to reach him is to enter his tower, which can only be accessed through the caves in the dark forest.
+cFernin: &44 Unfortunately, I have not been able to enter the dark forest for some time due to reasons unknown.
+cFernin: &45 You, however, managed to penetrate its defenses, and so you're more suited to enter Marvin's tower to find him.
+cFernin: &46 I've written my findings on this scroll. Please hand it to him. He'll know what to do.
+cFernin: &47 Any questions? TODO
+narrator: &482 Meanwhile....
+cFernin: &48 Hand me another piece of that cape.
+cFlasamus: &5 Yes master!
+cFernin: &49 I told you to stop calling me that!
+cFernin: &50 You numbskull.
+cFlasamus: &6 Hey. Look at the cauldron! Somethings happening!
+cFernin: &51 Interesting...
+cFlasamus: &7 I'll say.
+cFernin: &52 Ah. You've returned. Please come closer.
+cFernin: &53 I mustn't be disturbed right now. Come back tomorrow and I'll tell you my findings.
+cFernin: &54 You again! I've told you not to disturb me at this time. I cannot analyze this cape and guard the shop at the same time.
+cFlasamus: &8 Maybe you should lock the door.
+cFernin: &55 I would if somebody hadn't just lost the key.
+cFernin: &56 What is this, child's play? I have asked you not to disturb me enough times. Come back tomorrow and I will give you a free ear test perhaps.
+cFernin: &57 YOU AGAIN!! Would you like me to demonstrate what happens when wizards are bugged for too long?
+narrator: &483 You'd better leave. You wouldn't like him when he's angry.
+cFernin: &58 Ok. You asked for it!
+narrator: &484 The enraged Fernin appears to have transformed you into a duck.
+cFernin: &59 That'll teach you.
+cFlasamus: &9 Looks like you'll need a quack doctor to fix you now.
+cFernin: &60 Yeah, you'll need a.....what?
+narrator: &485 You are now forced to spend the night in a rusty old cage in Fernin's domain. At least, you got to see Fernin trying to analyze the cape.
+narrator: &486 The next morning, Fernin transforms you back. You quickly check yourself to see if you're truly back in one piece. Thankfully, Fernin didn't leave out anything.
+narrator: &487 You see your own signature among the list of new adventurers in the valley.
+narrator: &488 You see many new signatures on this page of the logbook.
+narrator: &489 You've already signed your name. Now it's time to start adventuring.
+narrator: &490 You sign your name in the log book with a flourish.
+narrator: &491 Well actually there isn't much ink left and the page is worn from frequent use.
+narrator: &492 Combined with your handwriting, which is pretty poor to begin with, your signature is barely legible.
+narrator: &493 The railing was put up to keep people from falling to the stone floor below.
+narrator: &494 Too bad it was just installed last year.
+narrator: &495 It is very important to use the banister at all times. Unless you're so brave that you're foolish.
+narrator: &496 It's a rug. A rather rugged rug.
+narrator: &497 This carpet can't fly, so it's really not much use to you.
+narrator: &498 The barrels store whatever the Guildmaster happens to put in them.
+narrator: &499 You'd rather not carry that heavy barrel around all day. Especially since you'd spend part of the day trying to outrun its owner.
+narrator: &500 This must be one of those famous Norwegian iron sheilds you've heard so much about.
+narrator: &501 This thing isn't made of iron, it's made of lead!  It's great for fending off radiation attacks, but since this isn't a sci-fi game, it's really quite useless.
+narrator: &502 These stairs lead up to the balcony.
+narrator: &503 If you want to take the stairs, use your feet, not your hands.
+narrator: &504 It's a skull. It's probably from some foolish adventurer, like you!
+narrator: &505 The skull is hollow, just like yours.
+narrator: &506 Alas, poor Yorrik, he was really annoying.
+narrator: &507 Two axes and an oriental sword hang over the doorway.
+narrator: &508 Don't hurt yourself. There are enough things out there trying to do that for you.
+narrator: &509 The shelves are filled with books on adventuring, with tips on how to practice and improve your skills.
+narrator: &510 As you look through the books on the shelf, you find a hidden magazine of dirty pictures. It must be something the artists or programmers left behind.
+narrator: &511 The books have a lot to say, but no mouths to say it with.
+narrator: &512 This is no ordinary helmet. It's actually a vase disguised to look like one.
+narrator: &513 It's far too small to fit your fat head.
+narrator: &514 It's either a chainmail coif or the severed head of a ring wraith.
+narrator: &515 Even after poking it, you still have no idea what this actually is.
+narrator: &516 It looks like a normal window, except for the strangely opaque glass that you can't see through. Maybe the glass is like that for security reasons.
+narrator: &517 These windows don't seem to be the kind that open, and I doubt that the Guildmaster would be happy if you broke them.
+narrator: &518 There are certainly a lot of people outside, but if you'd like to talk to one of them, you'd probably be better off going outside and talking to them yourself.
+narrator: &519 These banners depict magnificent battles between great heroes and several ferocious beasts.
+narrator: &520 The banner is just out of reach.
+narrator: &521 You should be ashamed! Spitting on these banners is very disrespectful to the members of this guild.
+narrator: &522 Upon closer inspection, you discover that this is a cheap paper mache imitation.
+narrator: &523 You consider taking the moose head down from the wall, wearing it as a mask, and scaring the crud out of the Guildmaster. However, looking at him, you think wiser of that, and decide to leave the moose head alone.
+narrator: &524 It's a bench. Traditionally, you sit on them.
+narrator: &525 Trying to show off how much you can bench press?
+narrator: &526 This is one of those few places where you're actually supposed to start fires.
+narrator: &527 Now your hands are all covered in soot and ash.
+narrator: &528 This looks like the head of a kobold wizard. Its beady eyes still seem to sparkle with dark, magical energy.
+narrator: &529 The plaque underneath reads, 'Kobold Archmage - Slain by Veran.'
+narrator: &530 Why it's wearing a miner's cap is beyond you.
+narrator: &531 I know you need to get ahead in this world, but this isn't the way to do it.
+narrator: &532 You can't tell if this is some kind of demon or a red mutant cactus.
+narrator: &533 The plaque reads 'Big Badass Monster - Slain by Sigurd'
+narrator: &534 Apparently, he didn't know what it was either.
+narrator: &535 You once considered taking up a career in taxidermy, but discovered that you didn't have the right stuff.
+narrator: &536 Isn't this the head of a rare Hornysaurus?  Whoever killed this thing was obviously very skilled.
+narrator: &537 The plaque reads 'Greater Hornysaurus - Slain by Duke Conrad'
+narrator: &538 You briefly think about putting your hand in its mouth, then look a little closer at those razor-sharp teeth and decide against it.
+narrator: &539 Neato. It's the head of a Hellboar.  Even in death, the eyes continue to emit a faint red glow.
+narrator: &540 The plaque reads, 'Hellboar - Slain by an Unknown Adventurer.'
+narrator: &541 Those glowing eyes really give the Hellboar a lifelike appearance.
+narrator: &542 You decide not to tempt fate and leave the boar alone.
+narrator: &543 Niall has caused you to feel severely beaten. You are forced to forfeit before you're injuries become fatal.
+cNiall: &36 Ha ha. Pay up.
+narrator: &544 You shrug at your loss as you hand over your gold coin. He is one dirty fighter.
+cNiall: &37 You got lucky. Next time we duel, I won't hold back.
+cNiall: &38 Here's the berry you want so much.
+narrator: &545 Niall grumbles as he hands over the berry.
+cNiall: &39 I can always find some more. I wouldn't expect a simpleton like you to know where to look
+narrator: &546 When you wear yourself out from fighting, you can rest on the benches.
+narrator: &547 You take a seat and relax for a few minutes.
+narrator: &548 This training room must be cleaned fairly often.  You can't even find any bloodstains!
+narrator: &549 These swords can be used by anyone who needs practice.
+narrator: &550 These swords are too dull to cut butter, let alone skin.
+narrator: &551 You go to pick one up when you realize your weapons are much sharper.
+narrator: &552 Your weapons also happen to be yours, whereas these are not.
+narrator: &553 The shield looks like it's been through its share of fights.  You notice nicks and scratches in the wood.
+narrator: &554 Apparently it isn't good for anything but decoration anymore.
+narrator: &555 The shield isn't yours, and besides, it's bolted to the wall.
+narrator: &556 You see a horned skull attached to the wall above the door.
+narrator: &557 You hope that's not what they do to the losers.
+narrator: &558 Maybe that's what happened to the last guy who tried to steal from the place.  You'd better leave it where it is.
+narrator: &559 Trying to get aHEAD?  This one's pretty empty and you've already got an empty head of your own.
+narrator: &560 It's dead, what more do you want from it?.  Try talking to the living, buddy.
+narrator: &561 You ponder the meaning of the axe on the wall and come up with a great revelation.
+narrator: &562 Unfortunately, a fly buzzing in your ear makes you lose concentration and you forget it.
+narrator: &563 The axe looks like it could easily slice you in half.
+narrator: &564 You have more skill with a knife or sword than with an axe.
+narrator: &565 You imagine the tales this axe would tell if it could speak.
+narrator: &566 Like every other window in this town, you can't see through them.  But a small amount of light enters through, giving the room a strange atmosphere.
+narrator: &567 I wouldn't suggest breaking the windows here, unless you want to get into a real fight.
+narrator: &568 Nobody outside wants to listen to you.
+narrator: &569 Two torches line the wall, providing light for the room.
+narrator: &570 Be careful!  Heroes are flammable!
+narrator: &571 The flames dance around as your breath hits them.
+narrator: &572 You run your hand along the blade, thinking it is only decoration.  You find out it isn't, almost cutting yourself.
+narrator: &573 As you look more closely, you see these are real weapons, not merely decorative.
+narrator: &574 Many different types of weapons are here for those who want to practice.
+narrator: &575 Now all you need is the motivation.
+narrator: &576 You check a few of them for balance and they seem pretty good.
+narrator: &577 It's either a spear or a really big skewer.
+narrator: &578 Hero shish kebabs, anyone?
+narrator: &579 You COULD impale your hand on the spear.  Or you could leave well enough alone.  You choose the second choice.
+narrator: &580 You could use it to spearhead your campaign to be Hero of Albion.  Okay, maybe not.
+narrator: &581 This chart shows some of the basic fighting stances.  You try some of them out, but look ridiculous.
+narrator: &582 Don't take the board.  What would you need it for?
+narrator: &583 You see a thick, durable rug on the floor.
+narrator: &584 There's no blood on the rug.  You wonder if this means they washed it recently.
+cMharryon: &1 Our warriors surround you, Aruthredd Conrad. The walls will fall. Your men will die.
+cAruthredd: &1 What is my crime? Tell me! What is my crime?
+cMharryon: &2 You know your crime, thief of secrets.
+cMharryon: &3 Yield, and we will be merciful.
+narrator: &585 TODO: Aruthredd drawing sword sprite
+narrator: &586 TODO: Mharryon readying spell sprite.
+cMharryon: &4 Anlimisar! The fool...
+narrator: &587 TODO: Mharryon levitate.
+cMharryon: &5 Lancers, bowmen! Retreat!
+cMharryon: &6 Retreat, NOW!
+narrator: &588 You describe the symbols you saw on the cave wall. The Duchess listens intently.
+cColleen: &35 That's....unusual. I do not know what those symbols are for, but they look like Reman symbols.
+cColleen: &36 I really wonder what my father was doing there. 
+narrator: &589 You inform the duchess that you have not found anything else
+cColleen: &37 Please don't give up the search. I need to know what happened to him.
+narrator: &590 You bow before the Duchess Conrad.
+cColleen: &38 My soldiers informed me that Thaen sent you here, %s. What message do you bring?
+narrator: &591 You tell the Duchess about your recent investigations on the duke. When you reveal the sword, her eyes widen and a small but audible gasp escapes her lips.
+cColleen: &39 My father's sword! Did you find anything else?
+cColleen: &40 It's strange that you found his sword in a cave of all places. Are you sure there wasn't anything else?
+cColleen: &41 I really wonder what my father was doing there.
+cColleen: &42 I thank you for bringing this to my attention. Perhaps there is hope for my father yet.
+cColleen: &43 Well met. Have you discovered anything during your search?
+cColleen: &44 Belenus is tending to his wounds as we speak. It should only be a matter of time before my father is well again.
+cColleen: &45 Thank you so much for everything you've done, %s. Please accept this reward as a token of Albion's gratitude.
+cColleen: &46 I'll need to check on my father now. You are dismissed.
+cColleen: &47 You shouldn't be here. Please report this bug.
+narrator: &592 The guards at the castle assist you in taking him to the castle.
+narrator: &593 correct
+narrator: &594 wrong
+narrator: &595 You have passed the riddle test.
+narrator: &596 You're inventory suddenly feels lighter than before. The key you found appears to have disappeared.
+narrator: &597 Maybe you're going crazy but you could have sworn there was a door in the corner just now.
+narrator: &598 You feel the ethereal effects of yourself begin to fade.
+narrator: &599 You can no longer see the colours of the potions.
+narrator: &600 There seems to be something carved into the table. It reads:
+narrator: &601 Hear ye now the tryst of the mage, who, whilst casting, looks up to the sky in hopes of power.
+narrator: &602 And attracts wisdom with gestures, or complicated spells. Thus is the way of the wizard: To break apart the stone of apathy.
+narrator: &603 And, by his magic, warms the cold of ignorance. Wisdom is the key.
+narrator: &604 As arranged, you meet with Tethra at the base of the tower stairs...
+narrator: &605 As you prepare to leave, you find your inventory to be lighter than before. The key you found appears to have gone.
+narrator: &606 A large, ornate chair sits reserved for the master of this tower.
+narrator: &607 The chair does not look too comfortable. You decide to stay on your feet.
+narrator: &608 No. It's definitely not one of those magic talking chairs you once heard about.
+narrator: &609 A bizarrely large candle sits in the center of the room.
+narrator: &610 Feels like wax.
+narrator: &611 Tastes like wax.
+narrator: &612 The faces of many wizards stare at you with curiosity from the stained glass.
+narrator: &613 A statue of a wizard greets visitors near the entrance of the room.
+narrator: &614 It's Gandalf!
+narrator: &615 A table with candles on it lies near the center of the room.
+narrator: &616 A wooden table sits in the front of the room.
+narrator: &617 A sturdy wall curiously blocks the stairway leading up.
+narrator: &618 The wall is far stronger than it appears. Your feeble attempts to push it are....well feeble.
+narrator: &619 You drink from the red potion.
+narrator: &620 You drink from the green potion.
+narrator: &621 You drink from the blue potion.
+narrator: &622 You drink from the yellow potion.
+narrator: &623 You drink from the orange potion.
+narrator: &624 You grab the floating key and place it in your inventory.
+narrator: &625 Your hands merely go through the ghostly key as through it isn't there. You are unable to take it.
+narrator: &626 You are see a ghostly representation of a key floating in the air.
+narrator: &627 The key magically disappears as it is entered into the lock.
+narrator: &628 You find no keyhole in this wall despite feeling a door should exist here.
+narrator: &629 The central part of the wall crumbles away revealing an open passage barely large enough to get through.
+narrator: &630 You are unable to use the door in your current ghostly condition.
+narrator: &631 You feel the magical effects have been removed like poison from a wound.
+narrator: &632 The effects of this potion are already active. You best not drink again until its affect wears off.
+narrator: &633 You drink from the potion.
+narrator: &634 TODO: Welcome to the tower lobby
+narrator: &635 You fell down the pit of something of another.
+narrator: &636 TODO: This room is incomplete as you can see. The solutions for each char type are not yet implemented. Just walk into the pit and exit through the door for now and continue the tower quest.
+narrator: &637 These stairs lead further up the tower.
+narrator: &638 You have completed the Tower Quest. There is now nothing left in the game at least until a clear plan is presented for opening Chapter 3.
+cMarvin: &22 Welcome. Come closer.
+narrator: &639 You find yourself in a large room full of magical oddities.
+narrator: &640 There is a gargoyle-like creature in the center of the room who appears to want to speak with you.
+narrator: &641 The entrance into the mountain is blocked by a heavy stone door. You notice a small inscription which appears to have been only recently carved into the stone.
+narrator: &642 The inscription is written in an ancient language unknown to you, yet as you begin to read it, you feel the true meaning of the words begin to echo in your mind as if somebody read them out to you.
+narrator: &643 The way is blocked, a friend ye seek; discover thine purpose to climb this peak, find ye ally of the masters keep, and then ye scale the mountains steep
+narrator: &644 The mountain looks big, TODO: room description
+narrator: &645 You strike a light on the disused torch providing some extra light for the cave.
+narrator: &646 A disused torch is fixed into the cave wall here. It appears still capable of lighting.
+narrator: &647 There is no need to light the torch. You can already see in the dark thanks to the water from Greenleaf.
+narrator: &648 A sword lies on the ground
+narrator: &649 You pick up the sword.
+narrator: &650 You try speaking to it. Unfortunately, it's not one of those talking swords you've often heard about in legends.
+narrator: &651 Twelve symbols are carved into the wall. While you fail to recognize any of them, you suspect they're not there for show.
+narrator: &652 Twelve symbols are carved into the wall. You recognize them as ancient Remen symbols.
+narrator: &653 You'd better not touch them until you know what they are.
+narrator: &654 You see a man lying on the ground. He appears to be barely conscious and in bad shape.
+narrator: &655 Upon close examination, you realize that you've seen his face on a painting in the throne room; he must be none other than the Duke!
+narrator: &656 You help the Duke back to Albion. As soon as you reached the town gates, the Duke begins to mutter under his weak breath.
+narrator: &657 danger...attack.......ma..magic.................sha.....adow...............mage....
+narrator: &658 After these few words, the duke falls silent. 
+narrator: &659 With enormous effort you and the duke manage to return to the town of Albion.
+narrator: &660 You see the empty alcove where the unconscious duke once lay.
+narrator: &661 Click to start a new game
+narrator: &662 After entering the sequence, the walls begin to rumble
+narrator: &663 You'd better not touch these strange symbols until you know exactly what they are.
+narrator: &664 You fall.
+narrator: &665 The agony of your wounds fades to a numb prickling. The taste of blood becomes a cold bitterness, like dirty metal.
+narrator: &666 You float.
+narrator: &667 A warm wetness surrounds your body, or the memory of it.
+narrator: &668 The woman speaks, but you can't quite make out what she's saying. You ask for her name.
+cEdm: &1 Eloia
+cEdm: &2 I...end...it
+narrator: &669 The woman starts babbling again. The only word you can hear is 'Anlimisar'
+narrator: &670 You're drowning, and your pleas for help drown with you.
+narrator: &671 The air seems to take on more substance as you step into the darkened forest, and you can almost feel its cold hand reach through your chest and squeeze you from the inside.
+narrator: &672 You look around but see little in the darkness yet you feel an unearthy presence. The pain and fear is already too much. Dare you cry for help?
+narrator: &673 Uh oh. You're surrounded. There's no way out except to fight...or die.
+narrator: &674 You attempt to summon all your strength to fight them off, but they overwhelm you. Just as you pass out, you hear a female voice cry out.
+narrator: &675 'You shall not harm him! Away with you!'
+narrator: &676 The forest is hopelessly dark here. You cannot enter until you find a way to see through the veil of darkness.
+cEloia: &1 You're going to be well.
+cAruthredd: &2 No, I won't.
+cEloia: &2 Shhh.
+cAruthredd: &3 Our daughter?
+cEloia: &3 She'll be well.
+cAruthredd: &4 Does he have her?
+cEloia: &4 She'll be well! Rest.
+cEloia: &5 No. He's not yours!
+narrator: &677 TODO: Complete the rest of this cutscene.....sorry but i didn't wanna delay this demo any longer - deltamatrix
+narrator: &678 You find an area of forest which appears unnaturally dark. You feel uneasy about visiting this place.
+narrator: &679 Until you learn more about this cursed place, you should reconsider venturing beyond this point. Hopefully it won't involve eating many carrots.
+narrator: &680 X:%d Y:%d
+narrator: &681 You got zapped. game over
+cShadowmagedolm: &1 Very well! Prepare to die mortal
+cShadowmagedolm: &2 Begone Mortal!
+narrator: &682 The seal seems to have been made using fresh blood, for parts of it still trickle off the pillar.
+narrator: &683 You recognise the blood seal as the dark symbol of power that fernin showed you. There is undoubtedly dark magic at work here.
+narrator: &684 You have never seen this symbol yet before and know nothing of it, yet somehow you feel you should.
+narrator: &685 As you approach this clearing, you are heard by the evil undead creature.
+narrator: &686 You search the remains of your mysterious opponent.
+narrator: &687 The lifeless corpse holds nothing valuable but its origin remains a mystery. You'd better bring evidence of its defeat.
+narrator: &688 You take what remains of the cape worn by the undead creature. Perhaps someone with more expertise on magical matters can look into this in more detail.
+narrator: &689 You are overwhelmed by a foul yet vaguely familiar stench. Just ahead, a robed shadowy creature appears to be guarding a large stone structure. Fortunately, it doesn't notice you...yet.
+narrator: &690 You'd better think of something before the thing sees you.
+narrator: &691 Not smart! The spell has alerted your opponent and now he's mad!
+narrator: &692 Defying the creatures warning, you prepare for battle.
+narrator: &693 You smash the flask of nullwater on the blood seal destroying the magical influence of the shadow mage.
+narrator: &694 You are not close enough.
+narrator: &695 Oh no. The creature has seen you.
+narrator: &696 The stone structure is massive and clearly very magical. Energy charges appear to be emitted by the structure and sucked by the creature. A bright red symbol on the pillar shines brightly, drawing your attention.
+narrator: &697 The water has no effect on the red circle. Perhaps you need something magical to affect it. 
+narrator: &698 Feels like blood
+narrator: &699 The stone structure is massive and clearly very magical. Energy charges appear to be emitted by the structure and sucked by the creature. 
+narrator: &700 The magical stone structure currently remains dormant in its magical influence.
+narrator: &701 Oh no. The creature has heard you sneaking around.
+narrator: &702 The bush bears an odor of poison from its purple berries.
+narrator: &703 Stone spikes. TODO: Better description
+cGolem: &29 You say I fix gate, then you give Reman name? I do it.
+narrator: &704 TODO: The golem picks it up and beings to work on it, bending the steel bars effortlessly.
+cGolem: &30 Gate now fixed.
+cRonbars: &46 Amazing. It's as good as new! Thank you. Albion owes both of you a debt.
+cRonbars: &47 I'll head back to Albion. The sooner the gates are back up, the better.
+narrator: &705 Ron Bars leaves with the wagon. The golem now looks expectantly at you.
+narrator: &706 You named the golem Marvin Draiodoir Cosantoir. The golem smiles in appreciation.
+cGolem: &31 Me like. Good name. You is friend.
+cGolem: &32 I let you in cave now. Go find duke.
+narrator: &707 The cave is very dark.  If there's anything inside, you can't see it from here.
+narrator: &708 You tentatively reach your hand inside the cave.  Fortunately, nothing bites it off.
+narrator: &709 Hello...hello...hello...
+narrator: &710 The cave is completely dark. It will be impossible to navigate without some form of light.
+narrator: &711 Using your flint, you strike a light on your torch and enter the cave.
+narrator: &712 With a spark from a flame dart spell, your torch is lit and you enter the cave.
+narrator: &713 You have a torch but no means to light it. You don't even have sufficient mana to strike a light.
+narrator: &714 As you approach the dark cave, you hear the rumble like that of a large beast approaching.
+narrator: &715 You remove the twisted sword from the ground and take it with you. Let's hope your own sword does not end the same shape.
+narrator: &716 You have already taken the berries.
+narrator: &717 You don't have enough stamina to climb the cliff
+cNiall: &40 TODO dialog: Ah it's you. What are you doing here?
+narrator: &718 After successfully climbing the cliff, you grab the white flower and climb back down.
+narrator: &719 You don't seem to have the skill to climb this cliff
+narrator: &720 You don't have any climbing skill.
+narrator: &721 Using the manipulate spell, you successfully fetch two white flowers from the cliff face.
+narrator: &722 Using the manipulate spell, you pull a berry from the cliffside. The berry appears to be poisonous and so you quickly discard it.
+narrator: &723 There are no more useful berries to take from the cliffside.
+narrator: &724 Niall has already taken the berries you require. There are none left for you here.
+narrator: &725 As you approach the clearing by the cliff, you find Niall at the cliffside.
+narrator: &726 These bushes surround the roots of the three grouped trees.
+narrator: &727 A group of three trees stand in this corner of the forest. Your suspicion is that these trees might have been planted here on purpose.
+narrator: &728 The bushes around the bushes feel smooth and moist. Beyond that, you fail to notice anything of interest here.
+narrator: &729 You watch as the enraged rogue flees into the forest. He barely notices your presence.
+narrator: &730 A sign hangs from the tree.
+narrator: &731 It reads: ALBION
+narrator: &732 In small print at the bottom it says, 'Watch your step!
+narrator: &733 Huge ornate boulders are set on both sides of the path.
+narrator: &734 It won't budge.
+narrator: &735 A fence blocks your way to the west.
+narrator: &736 There is a castle in the distance.
+narrator: &737 The local town of Albion is nestled in the valley.
+narrator: &738 A silver coin is lying on the ground.
+narrator: &739 Some piece of jewelry is shimmering from the grass.
+narrator: &740 You take a brief moment to enjoy the beautiful yet dangerous forest that is, the Albion valley. Despite the torment drawn upon this green land, it is still able to show some beauty in its nature. You wonder how long this can last.
+narrator: &741 You are now alone in the forest with no one around apart from your enemies. You have better keep your wits about you in this dangerous place.
+narrator: &742 A small monolitic pillar stands here. Perhaps it once had great significance. Now it seems long forgotten, moss grows upon it and it is laiden with cracks along it's sides.
+narrator: &743 You place your hands atop the pillar. The stone still feels smooth despite its condition. If there was once magic in this thing, there is none now. It reacts in no way to your touch.
+narrator: &744 While there may very well be words of ritual once spoken around this pillar, those words are long lost to the memory of all.
+narrator: &745 A pile of stones seems to have been deliberately placed here. Perhaps the piles were created in order to clear the ground of the debris.
+narrator: &746 The stones are quite heavy, and you have no reason to exert that much effort in order to dislodge a rock.
+narrator: &747 You notice something about this area of the forest which seems very old and forgotten. The air seems to move slower here, and while the birds still chirp, it seems quieter. You can sense that whatever purpose this area had has long since ended. The grass grows tall, and moss covers most of the rocks.
+narrator: &748 TODO: It's a hollow log! What the f**k did you expect?
+narrator: &749 You see a strange looking man with pointy ears. He presents a rather stern expression towards you and walks away.
+narrator: &750 The strange fellow pushes past you as though you weren't there. It appears that you're very presence may have angered him.
+narrator: &751 A pile of old logs occupies a small corner of this clearing. It has been seen to by turmites.
+narrator: &752 You're not cut out for caber tossing.
+narrator: &753 The turmites don't want to talk to you.
+narrator: &754 This tree has seen better days
+narrator: &755 It's been a while since you've seen any sign of that rogue, chances are he is long gone by now.
+narrator: &756 Very large stones are piled on top of each other to create an odd shaped structure.
+narrator: &757 You can feel that the stone structure is fairly stable and probably very old.
+narrator: &758 The ground here is littered with red leaves. In fact, they are the only red leaves you have seen for miles.
+narrator: &759 A large cave at the base of the mountain lies to the north.
+narrator: &760 You should probably walk there first.
+narrator: &761 An wooden sign points out the directions to Albion and Helmsdale. You notice the word 'Helmsdale' to be quite faded. 
+narrator: &762 You push the sign. It doesn't reveal any secret passages
+narrator: &763 TODO: Nice looking statue cutscene
+narrator: &764 As you cautiously approach the mysterious statue...
+narrator: &765 This tree feeds itself with the fertile water and grassland of the pool.
+narrator: &766 The tree looks like a reasonable place for climbing practice.
+narrator: &767 Some squirrels are fighting among each other. You guess this must be a hot living spot.
+narrator: &768 The sculpture depicts a crying woman. A trickle of water runs from her eyes and down her cheeks to the ground, forming a stream which flows into a small pond at the other end of the meadow. There's something mysteriously magical about this statue. Just looking at it fills you with a deep sense of sorrow.
+narrator: &769 What a work of art!
+narrator: &770 You wonder who put a statue way up here. Now, if only you knew where 'here' is...
+narrator: &771 Now that's interesting.
+narrator: &772 These flowers are very beautiful. They almost seem magical.
+narrator: &773 They remind you of your Aunt Edna's flowers. Except these ones aren't dead.
+narrator: &774 Oh look, the bees are hopping from flower to flower. Aren't they cute?
+narrator: &775 Flowers never were your kind of business. You'd rather pester your little brother.
+narrator: &776 You see some beautiful flowers near the pond.
+narrator: &777 You try to contact some flowers but they are busy.
+narrator: &778 You ask for an audience with the queen bee but she refuses. She's busy taking care of the kingdom.
+narrator: &779 So you've developed a taste for roses?
+narrator: &780 Ouch, watch out for the thorns!
+narrator: &781 As you approach the corner, you feel an overwhelming sense of peace. This is clearly a very magical place.
+narrator: &782 You awaken to find yourself in a peaceful realm beyond the likes you've ever seen. You are safe now.
+cGreenleaf: &30 How are you feeling? You should avoid that cursed place until Chapter 2. TODO: Dialog
+narrator: &783 You wake up.
+cGreenleaf: &31 You spoke to her?
+narrator: &784 You nod. Greenleaf looks down.
+cGreenleaf: &32 She has not spoken to anyone but me in a long time.
+narrator: &785 There is silence.
+narrator: &786 The crystal clear water gushes from the rocks, weaving a crisp path towards the valley.
+narrator: &787 The water tastes cool and refreshing.
+narrator: &788 Climbing this tree is an easy way to improve your climbing skills...... in the complete game
+narrator: &789 The poor lady has lost her life force long before you even first entered this valley.
+narrator: &790 Practicing your romantic lines, Mr Casanova?
+narrator: &791 You pick a magical flower, but it wilts the moment it is free from the earth.
+narrator: &792 You fill an empty flask with the water from the pond and take it with you.
+narrator: &793 The water is the most refreshing of its kind. You feel an immense satisifaction upon sipping the clear water.
+narrator: &794 You return to the pool only to find no-one here.
+narrator: &795 Was that statue glowing before?
+narrator: &796 You wake up with a spitting headache after being struck down by the strange man.....
+narrator: &797 ...only to find yourself tied up. This is clearly not your day.
+cMharryon: &7 Let this be a warning to you. Do not meddle in the dark forest.
+cMharryon: &8 There is a great battle underway, and you will do well not to hinder us.
+cMharryon: &9 Find the stone man.
+narrator: &798 You think that surely a polite exchange of words would have been a suitable warning instead. The strange man must have a bee in his bonnet against visitors.
+narrator: &799 This muddy bog is a mere shadow of what was once a river flowing with life. You wonder what became of this river.
+narrator: &800 The Sidhe disappears into the dark forest leaving you stranded here with your hands and legs bound. You'd better figure a way out of this.
+narrator: &801 You attempt to use the thorny bush to cut the ropes but only succeed in pricking your bound hands.
+narrator: &802 Ouch. Yep, those are sharp thorns in this bush.
+narrator: &803 Now is not the time to go off venturing. With your hands tied, you will surely meet a hasty fate in this dangerous valley.
+narrator: &804 The trees and bushes surrounding this area have a very unwelcome feel about them.
+narrator: &805 This bush is protected by large thorns and prickly branches. While not poisonous, they can deliver a terrible sting.
+narrator: &806 The bridge feels rougher than sandpaper due to age. You decide not to rub your hands on this.
+narrator: &807 Using a rough corner of the bridge, you are able to fray your bounds and free yourself.
+narrator: &808 The stone bridge crosses over the swampy river connecting the two regions of the forest. This bridge has aged due to disrepair leaving many cracks and several rough edges, some of which appear sharp.
+narrator: &809 You feel like taking a swim in that sparkling river. Pity you're all tied up right now.
+narrator: &810 Not is not the time for a mud bath.
