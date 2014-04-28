@@ -85,6 +85,8 @@ struct TimeData {
 struct Flags {
   
 		short Chapter; // Current chapter of the game
+    
+    bool UpperLibraryDoorUnlocked;//Placeholder location untill it's more descript where this flag should be
 
 		// Generic Flags
 		bool FlanaginnRented;
