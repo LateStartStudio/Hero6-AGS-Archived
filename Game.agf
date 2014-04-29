@@ -763,297 +763,352 @@
     <Plugins />
     <Rooms>
       <UnloadedRoomFolder Name="Main">
-        <SubFolders />
-        <UnloadedRooms>
-          <UnloadedRoom>
-            <Number>2</Number>
-            <Description xml:space="preserve">Sheriff Office, General Store, Healer - Albion</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>3</Number>
-            <Description xml:space="preserve">Old Mage Shop</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>4</Number>
-            <Description xml:space="preserve">Magic Shop, Guild - Albion</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>5</Number>
-            <Description xml:space="preserve">Library, Breakin, Thieves Guild - Albion</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>6</Number>
-            <Description xml:space="preserve">North gate, Breakin, Inn Albion</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>7</Number>
-            <Description xml:space="preserve">Shaggy Garden - Albion</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>9</Number>
-            <Description xml:space="preserve">South Gate</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>10</Number>
-            <Description>Flanaginn</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>11</Number>
-            <Description xml:space="preserve">Castle Courtyard</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>12</Number>
-            <Description>Graveyard</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>15</Number>
-            <Description xml:space="preserve">Sheriff Office</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>16</Number>
-            <Description>Smith</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>18</Number>
-            <Description>Library</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>19</Number>
-            <Description xml:space="preserve">Magic Shop</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>20</Number>
-            <Description xml:space="preserve">General Store</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>21</Number>
-            <Description xml:space="preserve">Adventurers Guild</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>22</Number>
-            <Description xml:space="preserve">Adventurers fight room</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>30</Number>
-            <Description xml:space="preserve">Helmsdale - OLD</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>34</Number>
-            <Description xml:space="preserve">Healer - Belenus</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>40</Number>
-            <Description xml:space="preserve">Throne Room</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>41</Number>
-            <Description>M1</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>42</Number>
-            <Description>M2</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>43</Number>
-            <Description>M3</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>44</Number>
-            <Description xml:space="preserve">Tower Lobby</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>45</Number>
-            <Description xml:space="preserve">Pit Monster</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>46</Number>
-            <Description xml:space="preserve">Tower Stairs</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>47</Number>
-            <Description xml:space="preserve">Marvin room</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>48</Number>
-            <Description />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>51</Number>
-            <Description>C2</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>52</Number>
-            <Description>C3</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>54</Number>
-            <Description xml:space="preserve">C - Symbols Room</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>61</Number>
-            <Description />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>64</Number>
-            <Description />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>100</Number>
-            <Description xml:space="preserve">Title screen</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>101</Number>
-            <Description xml:space="preserve">Character Select Screen</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>102</Number>
-            <Description>Combat</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>103</Number>
-            <Description xml:space="preserve">Reman Cave Symbols</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>104</Number>
-            <Description xml:space="preserve">Eloia Dream Sequence</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>111</Number>
-            <Description>X1</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>112</Number>
-            <Description>X2</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>113</Number>
-            <Description>X3</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>114</Number>
-            <Description xml:space="preserve">X4 - Dolmen</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>115</Number>
-            <Description>X5</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>116</Number>
-            <Description>X6</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>119</Number>
-            <Description>X9</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>137</Number>
-            <Description>C1</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>139</Number>
-            <Description>A1</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>140</Number>
-            <Description>A2</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>148</Number>
-            <Description>A3</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>149</Number>
-            <Description>A4</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>152</Number>
-            <Description xml:space="preserve">Hill over albion</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>165</Number>
-            <Description>A5</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>166</Number>
-            <Description>A6</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>167</Number>
-            <Description>R1</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>168</Number>
-            <Description>R2</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>179</Number>
-            <Description>A7</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>180</Number>
-            <Description>A8</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>181</Number>
-            <Description>A9</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>182</Number>
-            <Description>A10</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>183</Number>
-            <Description>R3</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>184</Number>
-            <Description>G1</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>194</Number>
-            <Description>A11</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>195</Number>
-            <Description>A12</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>196</Number>
-            <Description>A13</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>197</Number>
-            <Description>R4</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>198</Number>
-            <Description>G2</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>211</Number>
-            <Description xml:space="preserve">red leaves. A14</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>212</Number>
-            <Description>R5</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>213</Number>
-            <Description>F1</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>214</Number>
-            <Description>F2</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>220</Number>
-            <Description xml:space="preserve">Greenleaf Pool</Description>
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>228</Number>
-            <Description xml:space="preserve">R6 - Bridge</Description>
-          </UnloadedRoom>
-        </UnloadedRooms>
+        <SubFolders>
+          <UnloadedRoomFolder Name="Albion">
+            <SubFolders />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>2</Number>
+                <Description xml:space="preserve">Library, General Store, Healer</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>4</Number>
+                <Description xml:space="preserve">Magic Shop, Adv. Guild</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>5</Number>
+                <Description xml:space="preserve">Sheriff, Break in, Thieves Guild</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>6</Number>
+                <Description xml:space="preserve">North gate, Break in, Inn</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>7</Number>
+                <Description xml:space="preserve">Shaggy Garden</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>9</Number>
+                <Description xml:space="preserve">South Gate</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>10</Number>
+                <Description>Flanaginn</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>11</Number>
+                <Description xml:space="preserve">Castle Courtyard</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>12</Number>
+                <Description>Graveyard</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>15</Number>
+                <Description xml:space="preserve">Sheriff Office</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>16</Number>
+                <Description>Smith</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>18</Number>
+                <Description>Library</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>19</Number>
+                <Description xml:space="preserve">Magic Shop</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>20</Number>
+                <Description xml:space="preserve">General Store</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>21</Number>
+                <Description xml:space="preserve">Adventurers Guild</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>22</Number>
+                <Description xml:space="preserve">Adventurers fight room</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>34</Number>
+                <Description>Healer</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>40</Number>
+                <Description xml:space="preserve">Throne Room</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>152</Number>
+                <Description xml:space="preserve">Hill over Albion</Description>
+              </UnloadedRoom>
+            </UnloadedRooms>
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="Opening Rooms">
+            <SubFolders />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>100</Number>
+                <Description xml:space="preserve">Title screen</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>101</Number>
+                <Description xml:space="preserve">Character Select Screen</Description>
+              </UnloadedRoom>
+            </UnloadedRooms>
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="Unused Rooms">
+            <SubFolders />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>3</Number>
+                <Description xml:space="preserve">Mage Shop - OLD</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>30</Number>
+                <Description xml:space="preserve">Helmsdale - OLD</Description>
+              </UnloadedRoom>
+            </UnloadedRooms>
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="Marvin's Tower">
+            <SubFolders />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>41</Number>
+                <Description xml:space="preserve">Path to Marvin 1</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>42</Number>
+                <Description xml:space="preserve">Path to Marvin 2</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>43</Number>
+                <Description xml:space="preserve">Path to Marvin 3</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>44</Number>
+                <Description xml:space="preserve">Tower Lobby</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>45</Number>
+                <Description xml:space="preserve">Pit Monster - Deprecate</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>46</Number>
+                <Description xml:space="preserve">Tower Stairs</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>47</Number>
+                <Description xml:space="preserve">Marvin room</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>48</Number>
+                <Description xml:space="preserve">Not the path to Marvin</Description>
+              </UnloadedRoom>
+            </UnloadedRooms>
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="Forest Locations">
+            <SubFolders>
+              <UnloadedRoomFolder Name="Dark Forest">
+                <SubFolders />
+                <UnloadedRooms>
+                  <UnloadedRoom>
+                    <Number>111</Number>
+                    <Description>X1</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>112</Number>
+                    <Description>X2</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>113</Number>
+                    <Description>X3</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>114</Number>
+                    <Description xml:space="preserve">X4 - Dolmen</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>115</Number>
+                    <Description>X5</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>116</Number>
+                    <Description>X6</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>119</Number>
+                    <Description>X9</Description>
+                  </UnloadedRoom>
+                </UnloadedRooms>
+              </UnloadedRoomFolder>
+              <UnloadedRoomFolder Name="Forest">
+                <SubFolders />
+                <UnloadedRooms>
+                  <UnloadedRoom>
+                    <Number>137</Number>
+                    <Description>C1</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>139</Number>
+                    <Description>A1</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>140</Number>
+                    <Description>A2</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>148</Number>
+                    <Description>A3</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>149</Number>
+                    <Description>A4</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>165</Number>
+                    <Description>A5</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>166</Number>
+                    <Description>A6</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>167</Number>
+                    <Description>R1</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>168</Number>
+                    <Description>R2</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>179</Number>
+                    <Description>A7</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>180</Number>
+                    <Description>A8</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>181</Number>
+                    <Description>A9</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>182</Number>
+                    <Description>A10</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>183</Number>
+                    <Description>R3</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>184</Number>
+                    <Description>G1</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>194</Number>
+                    <Description>A11</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>195</Number>
+                    <Description>A12</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>196</Number>
+                    <Description>A13</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>197</Number>
+                    <Description>R4</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>198</Number>
+                    <Description>G2</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>211</Number>
+                    <Description xml:space="preserve">red leaves. A14</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>212</Number>
+                    <Description>R5</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>220</Number>
+                    <Description xml:space="preserve">Greenleaf Pool</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>228</Number>
+                    <Description xml:space="preserve">R6 - Bridge</Description>
+                  </UnloadedRoom>
+                </UnloadedRooms>
+              </UnloadedRoomFolder>
+              <UnloadedRoomFolder Name="Cave">
+                <SubFolders />
+                <UnloadedRooms>
+                  <UnloadedRoom>
+                    <Number>51</Number>
+                    <Description>C2</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>52</Number>
+                    <Description>C3</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>54</Number>
+                    <Description xml:space="preserve">C - Symbols Room</Description>
+                  </UnloadedRoom>
+                  <UnloadedRoom>
+                    <Number>103</Number>
+                    <Description xml:space="preserve">Reman Cave Symbols</Description>
+                  </UnloadedRoom>
+                </UnloadedRooms>
+              </UnloadedRoomFolder>
+            </SubFolders>
+            <UnloadedRooms />
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="Unknown Rooms">
+            <SubFolders />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>61</Number>
+                <Description />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>64</Number>
+                <Description />
+              </UnloadedRoom>
+            </UnloadedRooms>
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="Sequences">
+            <SubFolders />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>102</Number>
+                <Description>Combat</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>104</Number>
+                <Description xml:space="preserve">Eloia Dream Sequence</Description>
+              </UnloadedRoom>
+            </UnloadedRooms>
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="Farmhouse">
+            <SubFolders />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>213</Number>
+                <Description>F1</Description>
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>214</Number>
+                <Description>F2</Description>
+              </UnloadedRoom>
+            </UnloadedRooms>
+          </UnloadedRoomFolder>
+        </SubFolders>
+        <UnloadedRooms />
       </UnloadedRoomFolder>
     </Rooms>
     <GUIs>
@@ -55922,7 +55977,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music10.ogg</SourceFileName>
@@ -55934,7 +55989,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music11.ogg</SourceFileName>
@@ -55946,7 +56001,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music12.ogg</SourceFileName>
@@ -55958,7 +56013,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music13.ogg</SourceFileName>
@@ -55970,7 +56025,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music14.ogg</SourceFileName>
@@ -55982,7 +56037,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music15.ogg</SourceFileName>
@@ -55994,7 +56049,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music16.ogg</SourceFileName>
@@ -56006,7 +56061,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music17.ogg</SourceFileName>
@@ -56018,7 +56073,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music18.ogg</SourceFileName>
@@ -56030,7 +56085,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music19.ogg</SourceFileName>
@@ -56042,7 +56097,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music2.ogg</SourceFileName>
@@ -56054,7 +56109,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music20.ogg</SourceFileName>
@@ -56066,7 +56121,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music21.ogg</SourceFileName>
@@ -56078,7 +56133,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music22.mp3</SourceFileName>
@@ -56090,7 +56145,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music23.ogg</SourceFileName>
@@ -56102,7 +56157,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music24.ogg</SourceFileName>
@@ -56114,7 +56169,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music25.mp3</SourceFileName>
@@ -56126,7 +56181,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music26.mp3</SourceFileName>
@@ -56138,7 +56193,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music27.mp3</SourceFileName>
@@ -56150,7 +56205,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music3.ogg</SourceFileName>
@@ -56162,7 +56217,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music4.ogg</SourceFileName>
@@ -56174,7 +56229,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music5.ogg</SourceFileName>
@@ -56186,7 +56241,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:31Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:31Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music6.ogg</SourceFileName>
@@ -56198,7 +56253,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:31Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:31Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music7.ogg</SourceFileName>
@@ -56210,7 +56265,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:31Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:31Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music8.ogg</SourceFileName>
@@ -56222,7 +56277,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:31Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:31Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music9.mp3</SourceFileName>
@@ -56234,7 +56289,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 05:20:31Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-23 15:20:31Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -56258,7 +56313,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 11:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.mp3</SourceFileName>
@@ -56270,7 +56325,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-27 09:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-26 19:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
@@ -56282,7 +56337,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-10 03:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-09 13:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound12.ogg</SourceFileName>
@@ -56294,7 +56349,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-10 00:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-09 08:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
@@ -56306,7 +56361,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 11:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
@@ -56318,7 +56373,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 11:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
@@ -56330,7 +56385,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 11:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
@@ -56342,7 +56397,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 11:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
@@ -56354,7 +56409,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 11:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
@@ -56366,7 +56421,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 11:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
@@ -56378,7 +56433,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 11:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
@@ -56390,7 +56445,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 10:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 20:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Robert Kety\Google Drive\Hero6\Hero6_32bit current\Sound\Scored Points.ogg</SourceFileName>
@@ -56402,7 +56457,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-09 22:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-09 06:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
