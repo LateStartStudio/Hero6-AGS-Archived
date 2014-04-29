@@ -1703,10 +1703,10 @@
                 <MinValue>0</MinValue>
                 <MaxValue>99</MaxValue>
                 <Value>99</Value>
-                <Height>62</Height>
+                <Height>37</Height>
                 <Locked>False</Locked>
                 <Width>1</Width>
-                <Left>144</Left>
+                <Left>157</Left>
                 <Top>95</Top>
                 <ZOrder>3</ZOrder>
                 <ID>5</ID>
@@ -1723,7 +1723,7 @@
                 <Height>72</Height>
                 <Locked>False</Locked>
                 <Width>1</Width>
-                <Left>117</Left>
+                <Left>120</Left>
                 <Top>95</Top>
                 <ZOrder>4</ZOrder>
                 <ID>6</ID>
@@ -1740,7 +1740,7 @@
                 <Height>72</Height>
                 <Locked>True</Locked>
                 <Width>1</Width>
-                <Left>89</Left>
+                <Left>81</Left>
                 <Top>95</Top>
                 <ZOrder>7</ZOrder>
                 <ID>7</ID>
@@ -20476,7 +20476,7 @@ stop
                   <Sprite Slot="1037" Width="43" Height="29" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="1038" Width="243" Height="236" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Robert Kety\Desktop\options.bmp</FileName>
+                      <FileName>C:\Users\Robert Kety\Desktop\Google Drive\Hero6 Files\Supporting Files\GUI\options with difficulty.png</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="1039" Width="17" Height="6" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
@@ -55922,7 +55922,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music10.ogg</SourceFileName>
@@ -55934,7 +55934,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music11.ogg</SourceFileName>
@@ -55946,7 +55946,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music12.ogg</SourceFileName>
@@ -55958,7 +55958,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music13.ogg</SourceFileName>
@@ -55970,7 +55970,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music14.ogg</SourceFileName>
@@ -55982,7 +55982,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music15.ogg</SourceFileName>
@@ -55994,7 +55994,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music16.ogg</SourceFileName>
@@ -56006,7 +56006,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music17.ogg</SourceFileName>
@@ -56018,7 +56018,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music18.ogg</SourceFileName>
@@ -56030,7 +56030,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music19.ogg</SourceFileName>
@@ -56042,7 +56042,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music2.ogg</SourceFileName>
@@ -56054,7 +56054,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music20.ogg</SourceFileName>
@@ -56066,7 +56066,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music21.ogg</SourceFileName>
@@ -56078,7 +56078,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music22.mp3</SourceFileName>
@@ -56090,7 +56090,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music23.ogg</SourceFileName>
@@ -56102,7 +56102,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music24.ogg</SourceFileName>
@@ -56114,7 +56114,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music25.mp3</SourceFileName>
@@ -56126,7 +56126,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music26.mp3</SourceFileName>
@@ -56138,7 +56138,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music27.mp3</SourceFileName>
@@ -56150,7 +56150,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music3.ogg</SourceFileName>
@@ -56162,7 +56162,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music4.ogg</SourceFileName>
@@ -56174,7 +56174,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music5.ogg</SourceFileName>
@@ -56186,7 +56186,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:31Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:31Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music6.ogg</SourceFileName>
@@ -56198,7 +56198,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:31Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:31Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music7.ogg</SourceFileName>
@@ -56210,7 +56210,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:31Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:31Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music8.ogg</SourceFileName>
@@ -56222,7 +56222,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:31Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:31Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music9.mp3</SourceFileName>
@@ -56234,7 +56234,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-24 19:20:31Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-24 05:20:31Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -56258,7 +56258,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 15:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.mp3</SourceFileName>
@@ -56270,7 +56270,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-27 23:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-27 09:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
@@ -56282,7 +56282,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-10 17:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-10 03:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound12.ogg</SourceFileName>
@@ -56294,7 +56294,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-10 16:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-10 00:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
@@ -56306,7 +56306,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 15:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
@@ -56318,7 +56318,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 15:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
@@ -56330,7 +56330,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 15:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
@@ -56342,7 +56342,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 15:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
@@ -56354,7 +56354,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 15:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
@@ -56366,7 +56366,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 15:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
@@ -56378,7 +56378,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-24 15:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-24 01:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
@@ -56390,7 +56390,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-25 00:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-24 10:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Robert Kety\Google Drive\Hero6\Hero6_32bit current\Sound\Scored Points.ogg</SourceFileName>
@@ -56402,7 +56402,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-10 14:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-09 22:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
