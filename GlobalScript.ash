@@ -18,6 +18,9 @@ import function invUp_Click();
 
 /* IconbarGUI Script Functions - A modularization initiative */
 import function iconWalk_Click();
+import function iconLook_Click();
+import function iconInteract_Click();
+import function iconTalk_Click();
 import function iconStar_Click();
 import function iconMagic_Click();
 import function iconCurInv_Click();
