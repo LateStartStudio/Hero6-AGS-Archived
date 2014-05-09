@@ -56109,8 +56109,8 @@ stop
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <SourceFileName>music\music1.ogg</SourceFileName>
                 <ScriptName>aMusic1</ScriptName>
+                <SourceFileName>music\music1.ogg</SourceFileName>
                 <Index>1</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56118,11 +56118,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music10.ogg</SourceFileName>
                 <ScriptName>aMusic10</ScriptName>
+                <SourceFileName>music\music10.ogg</SourceFileName>
                 <Index>2</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56130,11 +56130,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music11.ogg</SourceFileName>
                 <ScriptName>aMusic11</ScriptName>
+                <SourceFileName>music\music11.ogg</SourceFileName>
                 <Index>3</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56142,11 +56142,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music12.ogg</SourceFileName>
                 <ScriptName>aMusic12</ScriptName>
+                <SourceFileName>music\music12.ogg</SourceFileName>
                 <Index>4</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56154,11 +56154,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music13.ogg</SourceFileName>
                 <ScriptName>aMusic13</ScriptName>
+                <SourceFileName>music\music13.ogg</SourceFileName>
                 <Index>5</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56166,11 +56166,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music14.ogg</SourceFileName>
                 <ScriptName>aMusic14</ScriptName>
+                <SourceFileName>music\music14.ogg</SourceFileName>
                 <Index>6</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56178,11 +56178,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music15.ogg</SourceFileName>
                 <ScriptName>aMusic15</ScriptName>
+                <SourceFileName>music\music15.ogg</SourceFileName>
                 <Index>7</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56190,11 +56190,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music16.ogg</SourceFileName>
                 <ScriptName>aMusic16</ScriptName>
+                <SourceFileName>music\music16.ogg</SourceFileName>
                 <Index>8</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56202,11 +56202,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music17.ogg</SourceFileName>
                 <ScriptName>aMusic17</ScriptName>
+                <SourceFileName>music\music17.ogg</SourceFileName>
                 <Index>9</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56214,11 +56214,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music18.ogg</SourceFileName>
                 <ScriptName>aMusic18</ScriptName>
+                <SourceFileName>music\music18.ogg</SourceFileName>
                 <Index>10</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56226,11 +56226,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music19.ogg</SourceFileName>
                 <ScriptName>aMusic19</ScriptName>
+                <SourceFileName>music\music19.ogg</SourceFileName>
                 <Index>11</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56238,11 +56238,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music2.ogg</SourceFileName>
                 <ScriptName>aMusic2</ScriptName>
+                <SourceFileName>music\music2.ogg</SourceFileName>
                 <Index>12</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56250,11 +56250,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music20.ogg</SourceFileName>
                 <ScriptName>aMusic20</ScriptName>
+                <SourceFileName>music\music20.ogg</SourceFileName>
                 <Index>13</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56262,11 +56262,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music21.ogg</SourceFileName>
                 <ScriptName>aMusic21</ScriptName>
+                <SourceFileName>music\music21.ogg</SourceFileName>
                 <Index>14</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56274,11 +56274,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music22.mp3</SourceFileName>
                 <ScriptName>aMusic22</ScriptName>
+                <SourceFileName>music\music22.mp3</SourceFileName>
                 <Index>15</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56286,11 +56286,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music23.ogg</SourceFileName>
                 <ScriptName>aMusic23</ScriptName>
+                <SourceFileName>music\music23.ogg</SourceFileName>
                 <Index>16</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56298,11 +56298,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music24.ogg</SourceFileName>
                 <ScriptName>aMusic24</ScriptName>
+                <SourceFileName>music\music24.ogg</SourceFileName>
                 <Index>17</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56310,11 +56310,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music25.mp3</SourceFileName>
                 <ScriptName>aMusic25</ScriptName>
+                <SourceFileName>music\music25.mp3</SourceFileName>
                 <Index>18</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56322,11 +56322,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music26.mp3</SourceFileName>
                 <ScriptName>aMusic26</ScriptName>
+                <SourceFileName>music\music26.mp3</SourceFileName>
                 <Index>19</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56334,11 +56334,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music27.mp3</SourceFileName>
                 <ScriptName>aMusic27</ScriptName>
+                <SourceFileName>music\music27.mp3</SourceFileName>
                 <Index>20</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56346,11 +56346,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music3.ogg</SourceFileName>
                 <ScriptName>aMusic3</ScriptName>
+                <SourceFileName>music\music3.ogg</SourceFileName>
                 <Index>21</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56358,11 +56358,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music4.ogg</SourceFileName>
                 <ScriptName>aMusic4</ScriptName>
+                <SourceFileName>music\music4.ogg</SourceFileName>
                 <Index>22</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56370,11 +56370,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music5.ogg</SourceFileName>
                 <ScriptName>aMusic5</ScriptName>
+                <SourceFileName>music\music5.ogg</SourceFileName>
                 <Index>23</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56382,11 +56382,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music6.ogg</SourceFileName>
                 <ScriptName>aMusic6</ScriptName>
+                <SourceFileName>music\music6.ogg</SourceFileName>
                 <Index>24</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56394,11 +56394,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music7.ogg</SourceFileName>
                 <ScriptName>aMusic7</ScriptName>
+                <SourceFileName>music\music7.ogg</SourceFileName>
                 <Index>25</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56406,11 +56406,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music8.ogg</SourceFileName>
                 <ScriptName>aMusic8</ScriptName>
+                <SourceFileName>music\music8.ogg</SourceFileName>
                 <Index>26</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56418,11 +56418,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music9.mp3</SourceFileName>
                 <ScriptName>aMusic9</ScriptName>
+                <SourceFileName>music\music9.mp3</SourceFileName>
                 <Index>27</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56430,7 +56430,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-26 09:27:36Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -56445,8 +56445,8 @@ stop
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <SourceFileName>sound\sound1.wav</SourceFileName>
                 <ScriptName>aSound1</ScriptName>
+                <SourceFileName>sound\sound1.wav</SourceFileName>
                 <Index>28</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56454,11 +56454,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-23 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 07:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound10.mp3</SourceFileName>
                 <ScriptName>aSound10</ScriptName>
+                <SourceFileName>sound\sound10.mp3</SourceFileName>
                 <Index>29</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56466,11 +56466,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-26 22:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-26 15:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound10.wav</SourceFileName>
                 <ScriptName>aSound101</ScriptName>
+                <SourceFileName>sound\sound10.wav</SourceFileName>
                 <Index>30</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56478,11 +56478,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-09 16:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-09 09:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound12.ogg</SourceFileName>
                 <ScriptName>aSound12</ScriptName>
+                <SourceFileName>sound\sound12.ogg</SourceFileName>
                 <Index>31</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56490,11 +56490,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-09 05:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-08 21:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound2.wav</SourceFileName>
                 <ScriptName>aSound2</ScriptName>
+                <SourceFileName>sound\sound2.wav</SourceFileName>
                 <Index>32</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56502,11 +56502,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-23 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 07:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound3.wav</SourceFileName>
                 <ScriptName>aSound3</ScriptName>
+                <SourceFileName>sound\sound3.wav</SourceFileName>
                 <Index>33</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56514,11 +56514,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-23 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 07:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound4.wav</SourceFileName>
                 <ScriptName>aSound4</ScriptName>
+                <SourceFileName>sound\sound4.wav</SourceFileName>
                 <Index>34</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56526,11 +56526,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-23 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 07:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound5.wav</SourceFileName>
                 <ScriptName>aSound5</ScriptName>
+                <SourceFileName>sound\sound5.wav</SourceFileName>
                 <Index>35</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56538,11 +56538,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-23 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 07:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound6.wav</SourceFileName>
                 <ScriptName>aSound6</ScriptName>
+                <SourceFileName>sound\sound6.wav</SourceFileName>
                 <Index>36</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56550,11 +56550,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-23 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 07:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound7.wav</SourceFileName>
                 <ScriptName>aSound7</ScriptName>
+                <SourceFileName>sound\sound7.wav</SourceFileName>
                 <Index>37</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56562,11 +56562,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-23 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 07:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound8.wav</SourceFileName>
                 <ScriptName>aSound8</ScriptName>
+                <SourceFileName>sound\sound8.wav</SourceFileName>
                 <Index>38</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56574,11 +56574,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-23 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 07:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound9.wav</SourceFileName>
                 <ScriptName>aSound9</ScriptName>
+                <SourceFileName>sound\sound9.wav</SourceFileName>
                 <Index>39</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56586,11 +56586,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-23 23:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-23 16:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName xml:space="preserve">C:\Users\Robert Kety\Google Drive\Hero6\Hero6_32bit current\Sound\Scored Points.ogg</SourceFileName>
                 <ScriptName>aScored11</ScriptName>
+                <SourceFileName xml:space="preserve">C:\Users\Robert Kety\Google Drive\Hero6\Hero6_32bit current\Sound\Scored Points.ogg</SourceFileName>
                 <Index>40</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56598,7 +56598,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-09 03:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-08 19:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -56622,24 +56622,24 @@ stop
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <TypeID>1</TypeID>
         <Name xml:space="preserve">Ambient Sound</Name>
+        <TypeID>1</TypeID>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <TypeID>2</TypeID>
         <Name>Music</Name>
+        <TypeID>2</TypeID>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>FastFade</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <TypeID>3</TypeID>
         <Name>Sound</Name>
+        <TypeID>3</TypeID>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
