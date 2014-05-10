@@ -2289,11 +2289,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>2</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>3</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
                 <Name>btnAddStr</Name>
@@ -2312,8 +2312,8 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
+                <Width>12</Width>
+                <Left>163</Left>
                 <Top>10</Top>
                 <ZOrder>1</ZOrder>
                 <ID>1</ID>
@@ -2331,11 +2331,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>25</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>26</Top>
                 <ZOrder>2</ZOrder>
                 <ID>2</ID>
                 <Name>btnAddInt</Name>
@@ -2354,9 +2354,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>32</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>33</Top>
                 <ZOrder>3</ZOrder>
                 <ID>3</ID>
                 <Name>btnSubInt</Name>
@@ -2373,11 +2373,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>48</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>49</Top>
                 <ZOrder>4</ZOrder>
                 <ID>4</ID>
                 <Name>btnAddAgi</Name>
@@ -2396,9 +2396,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>55</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>56</Top>
                 <ZOrder>5</ZOrder>
                 <ID>5</ID>
                 <Name>btnSubAgi</Name>
@@ -2415,11 +2415,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>71</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>72</Top>
                 <ZOrder>6</ZOrder>
                 <ID>6</ID>
                 <Name>btnAddVit</Name>
@@ -2438,9 +2438,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>78</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>79</Top>
                 <ZOrder>7</ZOrder>
                 <ID>7</ID>
                 <Name>btnSubVit</Name>
@@ -2457,11 +2457,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>94</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>95</Top>
                 <ZOrder>8</ZOrder>
                 <ID>8</ID>
                 <Name>btnAddLuck</Name>
@@ -2480,9 +2480,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>101</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>102</Top>
                 <ZOrder>9</ZOrder>
                 <ID>9</ID>
                 <Name>btnSubLuck</Name>
@@ -2499,11 +2499,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>117</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>118</Top>
                 <ZOrder>10</ZOrder>
                 <ID>10</ID>
                 <Name>btnAddMagic</Name>
@@ -2522,9 +2522,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>161</Left>
-                <Top>124</Top>
+                <Width>12</Width>
+                <Left>163</Left>
+                <Top>125</Top>
                 <ZOrder>11</ZOrder>
                 <ID>11</ID>
                 <Name>btnSubMagic</Name>
@@ -2537,8 +2537,8 @@
                 <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>20</Width>
-                <Left>180</Left>
-                <Top>5</Top>
+                <Left>177</Left>
+                <Top>6</Top>
                 <ZOrder>12</ZOrder>
                 <ID>12</ID>
                 <Name>lblStr</Name>
@@ -2551,8 +2551,8 @@
                 <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>23</Width>
-                <Left>176</Left>
-                <Top>28</Top>
+                <Left>174</Left>
+                <Top>29</Top>
                 <ZOrder>13</ZOrder>
                 <ID>13</ID>
                 <Name>lblInt</Name>
@@ -2565,8 +2565,8 @@
                 <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>23</Width>
-                <Left>176</Left>
-                <Top>51</Top>
+                <Left>174</Left>
+                <Top>52</Top>
                 <ZOrder>14</ZOrder>
                 <ID>14</ID>
                 <Name>lblAgi</Name>
@@ -2579,8 +2579,8 @@
                 <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>25</Width>
-                <Left>174</Left>
-                <Top>74</Top>
+                <Left>172</Left>
+                <Top>75</Top>
                 <ZOrder>15</ZOrder>
                 <ID>15</ID>
                 <Name>lblVit</Name>
@@ -2593,8 +2593,8 @@
                 <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>24</Width>
-                <Left>175</Left>
-                <Top>97</Top>
+                <Left>173</Left>
+                <Top>98</Top>
                 <ZOrder>16</ZOrder>
                 <ID>16</ID>
                 <Name>lblLuck</Name>
@@ -2607,8 +2607,8 @@
                 <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>25</Width>
-                <Left>174</Left>
-                <Top>120</Top>
+                <Left>172</Left>
+                <Top>121</Top>
                 <ZOrder>17</ZOrder>
                 <ID>17</ID>
                 <Name>lblMagic</Name>
@@ -2621,8 +2621,8 @@
                 <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>25</Width>
-                <Left>174</Left>
-                <Top>143</Top>
+                <Left>172</Left>
+                <Top>144</Top>
                 <ZOrder>18</ZOrder>
                 <ID>18</ID>
                 <Name />
@@ -2635,8 +2635,8 @@
                 <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
-                <Left>108</Left>
-                <Top>188</Top>
+                <Left>107</Left>
+                <Top>190</Top>
                 <ZOrder>19</ZOrder>
                 <ID>19</ID>
                 <Name>lblAllocateLbl</Name>
@@ -2649,7 +2649,7 @@
                 <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>24</Width>
-                <Left>175</Left>
+                <Left>176</Left>
                 <Top>190</Top>
                 <ZOrder>20</ZOrder>
                 <ID>20</ID>
@@ -2706,7 +2706,7 @@
                 <Locked>False</Locked>
                 <Width>93</Width>
                 <Left>107</Left>
-                <Top>164</Top>
+                <Top>167</Top>
                 <ZOrder>23</ZOrder>
                 <ID>23</ID>
                 <Name>lblCharHealth</Name>
@@ -2765,11 +2765,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>2</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>3</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
                 <Name>btnAddWeaponUse</Name>
@@ -2788,8 +2788,8 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
+                <Width>12</Width>
+                <Left>57</Left>
                 <Top>10</Top>
                 <ZOrder>1</ZOrder>
                 <ID>1</ID>
@@ -2807,11 +2807,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>25</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>26</Top>
                 <ZOrder>2</ZOrder>
                 <ID>2</ID>
                 <Name>btnAddParry</Name>
@@ -2830,9 +2830,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>32</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>33</Top>
                 <ZOrder>3</ZOrder>
                 <ID>3</ID>
                 <Name>btnSubParry</Name>
@@ -2849,11 +2849,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>48</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>49</Top>
                 <ZOrder>4</ZOrder>
                 <ID>4</ID>
                 <Name>btnAddDodge</Name>
@@ -2872,9 +2872,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>55</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>56</Top>
                 <ZOrder>5</ZOrder>
                 <ID>5</ID>
                 <Name>btnSubDodge</Name>
@@ -2891,11 +2891,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>71</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>72</Top>
                 <ZOrder>6</ZOrder>
                 <ID>6</ID>
                 <Name>btnAddThrow</Name>
@@ -2914,9 +2914,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>78</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>79</Top>
                 <ZOrder>7</ZOrder>
                 <ID>7</ID>
                 <Name>btnSubThrow</Name>
@@ -2933,11 +2933,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>94</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>95</Top>
                 <ZOrder>8</ZOrder>
                 <ID>8</ID>
                 <Name>btnAddClimb</Name>
@@ -2956,9 +2956,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>101</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>102</Top>
                 <ZOrder>9</ZOrder>
                 <ID>9</ID>
                 <Name>btnSubClimb</Name>
@@ -2975,11 +2975,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>117</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>118</Top>
                 <ZOrder>10</ZOrder>
                 <ID>10</ID>
                 <Name>btnAddStealth</Name>
@@ -2998,9 +2998,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>124</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>125</Top>
                 <ZOrder>11</ZOrder>
                 <ID>11</ID>
                 <Name>btnSubStealth</Name>
@@ -3017,11 +3017,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>529</Image>
                 <Text xml:space="preserve">New Button</Text>
-                <Height>6</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>140</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>141</Top>
                 <ZOrder>12</ZOrder>
                 <ID>12</ID>
                 <Name>btnAddLock</Name>
@@ -3040,9 +3040,9 @@
                 <Text xml:space="preserve">New Button</Text>
                 <Height>7</Height>
                 <Locked>False</Locked>
-                <Width>11</Width>
-                <Left>55</Left>
-                <Top>147</Top>
+                <Width>12</Width>
+                <Left>57</Left>
+                <Top>148</Top>
                 <ZOrder>13</ZOrder>
                 <ID>13</ID>
                 <Name>btnSubLock</Name>
@@ -3055,8 +3055,8 @@
                 <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>23</Width>
-                <Left>70</Left>
-                <Top>5</Top>
+                <Left>68</Left>
+                <Top>6</Top>
                 <ZOrder>14</ZOrder>
                 <ID>14</ID>
                 <Name>lblWeaponUse</Name>
@@ -3069,8 +3069,8 @@
                 <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>24</Width>
-                <Left>70</Left>
-                <Top>28</Top>
+                <Left>67</Left>
+                <Top>29</Top>
                 <ZOrder>15</ZOrder>
                 <ID>15</ID>
                 <Name>lblParry</Name>
@@ -3083,8 +3083,8 @@
                 <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>25</Width>
-                <Left>68</Left>
-                <Top>51</Top>
+                <Left>66</Left>
+                <Top>52</Top>
                 <ZOrder>16</ZOrder>
                 <ID>16</ID>
                 <Name>lblDodge</Name>
@@ -3097,8 +3097,8 @@
                 <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>24</Width>
-                <Left>70</Left>
-                <Top>74</Top>
+                <Left>67</Left>
+                <Top>75</Top>
                 <ZOrder>17</ZOrder>
                 <ID>17</ID>
                 <Name>lblThrow</Name>
@@ -3111,8 +3111,8 @@
                 <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>22</Width>
-                <Left>71</Left>
-                <Top>97</Top>
+                <Left>69</Left>
+                <Top>98</Top>
                 <ZOrder>18</ZOrder>
                 <ID>18</ID>
                 <Name>lblClimb</Name>
@@ -3125,8 +3125,8 @@
                 <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>24</Width>
-                <Left>70</Left>
-                <Top>120</Top>
+                <Left>67</Left>
+                <Top>121</Top>
                 <ZOrder>19</ZOrder>
                 <ID>19</ID>
                 <Name>lblStealth</Name>
@@ -3139,8 +3139,8 @@
                 <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>25</Width>
-                <Left>68</Left>
-                <Top>143</Top>
+                <Left>66</Left>
+                <Top>144</Top>
                 <ZOrder>20</ZOrder>
                 <ID>20</ID>
                 <Name>lblLock</Name>
@@ -3175,7 +3175,7 @@
                 <Locked>False</Locked>
                 <Width>92</Width>
                 <Left>2</Left>
-                <Top>164</Top>
+                <Top>167</Top>
                 <ZOrder>22</ZOrder>
                 <ID>22</ID>
                 <Name>lblCharStamina</Name>
@@ -3189,7 +3189,7 @@
                 <Locked>False</Locked>
                 <Width>91</Width>
                 <Left>3</Left>
-                <Top>186</Top>
+                <Top>190</Top>
                 <ZOrder>23</ZOrder>
                 <ID>23</ID>
                 <Name>lblCharMagic</Name>
@@ -6962,18 +6962,18 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>100</Height>
-              <Width>200</Width>
+              <Height>101</Height>
+              <Width>198</Width>
               <Left>0</Left>
               <Top>0</Top>
               <Clickable>True</Clickable>
               <Visibility>Normal</Visibility>
               <PopupYPos>0</PopupYPos>
               <ZOrder>15</ZOrder>
-              <BorderColor>2</BorderColor>
+              <BorderColor>0</BorderColor>
               <Transparency>0</Transparency>
-              <BackgroundColor>8</BackgroundColor>
-              <BackgroundImage>34</BackgroundImage>
+              <BackgroundColor>0</BackgroundColor>
+              <BackgroundImage>0</BackgroundImage>
               <ID>35</ID>
               <Name>gDialogBox</Name>
             </NormalGUI>
@@ -6986,9 +6986,9 @@
                 <Height>58</Height>
                 <Locked>False</Locked>
                 <Width>160</Width>
-                <Left>16</Left>
-                <Top>8</Top>
-                <ZOrder>0</ZOrder>
+                <Left>19</Left>
+                <Top>12</Top>
+                <ZOrder>1</ZOrder>
                 <ID>0</ID>
                 <Name>lblDialogBox</Name>
               </GUILabel>
@@ -7008,8 +7008,8 @@
                 <Locked>False</Locked>
                 <Width>60</Width>
                 <Left>27</Left>
-                <Top>74</Top>
-                <ZOrder>1</ZOrder>
+                <Top>73</Top>
+                <ZOrder>2</ZOrder>
                 <ID>1</ID>
                 <Name>btnCancelDialogBox</Name>
               </GUIButton>
@@ -7029,10 +7029,367 @@
                 <Locked>False</Locked>
                 <Width>60</Width>
                 <Left>107</Left>
-                <Top>74</Top>
-                <ZOrder>2</ZOrder>
+                <Top>73</Top>
+                <ZOrder>3</ZOrder>
                 <ID>2</ID>
                 <Name>btnOKDialogBox</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>True</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>34</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>95</Height>
+                <Locked>False</Locked>
+                <Width>193</Width>
+                <Left>2</Left>
+                <Top>3</Top>
+                <ZOrder>0</ZOrder>
+                <ID>3</ID>
+                <Name>Button1</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>39</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>190</Left>
+                <Top>6</Top>
+                <ZOrder>4</ZOrder>
+                <ID>4</ID>
+                <Name>Button2</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>39</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>190</Left>
+                <Top>36</Top>
+                <ZOrder>5</ZOrder>
+                <ID>5</ID>
+                <Name>Button3</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>42</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>5</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>190</Left>
+                <Top>1</Top>
+                <ZOrder>6</ZOrder>
+                <ID>6</ID>
+                <Name>Button4</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>39</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>190</Left>
+                <Top>66</Top>
+                <ZOrder>7</ZOrder>
+                <ID>7</ID>
+                <Name>Button5</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>37</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>5</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>190</Left>
+                <Top>95</Top>
+                <ZOrder>8</ZOrder>
+                <ID>8</ID>
+                <Name>Button6</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>35</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>126</Left>
+                <Top>95</Top>
+                <ZOrder>9</ZOrder>
+                <ID>9</ID>
+                <Name>Button7</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>35</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>62</Left>
+                <Top>95</Top>
+                <ZOrder>10</ZOrder>
+                <ID>10</ID>
+                <Name>Button8</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>35</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>8</Left>
+                <Top>95</Top>
+                <ZOrder>11</ZOrder>
+                <ID>11</ID>
+                <Name>Button9</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>38</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>1</Left>
+                <Top>66</Top>
+                <ZOrder>12</ZOrder>
+                <ID>12</ID>
+                <Name>Button10</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>36</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>5</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>1</Left>
+                <Top>95</Top>
+                <ZOrder>13</ZOrder>
+                <ID>13</ID>
+                <Name>Button11</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>41</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>5</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>1</Left>
+                <Top>1</Top>
+                <ZOrder>14</ZOrder>
+                <ID>14</ID>
+                <Name>Button12</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>38</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>1</Left>
+                <Top>36</Top>
+                <ZOrder>15</ZOrder>
+                <ID>15</ID>
+                <Name>Button13</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>38</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>1</Left>
+                <Top>6</Top>
+                <ZOrder>16</ZOrder>
+                <ID>16</ID>
+                <Name>Button14</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>40</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>8</Left>
+                <Top>0</Top>
+                <ZOrder>17</ZOrder>
+                <ID>17</ID>
+                <Name>Button15</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>40</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>126</Left>
+                <Top>0</Top>
+                <ZOrder>18</ZOrder>
+                <ID>18</ID>
+                <Name>Button16</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>40</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>68</Left>
+                <Top>0</Top>
+                <ZOrder>19</ZOrder>
+                <ID>19</ID>
+                <Name>Button17</Name>
               </GUIButton>
             </Controls>
           </GUIMain>
@@ -20442,7 +20799,11 @@ stop
                   <Sprite Slot="36" Width="7" Height="5" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="37" Width="7" Height="5" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="38" Width="7" Height="30" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="39" Width="7" Height="30" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="39" Width="7" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Robert Kety\Desktop\39.bmp</FileName>
+                    </Source>
+                  </Sprite>
                   <Sprite Slot="40" Width="64" Height="6" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="41" Width="7" Height="5" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="42" Width="7" Height="5" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
@@ -56109,8 +56470,8 @@ stop
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <ScriptName>aMusic1</ScriptName>
                 <SourceFileName>music\music1.ogg</SourceFileName>
+                <ScriptName>aMusic1</ScriptName>
                 <Index>1</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56118,11 +56479,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic10</ScriptName>
                 <SourceFileName>music\music10.ogg</SourceFileName>
+                <ScriptName>aMusic10</ScriptName>
                 <Index>2</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56130,11 +56491,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic11</ScriptName>
                 <SourceFileName>music\music11.ogg</SourceFileName>
+                <ScriptName>aMusic11</ScriptName>
                 <Index>3</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56142,11 +56503,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic12</ScriptName>
                 <SourceFileName>music\music12.ogg</SourceFileName>
+                <ScriptName>aMusic12</ScriptName>
                 <Index>4</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56154,11 +56515,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic13</ScriptName>
                 <SourceFileName>music\music13.ogg</SourceFileName>
+                <ScriptName>aMusic13</ScriptName>
                 <Index>5</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56166,11 +56527,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic14</ScriptName>
                 <SourceFileName>music\music14.ogg</SourceFileName>
+                <ScriptName>aMusic14</ScriptName>
                 <Index>6</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56178,11 +56539,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic15</ScriptName>
                 <SourceFileName>music\music15.ogg</SourceFileName>
+                <ScriptName>aMusic15</ScriptName>
                 <Index>7</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56190,11 +56551,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic16</ScriptName>
                 <SourceFileName>music\music16.ogg</SourceFileName>
+                <ScriptName>aMusic16</ScriptName>
                 <Index>8</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56202,11 +56563,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic17</ScriptName>
                 <SourceFileName>music\music17.ogg</SourceFileName>
+                <ScriptName>aMusic17</ScriptName>
                 <Index>9</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56214,11 +56575,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic18</ScriptName>
                 <SourceFileName>music\music18.ogg</SourceFileName>
+                <ScriptName>aMusic18</ScriptName>
                 <Index>10</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56226,11 +56587,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic19</ScriptName>
                 <SourceFileName>music\music19.ogg</SourceFileName>
+                <ScriptName>aMusic19</ScriptName>
                 <Index>11</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56238,11 +56599,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic2</ScriptName>
                 <SourceFileName>music\music2.ogg</SourceFileName>
+                <ScriptName>aMusic2</ScriptName>
                 <Index>12</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56250,11 +56611,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic20</ScriptName>
                 <SourceFileName>music\music20.ogg</SourceFileName>
+                <ScriptName>aMusic20</ScriptName>
                 <Index>13</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56262,11 +56623,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic21</ScriptName>
                 <SourceFileName>music\music21.ogg</SourceFileName>
+                <ScriptName>aMusic21</ScriptName>
                 <Index>14</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56274,11 +56635,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic22</ScriptName>
                 <SourceFileName>music\music22.mp3</SourceFileName>
+                <ScriptName>aMusic22</ScriptName>
                 <Index>15</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56286,11 +56647,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic23</ScriptName>
                 <SourceFileName>music\music23.ogg</SourceFileName>
+                <ScriptName>aMusic23</ScriptName>
                 <Index>16</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56298,11 +56659,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic24</ScriptName>
                 <SourceFileName>music\music24.ogg</SourceFileName>
+                <ScriptName>aMusic24</ScriptName>
                 <Index>17</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56310,11 +56671,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic25</ScriptName>
                 <SourceFileName>music\music25.mp3</SourceFileName>
+                <ScriptName>aMusic25</ScriptName>
                 <Index>18</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56322,11 +56683,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic26</ScriptName>
                 <SourceFileName>music\music26.mp3</SourceFileName>
+                <ScriptName>aMusic26</ScriptName>
                 <Index>19</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56334,11 +56695,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic27</ScriptName>
                 <SourceFileName>music\music27.mp3</SourceFileName>
+                <ScriptName>aMusic27</ScriptName>
                 <Index>20</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56346,11 +56707,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic3</ScriptName>
                 <SourceFileName>music\music3.ogg</SourceFileName>
+                <ScriptName>aMusic3</ScriptName>
                 <Index>21</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56358,11 +56719,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic4</ScriptName>
                 <SourceFileName>music\music4.ogg</SourceFileName>
+                <ScriptName>aMusic4</ScriptName>
                 <Index>22</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56370,11 +56731,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic5</ScriptName>
                 <SourceFileName>music\music5.ogg</SourceFileName>
+                <ScriptName>aMusic5</ScriptName>
                 <Index>23</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56382,11 +56743,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic6</ScriptName>
                 <SourceFileName>music\music6.ogg</SourceFileName>
+                <ScriptName>aMusic6</ScriptName>
                 <Index>24</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56394,11 +56755,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic7</ScriptName>
                 <SourceFileName>music\music7.ogg</SourceFileName>
+                <ScriptName>aMusic7</ScriptName>
                 <Index>25</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56406,11 +56767,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic8</ScriptName>
                 <SourceFileName>music\music8.ogg</SourceFileName>
+                <ScriptName>aMusic8</ScriptName>
                 <Index>26</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56418,11 +56779,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic9</ScriptName>
                 <SourceFileName>music\music9.mp3</SourceFileName>
+                <ScriptName>aMusic9</ScriptName>
                 <Index>27</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -56430,7 +56791,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-25 21:27:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-25 07:27:36Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -56445,8 +56806,8 @@ stop
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <ScriptName>aSound1</ScriptName>
                 <SourceFileName>sound\sound1.wav</SourceFileName>
+                <ScriptName>aSound1</ScriptName>
                 <Index>28</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56454,11 +56815,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-22 19:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-22 05:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound10</ScriptName>
                 <SourceFileName>sound\sound10.mp3</SourceFileName>
+                <ScriptName>aSound10</ScriptName>
                 <Index>29</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56466,11 +56827,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-26 03:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-25 13:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound101</ScriptName>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
+                <ScriptName>aSound101</ScriptName>
                 <Index>30</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56478,11 +56839,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-08 21:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-08 07:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound12</ScriptName>
                 <SourceFileName>sound\sound12.ogg</SourceFileName>
+                <ScriptName>aSound12</ScriptName>
                 <Index>31</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56490,11 +56851,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-08 06:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-07 14:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound2</ScriptName>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
+                <ScriptName>aSound2</ScriptName>
                 <Index>32</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56502,11 +56863,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-22 19:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-22 05:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound3</ScriptName>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
+                <ScriptName>aSound3</ScriptName>
                 <Index>33</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56514,11 +56875,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-22 19:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-22 05:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound4</ScriptName>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
+                <ScriptName>aSound4</ScriptName>
                 <Index>34</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56526,11 +56887,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-22 19:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-22 05:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound5</ScriptName>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
+                <ScriptName>aSound5</ScriptName>
                 <Index>35</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56538,11 +56899,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-22 19:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-22 05:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound6</ScriptName>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
+                <ScriptName>aSound6</ScriptName>
                 <Index>36</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56550,11 +56911,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-22 19:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-22 05:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound7</ScriptName>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
+                <ScriptName>aSound7</ScriptName>
                 <Index>37</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56562,11 +56923,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-22 19:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-22 05:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound8</ScriptName>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
+                <ScriptName>aSound8</ScriptName>
                 <Index>38</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56574,11 +56935,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-22 19:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-22 05:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound9</ScriptName>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
+                <ScriptName>aSound9</ScriptName>
                 <Index>39</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56586,11 +56947,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-23 04:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-22 14:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aScored11</ScriptName>
                 <SourceFileName xml:space="preserve">C:\Users\Robert Kety\Google Drive\Hero6\Hero6_32bit current\Sound\Scored Points.ogg</SourceFileName>
+                <ScriptName>aScored11</ScriptName>
                 <Index>40</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -56598,7 +56959,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-08 04:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-07 12:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -56622,24 +56983,24 @@ stop
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <Name xml:space="preserve">Ambient Sound</Name>
         <TypeID>1</TypeID>
+        <Name xml:space="preserve">Ambient Sound</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Music</Name>
         <TypeID>2</TypeID>
+        <Name>Music</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>FastFade</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Sound</Name>
         <TypeID>3</TypeID>
+        <Name>Sound</Name>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
