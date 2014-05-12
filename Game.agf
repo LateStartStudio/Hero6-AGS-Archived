@@ -7253,7 +7253,7 @@
                 <Locked>False</Locked>
                 <Width>7</Width>
                 <Left>1</Left>
-                <Top>6</Top>
+                <Top>5</Top>
                 <ZOrder>9</ZOrder>
                 <ID>8</ID>
                 <Name>gameoverLeftBorder</Name>
@@ -7316,8 +7316,8 @@
                 <Locked>False</Locked>
                 <Width>7</Width>
                 <Left>1</Left>
-                <Top>216</Top>
-                <ZOrder>11</ZOrder>
+                <Top>215</Top>
+                <ZOrder>21</ZOrder>
                 <ID>11</ID>
                 <Name>gameoverBottomLeftBorder</Name>
               </GUIButton>
@@ -7338,7 +7338,7 @@
                 <Width>7</Width>
                 <Left>263</Left>
                 <Top>1</Top>
-                <ZOrder>12</ZOrder>
+                <ZOrder>11</ZOrder>
                 <ID>12</ID>
                 <Name>gameoverTopRightBorder</Name>
               </GUIButton>
@@ -7359,7 +7359,7 @@
                 <Width>64</Width>
                 <Left>8</Left>
                 <Top>0</Top>
-                <ZOrder>13</ZOrder>
+                <ZOrder>12</ZOrder>
                 <ID>13</ID>
                 <Name>gameoverTopBorder1</Name>
               </GUIButton>
@@ -7380,7 +7380,7 @@
                 <Width>64</Width>
                 <Left>72</Left>
                 <Top>0</Top>
-                <ZOrder>14</ZOrder>
+                <ZOrder>13</ZOrder>
                 <ID>14</ID>
                 <Name>gameoverTopBorder2</Name>
               </GUIButton>
@@ -7401,7 +7401,7 @@
                 <Width>64</Width>
                 <Left>136</Left>
                 <Top>0</Top>
-                <ZOrder>15</ZOrder>
+                <ZOrder>14</ZOrder>
                 <ID>15</ID>
                 <Name>gameoverTopBorder3</Name>
               </GUIButton>
@@ -7420,9 +7420,9 @@
                 <Height>6</Height>
                 <Locked>False</Locked>
                 <Width>64</Width>
-                <Left>200</Left>
+                <Left>199</Left>
                 <Top>0</Top>
-                <ZOrder>16</ZOrder>
+                <ZOrder>15</ZOrder>
                 <ID>16</ID>
                 <Name>gameoverTopBorder4</Name>
               </GUIButton>
@@ -7442,8 +7442,8 @@
                 <Locked>False</Locked>
                 <Width>7</Width>
                 <Left>263</Left>
-                <Top>216</Top>
-                <ZOrder>17</ZOrder>
+                <Top>215</Top>
+                <ZOrder>20</ZOrder>
                 <ID>17</ID>
                 <Name>gameoverBottomRightBorder</Name>
               </GUIButton>
@@ -7464,7 +7464,7 @@
                 <Width>64</Width>
                 <Left>8</Left>
                 <Top>215</Top>
-                <ZOrder>18</ZOrder>
+                <ZOrder>16</ZOrder>
                 <ID>18</ID>
                 <Name>gameoverBottomBorder1</Name>
               </GUIButton>
@@ -7485,7 +7485,7 @@
                 <Width>64</Width>
                 <Left>72</Left>
                 <Top>215</Top>
-                <ZOrder>19</ZOrder>
+                <ZOrder>17</ZOrder>
                 <ID>19</ID>
                 <Name>gameoverBottomBorder2</Name>
               </GUIButton>
@@ -7506,7 +7506,7 @@
                 <Width>64</Width>
                 <Left>136</Left>
                 <Top>215</Top>
-                <ZOrder>20</ZOrder>
+                <ZOrder>18</ZOrder>
                 <ID>20</ID>
                 <Name>gameoverBottomBorder3</Name>
               </GUIButton>
@@ -7527,7 +7527,7 @@
                 <Width>64</Width>
                 <Left>200</Left>
                 <Top>215</Top>
-                <ZOrder>21</ZOrder>
+                <ZOrder>19</ZOrder>
                 <ID>21</ID>
                 <Name>gameoverBottomBorder4</Name>
               </GUIButton>
@@ -8360,18 +8360,18 @@
               <GUIListBox>
                 <OnSelectionChanged>lstSaveGames_OnSelectionChange</OnSelectionChanged>
                 <ShowScrollArrows>True</ShowScrollArrows>
-                <ShowBorder>True</ShowBorder>
+                <ShowBorder>False</ShowBorder>
                 <TextAlignment>Left</TextAlignment>
                 <TextColor>0</TextColor>
                 <SelectedTextColor>7</SelectedTextColor>
                 <SelectedBackgroundColor>16</SelectedBackgroundColor>
                 <Font>0</Font>
                 <Translated>True</Translated>
-                <Height>97</Height>
+                <Height>96</Height>
                 <Locked>False</Locked>
-                <Width>165</Width>
+                <Width>164</Width>
                 <Left>16</Left>
-                <Top>51</Top>
+                <Top>54</Top>
                 <ZOrder>1</ZOrder>
                 <ID>0</ID>
                 <Name>lstSaveGames</Name>
@@ -8538,6 +8538,776 @@
                 <ID>8</ID>
                 <Name>btnTopContainer</Name>
               </GUIButton>
+            </Controls>
+          </GUIMain>
+          <GUIMain>
+            <NormalGUI>
+              <OnClick>gSaveLoadGame2_OnCl</OnClick>
+              <Height>130</Height>
+              <Width>275</Width>
+              <Left>0</Left>
+              <Top>0</Top>
+              <Clickable>True</Clickable>
+              <Visibility>NormalButInitiallyOff</Visibility>
+              <PopupYPos>0</PopupYPos>
+              <ZOrder>0</ZOrder>
+              <BorderColor>0</BorderColor>
+              <Transparency>0</Transparency>
+              <BackgroundColor>0</BackgroundColor>
+              <BackgroundImage>0</BackgroundImage>
+              <ID>37</ID>
+              <Name>gSaveLoadGame2</Name>
+            </NormalGUI>
+            <Controls>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>39</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>264</Left>
+                <Top>9</Top>
+                <ZOrder>2</ZOrder>
+                <ID>0</ID>
+                <Name>Button2</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>42</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>5</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>264</Left>
+                <Top>4</Top>
+                <ZOrder>4</ZOrder>
+                <ID>1</ID>
+                <Name>Button3</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>40</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>136</Left>
+                <Top>3</Top>
+                <ZOrder>3</ZOrder>
+                <ID>2</ID>
+                <Name>Button4</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>41</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>5</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>2</Left>
+                <Top>3</Top>
+                <ZOrder>5</ZOrder>
+                <ID>3</ID>
+                <Name>Button5</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>36</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>5</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>2</Left>
+                <Top>123</Top>
+                <ZOrder>6</ZOrder>
+                <ID>4</ID>
+                <Name>Button6</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>37</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>5</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>264</Left>
+                <Top>124</Top>
+                <ZOrder>7</ZOrder>
+                <ID>5</ID>
+                <Name>Button7</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>39</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>264</Left>
+                <Top>39</Top>
+                <ZOrder>8</ZOrder>
+                <ID>6</ID>
+                <Name>Button8</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>39</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>264</Left>
+                <Top>69</Top>
+                <ZOrder>9</ZOrder>
+                <ID>7</ID>
+                <Name>Button9</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>39</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>264</Left>
+                <Top>94</Top>
+                <ZOrder>10</ZOrder>
+                <ID>8</ID>
+                <Name>Button13</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>35</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>137</Left>
+                <Top>123</Top>
+                <ZOrder>11</ZOrder>
+                <ID>9</ID>
+                <Name>Button1</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>True</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>34</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>120</Height>
+                <Locked>False</Locked>
+                <Width>260</Width>
+                <Left>8</Left>
+                <Top>6</Top>
+                <ZOrder>0</ZOrder>
+                <ID>10</ID>
+                <Name>Button14</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>38</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>2</Left>
+                <Top>8</Top>
+                <ZOrder>12</ZOrder>
+                <ID>11</ID>
+                <Name>Button15</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>35</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>9</Left>
+                <Top>123</Top>
+                <ZOrder>13</ZOrder>
+                <ID>12</ID>
+                <Name>Button22</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>35</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>73</Left>
+                <Top>123</Top>
+                <ZOrder>14</ZOrder>
+                <ID>13</ID>
+                <Name>Button23</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>40</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>9</Left>
+                <Top>3</Top>
+                <ZOrder>15</ZOrder>
+                <ID>14</ID>
+                <Name>Button24</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>40</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>72</Left>
+                <Top>3</Top>
+                <ZOrder>16</ZOrder>
+                <ID>15</ID>
+                <Name>Button25</Name>
+              </GUIButton>
+              <GUITextBox>
+                <OnActivate />
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <ShowBorder>True</ShowBorder>
+                <Text />
+                <Height>12</Height>
+                <Locked>False</Locked>
+                <Width>165</Width>
+                <Left>12</Left>
+                <Top>110</Top>
+                <ZOrder>17</ZOrder>
+                <ID>16</ID>
+                <Name>TextBox1</Name>
+              </GUITextBox>
+              <GUIListBox>
+                <OnSelectionChanged>lstSaveGames_OnSelectionChange</OnSelectionChanged>
+                <ShowScrollArrows>True</ShowScrollArrows>
+                <ShowBorder>True</ShowBorder>
+                <TextAlignment>Left</TextAlignment>
+                <TextColor>0</TextColor>
+                <SelectedTextColor>7</SelectedTextColor>
+                <SelectedBackgroundColor>16</SelectedBackgroundColor>
+                <Font>0</Font>
+                <Translated>True</Translated>
+                <Height>80</Height>
+                <Locked>False</Locked>
+                <Width>165</Width>
+                <Left>12</Left>
+                <Top>26</Top>
+                <ZOrder>18</ZOrder>
+                <ID>17</ID>
+                <Name>ListBox1</Name>
+              </GUIListBox>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>Centred</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>2341</Image>
+                <Text>Cancel</Text>
+                <Height>20</Height>
+                <Locked>False</Locked>
+                <Width>79</Width>
+                <Left>181</Left>
+                <Top>85</Top>
+                <ZOrder>19</ZOrder>
+                <ID>18</ID>
+                <Name>Button26</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>Centred</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>2341</Image>
+                <Text>Save</Text>
+                <Height>20</Height>
+                <Locked>False</Locked>
+                <Width>79</Width>
+                <Left>181</Left>
+                <Top>26</Top>
+                <ZOrder>20</ZOrder>
+                <ID>19</ID>
+                <Name>Button27</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>Centred</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>2341</Image>
+                <Text>Load</Text>
+                <Height>20</Height>
+                <Locked>False</Locked>
+                <Width>79</Width>
+                <Left>181</Left>
+                <Top>26</Top>
+                <ZOrder>1</ZOrder>
+                <ID>20</ID>
+                <Name>Button28</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>Centred</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>2341</Image>
+                <Text>Delete</Text>
+                <Height>20</Height>
+                <Locked>False</Locked>
+                <Width>79</Width>
+                <Left>181</Left>
+                <Top>55</Top>
+                <ZOrder>21</ZOrder>
+                <ID>21</ID>
+                <Name>Button12</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>35</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>200</Left>
+                <Top>123</Top>
+                <ZOrder>22</ZOrder>
+                <ID>22</ID>
+                <Name>Button10</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>40</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>6</Height>
+                <Locked>False</Locked>
+                <Width>64</Width>
+                <Left>200</Left>
+                <Top>3</Top>
+                <ZOrder>23</ZOrder>
+                <ID>23</ID>
+                <Name>Button11</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>38</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>2</Left>
+                <Top>38</Top>
+                <ZOrder>24</ZOrder>
+                <ID>24</ID>
+                <Name>Button16</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>38</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>2</Left>
+                <Top>68</Top>
+                <ZOrder>25</ZOrder>
+                <ID>25</ID>
+                <Name>Button17</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>38</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>30</Height>
+                <Locked>False</Locked>
+                <Width>7</Width>
+                <Left>2</Left>
+                <Top>93</Top>
+                <ZOrder>26</ZOrder>
+                <ID>26</ID>
+                <Name>Button18</Name>
+              </GUIButton>
+              <GUITextBox>
+                <OnActivate />
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <ShowBorder>False</ShowBorder>
+                <Text />
+                <Height>12</Height>
+                <Locked>False</Locked>
+                <Width>247</Width>
+                <Left>11</Left>
+                <Top>9</Top>
+                <ZOrder>27</ZOrder>
+                <ID>27</ID>
+                <Name>TextBox2</Name>
+              </GUITextBox>
+            </Controls>
+          </GUIMain>
+          <GUIMain>
+            <NormalGUI>
+              <OnClick />
+              <Height>140</Height>
+              <Width>270</Width>
+              <Left>0</Left>
+              <Top>0</Top>
+              <Clickable>True</Clickable>
+              <Visibility>NormalButInitiallyOff</Visibility>
+              <PopupYPos>0</PopupYPos>
+              <ZOrder>0</ZOrder>
+              <BorderColor>0</BorderColor>
+              <Transparency>0</Transparency>
+              <BackgroundColor>0</BackgroundColor>
+              <BackgroundImage>0</BackgroundImage>
+              <ID>38</ID>
+              <Name>gSaveLoadGame3</Name>
+            </NormalGUI>
+            <Controls>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>2349</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>139</Height>
+                <Locked>False</Locked>
+                <Width>267</Width>
+                <Left>2</Left>
+                <Top>0</Top>
+                <ZOrder>0</ZOrder>
+                <ID>0</ID>
+                <Name>Button19</Name>
+              </GUIButton>
+              <GUITextBox>
+                <OnActivate />
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <ShowBorder>False</ShowBorder>
+                <Text />
+                <Height>12</Height>
+                <Locked>False</Locked>
+                <Width>234</Width>
+                <Left>19</Left>
+                <Top>18</Top>
+                <ZOrder>1</ZOrder>
+                <ID>1</ID>
+                <Name>TextBox3</Name>
+              </GUITextBox>
+              <GUIListBox>
+                <OnSelectionChanged>lstSaveGames_OnSelectionChange</OnSelectionChanged>
+                <ShowScrollArrows>True</ShowScrollArrows>
+                <ShowBorder>True</ShowBorder>
+                <TextAlignment>Left</TextAlignment>
+                <TextColor>0</TextColor>
+                <SelectedTextColor>7</SelectedTextColor>
+                <SelectedBackgroundColor>16</SelectedBackgroundColor>
+                <Font>0</Font>
+                <Translated>True</Translated>
+                <Height>69</Height>
+                <Locked>False</Locked>
+                <Width>151</Width>
+                <Left>19</Left>
+                <Top>32</Top>
+                <ZOrder>2</ZOrder>
+                <ID>2</ID>
+                <Name>ListBox2</Name>
+              </GUIListBox>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>Centred</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>2341</Image>
+                <Text>Load</Text>
+                <Height>20</Height>
+                <Locked>False</Locked>
+                <Width>79</Width>
+                <Left>174</Left>
+                <Top>32</Top>
+                <ZOrder>3</ZOrder>
+                <ID>3</ID>
+                <Name>Button20</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>Centred</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>2341</Image>
+                <Text>Save</Text>
+                <Height>20</Height>
+                <Locked>False</Locked>
+                <Width>79</Width>
+                <Left>174</Left>
+                <Top>32</Top>
+                <ZOrder>4</ZOrder>
+                <ID>4</ID>
+                <Name>Button21</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>Centred</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>2341</Image>
+                <Text>Delete</Text>
+                <Height>20</Height>
+                <Locked>False</Locked>
+                <Width>79</Width>
+                <Left>174</Left>
+                <Top>56</Top>
+                <ZOrder>5</ZOrder>
+                <ID>5</ID>
+                <Name>Button29</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>Centred</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>2341</Image>
+                <Text>Cancel</Text>
+                <Height>20</Height>
+                <Locked>False</Locked>
+                <Width>79</Width>
+                <Left>174</Left>
+                <Top>99</Top>
+                <ZOrder>6</ZOrder>
+                <ID>6</ID>
+                <Name>Button30</Name>
+              </GUIButton>
+              <GUITextBox>
+                <OnActivate />
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <ShowBorder>True</ShowBorder>
+                <Text />
+                <Height>12</Height>
+                <Locked>False</Locked>
+                <Width>151</Width>
+                <Left>19</Left>
+                <Top>107</Top>
+                <ZOrder>7</ZOrder>
+                <ID>7</ID>
+                <Name>TextBox4</Name>
+              </GUITextBox>
             </Controls>
           </GUIMain>
         </GUIs>
@@ -22299,6 +23069,16 @@ stop
                   <Sprite Slot="2347" Width="198" Height="51" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
                       <FileName>D:\Programming\AdventureGamingStudio\Hero6Fork\test.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="2348" Width="171" Height="139" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Robert Kety\Desktop\saveload2.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="2349" Width="267" Height="139" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Robert Kety\Desktop\saveload4.bmp</FileName>
                     </Source>
                   </Sprite>
                 </Sprites>
@@ -57695,7 +58475,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music10.ogg</SourceFileName>
@@ -57707,7 +58487,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music11.ogg</SourceFileName>
@@ -57719,7 +58499,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music12.ogg</SourceFileName>
@@ -57731,7 +58511,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music13.ogg</SourceFileName>
@@ -57743,7 +58523,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music14.ogg</SourceFileName>
@@ -57755,7 +58535,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music15.ogg</SourceFileName>
@@ -57767,7 +58547,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music16.ogg</SourceFileName>
@@ -57779,7 +58559,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music17.ogg</SourceFileName>
@@ -57791,7 +58571,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music18.ogg</SourceFileName>
@@ -57803,7 +58583,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music19.ogg</SourceFileName>
@@ -57815,7 +58595,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music2.ogg</SourceFileName>
@@ -57827,7 +58607,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music20.ogg</SourceFileName>
@@ -57839,7 +58619,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music21.ogg</SourceFileName>
@@ -57851,7 +58631,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music22.mp3</SourceFileName>
@@ -57863,7 +58643,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music23.ogg</SourceFileName>
@@ -57875,7 +58655,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music24.ogg</SourceFileName>
@@ -57887,7 +58667,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music25.mp3</SourceFileName>
@@ -57899,7 +58679,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music26.mp3</SourceFileName>
@@ -57911,7 +58691,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music27.mp3</SourceFileName>
@@ -57923,7 +58703,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music3.ogg</SourceFileName>
@@ -57935,7 +58715,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music4.ogg</SourceFileName>
@@ -57947,7 +58727,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music5.ogg</SourceFileName>
@@ -57959,7 +58739,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music6.ogg</SourceFileName>
@@ -57971,7 +58751,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music7.ogg</SourceFileName>
@@ -57983,7 +58763,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music8.ogg</SourceFileName>
@@ -57995,7 +58775,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music9.mp3</SourceFileName>
@@ -58007,7 +58787,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-27 23:25:55Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -58031,7 +58811,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-20 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-19 17:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.mp3</SourceFileName>
@@ -58043,7 +58823,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-23 22:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-23 01:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
@@ -58055,7 +58835,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-06 16:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-05 19:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound12.ogg</SourceFileName>
@@ -58067,7 +58847,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-05 11:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-04 11:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
@@ -58079,7 +58859,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-20 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-19 17:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
@@ -58091,7 +58871,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-20 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-19 17:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
@@ -58103,7 +58883,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-20 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-19 17:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
@@ -58115,7 +58895,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-20 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-19 17:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
@@ -58127,7 +58907,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-20 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-19 17:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
@@ -58139,7 +58919,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-20 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-19 17:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
@@ -58151,7 +58931,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-20 14:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-19 17:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
@@ -58163,7 +58943,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-20 23:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-20 02:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Robert Kety\Google Drive\Hero6\Hero6_32bit current\Sound\Scored Points.ogg</SourceFileName>
@@ -58175,7 +58955,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-05 09:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-04 09:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
