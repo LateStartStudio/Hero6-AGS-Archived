@@ -332,8 +332,6 @@ import float max(float a, float b);
 
 import function InitializeClasses();
 
-import function SaveGame();
-import function LoadGame();
 import function ExitGame();
 import function GameOverDialog(String header, String message);
 
