@@ -71,7 +71,8 @@ enum TimerType
   Timer_FollowCharRooms6
 };
 
-struct TimeData { 
+struct TimeData 
+{ 
 	int ticksSinceLastState;
   int TicksPerState;
   int TimeState;

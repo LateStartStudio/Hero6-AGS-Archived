@@ -1,14 +1,8 @@
-// Script header for module 'Time'
 
-import bool isday();
-import function HandleTime();
-import function SetDarkness(int dark);
-import function SetTint(int red, int green, int blue);
-import function SetTint2(int red, int green, int blue, int sat, int lum);
-import function ProcessDayAndNight();
-import function drawStars(int trans);
-import function flushDrawStarsBuffer();
-import short darknessOffset;
-import function startRain();
+#define LOOPS_PER_INGAME_TEN_MINUTES 400 // 40 loops occur every second. 40 * 10 seconds = 10 in game minutes per real world 10 seconds
+#define MAX_AMOUNT_TICKS_ONE_INGAME_DAY 144
 
-import bool enableDayNightColourHandling;
+import function processTime();
+import bool isDaytime();
+import function initTimeProcessing();
+import function testTime();
