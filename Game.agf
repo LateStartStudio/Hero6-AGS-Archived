@@ -17,7 +17,7 @@
       <TurnBeforeFacing>False</TurnBeforeFacing>
       <TurnBeforeWalking>True</TurnBeforeWalking>
       <SplitResources>0</SplitResources>
-      <LetterboxMode>False</LetterboxMode>
+      <LetterboxMode>True</LetterboxMode>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <PixelPerfect>True</PixelPerfect>
       <WhenInterfaceDisabled>Unchanged</WhenInterfaceDisabled>
