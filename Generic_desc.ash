@@ -33,3 +33,5 @@ import function flowers_talk();
 import function cliff_look(); 
 import function cliff_use(); 
 import function cliff_talk(); 
+import function house_talk();
+import function house_use();
