@@ -1,7 +1,5 @@
 // Script header for module 'Combat'
 
-import function DecreaseStamina(short val);
-import function DecreaseHealth(short val);
 import function GenericMonsterUse(Character *m);
 import function killAllMonsters();
 

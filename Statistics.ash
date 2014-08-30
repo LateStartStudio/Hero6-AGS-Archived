@@ -26,3 +26,6 @@ import function HandleCharacter2();
 import function Update_stats();
 import function refreshPoolStats();
 import function setInitialClassStats(short class);
+
+import function DecreaseStamina(short val);
+import function DecreaseHealth(short val);
