@@ -334,7 +334,7 @@ import float max(float a, float b);
 import function InitializeClasses();
 
 import function ExitGame();
-import function GameOverDialog(String header, String message);
+import function GameOverDialog(String header, String message, bool combatFlag);
 
 import bool checkmoney(short s, short g);
 import bool herobuy(short s, short g);
