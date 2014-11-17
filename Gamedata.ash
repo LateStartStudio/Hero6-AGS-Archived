@@ -62,7 +62,8 @@ enum TimerType
   Timer_Stamina, 
   Timer_Magic, 
   Timer_Generic, 
-  Timer_Daytime = 10, 
+  Timer_Daytime,
+  Timer_Running,
   Timer_FollowCharRooms1, 
   Timer_FollowCharRooms2, 
   Timer_FollowCharRooms3, 
@@ -77,8 +78,6 @@ struct TimeData
   int TicksPerState;
   int TimeState;
   int Day;
-  
-  // my new code
   int ticks;
 };
 
@@ -341,6 +340,7 @@ import bool herobuy(short s, short g);
 import bool PurchaseItem(InventoryItem* i, String msg);
 import function heroCollapse();
 
+import bool isInRunningMode();
 import function SetRunningMode(short mode);
 import function SetSneakingMode(short mode);
 import int GetModeView();
@@ -373,7 +373,6 @@ import HeroData fighterData;
 import HeroData mageData;
 import HeroData thiefData;
 
-
 import TimeData timeinfo;
 import Flags flags;
 
@@ -401,7 +400,6 @@ import short heroPrevY;
 import short riddle_selection[5];
 import short riddleCorrect;
 import RiddleData riddles[MAX_AVAILABLE_RIDDLES];
-
 
 import function InitializeRiddles();
 import bool AskRiddle(short r);
