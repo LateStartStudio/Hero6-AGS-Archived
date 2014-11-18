@@ -1,0 +1,311 @@
+
+                             PARTICLE SYSTEM MANAGER
+
+
+                              ParticleSystemManager
+                                    v 1.000
+
+                          Miguel García Díaz (Jerakeen)
+
+
+
+1. Abstract
+
+This module has been built to simulate effects like rain, waterfall, fire, smoke,
+snow and others.
+
+We can have some particle systems at the same time.
+We can define some forces wich modifies particles velocity and position.
+We can change color, transparency and scale of particles.
+And we can choose between draw a particle system in the background of a room,
+in a sprite or using an overlay.
+
+
+2. Dependencies
+
+Adventure Game Studio v3.0.0 or later.
+
+
+3. Module structure
+
+There are three main structures: Particles, ParticlesSystems and ParticlesSystemManager.
+
+
+Particles: this stores particles with their properties: position velocity, colour, scale, age ...
+   There is an array of particles with whole of them.
+
+Particles Systems: structure wtih particle system properties: number of particles ...
+   
+   And another variables with properties of particles emitter to set particles initial 
+   position, velocity, age, and so on.
+
+   Particles system creates and destroy particles, and updates their properties using
+   actions variables to change scale, colour ...
+
+   There is an array of particles systems.
+   
+Particles systems manager:
+   
+   This structure creates and destroy particles systems and set values for the emitter and
+   acctions to apply.
+
+
+4. How to use
+
+Import the module to your game.
+Then set a variable of ParticleSystemManager type.
+
+I didn't try to use more than one variable of this type, because a particles system mananger
+can use some systems, so i don't know if this will work.
+
+
+FUNCTIONS AND VARIABLES:
+
+int num_systems
+
+    This variable has the number of created systems.
+
+
+function CreateSystem (int n_particles, bool keep_track = false,
+                       enDrawType draw_type = dtBackground, int width = 0, int height = 0);
+
+    Creates a new particle system and return the index of the new system so we
+    can use later to define system's properties and actions.
+    
+    n_particles: Number of particles of the system
+    keep_track:  Keep the track or trail of particles on screen (don't restore screen before draw)
+                 This only works on Overlays and sprites, not drawing on the background.
+    draw_type:   To set where to draw the system:
+                 dtBackground, dtOverlay, dtSprite
+                 
+                 NOTE: Drawing particles transparent on a sprite or overlay doesn't work properly.
+
+                 
+    width:  When we draw on a sprite, set the width of it.
+    height: When we draw on a sprite, set the height of it.
+
+    Obviously this is the first function to call.
+
+
+function DeleteLastSystem ();
+
+    Delete the last system created.
+
+    If we are finished with the particle system we must delete to release
+    sprites and overlays.
+    
+
+DynamicSprite *GetSystemSprite (int system);
+
+    Returns the sprite of the system if we draw on sprite or Overlay.
+    We can use later this sprite in a Room's object so player can walk behind and
+    in front of the system.
+
+
+function GetSystemActiveParticles (int system);
+
+    Return the number of active particles in the system
+
+
+
+Emitter functions. An emitter sets initial particles properties. Using this functions
+we set ranges of values to the particles properties. Later when particle system creates
+a particle it uses this ranges to set initial properties.
+
+  
+
+function emitter_creation_mode (int system, enRepeatMode rep_mode, int max_rep, int frecuency, int n_particles);
+
+    To set particles creation mode on a system.
+    
+    system: the system we set creations mode.
+    rep_mode: when create particles:
+                rmAllways       --> Allways.
+                rmNumberOfTimes --> Only a number of times.
+    mas_rep: when rep_mode = rnNumberOfTimes, this variable set the number of iterations.
+    frecuency: the number of game cycles we must wait to create particles.
+    n_particles: number of particles to create at once.
+    
+  
+function emitter_set_position (int system, enPosType type, float p1 = 0, float p2 = 0,
+                               float p3 = 0, float p4 = 0, float p5 = 0, float p6 = 0);
+
+    Set particles position.
+    There are some optional parameters (p1,p2,p3,...) to use depending on position type.
+    
+    system:  the system to set particles position.
+    type:    position type:
+    
+        ptPoint:  create particles at point  p1=x y p2=y
+        ptCirle:  create particles randomly in a circle of center
+                  p1=x,p2=y, radio p3 and between the angles p4=min_angle and p5=max_angle.
+        ptCrown:  create particles randomly in a circular crown with center
+                  p1=x,p2=y, at a distance to the center between p3=radio_min and p4=radio_max and
+                  between angles p5=min_angle and p6=max_angle.
+        ptBox:    create particles randomly in a box with corners p1=x1,p2=y1 and p3=x2,p4=y2
+        ptLine:   create particles randomly in a line of points p1=x1,p2=y1  and  p3=x2,p4=y2
+        ptMousePosition: create particles at mouse position
+
+    NOTE: Angles are in clockwise.
+
+
+function emitter_set_velocity (int system, int min_speed, int max_speed, int min_angle, int max_angle);
+
+    Set initial velocity with a random speed between min_speed and max_speed, and a random
+    angle between min_angle and max_angle.
+
+
+function emitter_set_color (int system, int min_r, int min_g, int min_b, int min_saturation,
+                            int max_r, int max_g, int max_b, int max_saturation);
+
+    Set initial particles color between ranges of values.
+    
+    min_r, max_r   red
+    min_g, max_g   green
+    min_b, max_b   blue
+    min_saturation, max_saturation   saturation
+    
+
+function emitter_set_transparency (int system, int min_trans, int max_trans);
+
+    Set randomly initial transparency of particles between min_trans and max_trans.
+
+
+function emitter_set_age (int system, int min_age, int max_age);
+
+    Set randomly initial particles age btween min_age and max_age.
+    When particles reach max_age they dies.
+
+
+function emitter_set_sprite (int system, int min_slot, int max_slot);
+
+    To set randomly the initial sprite of particles between min_slot and max_slot
+
+
+function emitter_set_scale (int system, int min_scale, int max_scale);
+
+    Set randomly initial scable btween min_scale and max_scale.
+
+  
+
+
+Action's functions changes particles properties while simulation goes on.
+
+
+function action_set_color_evolution (int system, int to_r, int to_g, int to_b, int to_saturation, int frec);
+
+    Set that particles color must change (linearly) to the specified color to_r, 
+    to_g,to_b,to_saturation with a frecuency frec (the number of game cycles 
+    system must wait to incremente/decrement color)
+
+    NOTE: This function will not work if we don't use emitter_set_color() function.
+
+
+function action_set_transparency_evolution (int system, int to_trans, int frec);
+
+    Set that particles transparency mus change (linearly) to the specified by 
+    to_trans with a frecuency frec
+
+
+function action_set_scale_evolution (int system, int to_scale,  int frec);
+
+    Set that particles scale must change to the specified by to_scale with a 
+    frecuency frec.
+
+
+function action_add_force (int system, enForceType type, float p1, float p2 = 0, float p3 = 0,
+                           float p4 = 0, float p5 = 0, float p6 = 0);
+
+    Set a force to change particles velcity
+    there are some optional parameters (p1,p2,p3,...) to use depending on kind of force.
+    
+    type   force type
+    
+      ftConstant: set a constant force p1=fx,p2=fy
+      
+      ftRandom:   set a random force between p1=fx_min,p2=fy_min and p3=fx_max, p4=fy_max.
+                  the particle system will cange it randomly between the intervals.
+      
+      ftSidetoSide: set a force wich changes between p1=fx_min,p2=fy_min and p3=fx_max,p4=fy_max
+                    increasing by p5=fx_inc,p6=fy_inc
+      
+      ftParticleDirection: set a force wich acts on particles direction with a force p1=fx,p2=fy
+                           
+                           This only happens if p1=p2, if different particles direction changes.
+
+      ftLateral: set a lateral force (perpendicurlar a la velocidade) for each particle
+                 wich force is randomly generated between p1=f_min and p2=f_max
+
+
+    This function returns the index of the force in the particle system forces array
+
+
+
+function action_update_force (int num_system, int num_force, enForceType type,
+                              float p1, float p2 = 0, float p3 = 0, float p4 = 0,
+                              float p5 = 0, float p6 = 0);
+
+    Updates the force num_force of the system to the new walues.
+    The other parameters are the same as action_add_force
+
+
+function action_set_bound_box (int system, int min_x, int min_y, int max_x, int max_y);
+
+    Set limits to the particle system in a box of corners min_x,min_y and max_x,max_y.
+    If particles goes out of this limit they'll die.
+
+
+
+5. Minimal functions to use.
+
+   - create a particle system (CreateSystem)
+   - set particles creation mode (emitter_creation_mode)
+   - set initial position (emitter_set_position)
+   - set initial velocity (emitter_set_velocity) or a force (action_add_force) if you want particles to move
+   - set particle sprite (emitter_set_sprite)
+   - Set particles age (emitter_set_age) or bounding box (action_set_bound_box)
+     A particle dies when is too old or when goes out of bounding box.
+     (Particles dies too when reach a 100% of transparency).
+   - Destroy particle system (DeleteLastSystem), when your end using it to release overlays and dynamicsprites.
+
+
+6. References
+
+  STARS  written by '[...]' or 'dkh'
+  
+  http://en.wikipedia.org/wiki/Particle_system
+
+  https://www.u-cursos.cl/ingenieria/2005/2/CC52B/1/material_docente/
+     Sistemas de particulas - Joon Kim K
+
+  http://puyover.wordpress.com/2007/03/04/sistemas-de-particulas/
+  http://paraschopra.com/tutorials/particle-systems/index.php
+  http://www.double.co.nz/dust/col0798.pdf
+  http://www.gldomain.com/tutorials/particle.htm
+  http://people.csail.mit.edu/acornejo/html/particle.htm
+  http://www.mysticgd.com/misc/AdvancedParticleSystems.pdf
+
+
+
+7. Revision history
+
+Date          Author         Description
+------------- -------------- -----------------------------------
+11-JAN-2009   Jerakeen       created original version
+
+
+
+8. License
+
+This  module  is  free  software;  you  can redistribute it and/or modify it under
+the terms of the GNU Lesser General Public License as  published  by the Free
+Software Foundation; either version 2.1 of the License, or any later version.
+
+This module is distributed in the hope that it will be useful, but WITHOUT  ANY  
+WARRANTY;  without  even  the  implied  warranty  of MERCHANTABILITY or  FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
+
+You  should  have received a copy of the GNU Lesser General Public License along
+with this library; if not,write to the Free Software Foundation, Inc, 59 Temple
+Place, Suite 330, Boston, MA 02111-1307 USA.
+

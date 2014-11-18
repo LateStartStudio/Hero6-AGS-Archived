@@ -57186,6 +57186,59 @@ stop
               </ScriptAndHeader>
             </ScriptAndHeaders>
           </ScriptFolder>
+          <ScriptFolder Name="Modules">
+            <SubFolders />
+            <ScriptAndHeaders>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>ParticleSystemManager.ash</FileName>
+                    <Name>Particle System Manager</Name>
+                    <Description>Utilities to create and use particles systems</Description>
+                    <Author>Jerakeen</Author>
+                    <Version>1.0</Version>
+                    <Key>910506937</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>ParticleSystemManager.asc</FileName>
+                    <Name>Particle System Manager</Name>
+                    <Description>Utilities to create and use particles systems</Description>
+                    <Author>Jerakeen</Author>
+                    <Version>1.0</Version>
+                    <Key>910506937</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>DialogBox.ash</FileName>
+                    <Name>DialogBox</Name>
+                    <Description>Implements a function to display a GUI with OK/Cancel options and return 1/0 respectively when a button is clicked</Description>
+                    <Author>SSH</Author>
+                    <Version>1.1</Version>
+                    <Key>-1062251364</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>DialogBox.asc</FileName>
+                    <Name>DialogBox</Name>
+                    <Description>Implements a function to display a GUI with OK/Cancel options and return 1/0 respectively when a button is clicked</Description>
+                    <Author>SSH</Author>
+                    <Version>1.1</Version>
+                    <Key>-1062251364</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+            </ScriptAndHeaders>
+          </ScriptFolder>
           <ScriptFolder Name="EnvironmentScripts">
             <SubFolders>
               <ScriptFolder Name="GameData">
@@ -57287,30 +57340,6 @@ stop
                     <Author />
                     <Version>1.0</Version>
                     <Key>-437617828</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>Particle.ash</FileName>
-                    <Name>Akumayo's Particle Engine</Name>
-                    <Description>This update features an option to run the emmision continuously, resulting in an easier interface.</Description>
-                    <Author>Akumayo</Author>
-                    <Version>1.5</Version>
-                    <Key>-1820509302</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>Particle.asc</FileName>
-                    <Name>Akumayo's Particle Engine</Name>
-                    <Description>This update features an option to run the emmision continuously, resulting in an easier interface.</Description>
-                    <Author>Akumayo</Author>
-                    <Version>1.5</Version>
-                    <Key>-1820509302</Key>
                     <IsHeader>False</IsHeader>
                   </Script>
                 </ScriptAndHeader_Script>
@@ -57485,30 +57514,6 @@ stop
                     <Author />
                     <Version />
                     <Key>1184324238</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>DialogBox.ash</FileName>
-                    <Name>DialogBox</Name>
-                    <Description>Implements a function to display a GUI with OK/Cancel options and return 1/0 respectively when a button is clicked</Description>
-                    <Author>SSH</Author>
-                    <Version>1.1</Version>
-                    <Key>-1062251364</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>DialogBox.asc</FileName>
-                    <Name>DialogBox</Name>
-                    <Description>Implements a function to display a GUI with OK/Cancel options and return 1/0 respectively when a button is clicked</Description>
-                    <Author>SSH</Author>
-                    <Version>1.1</Version>
-                    <Key>-1062251364</Key>
                     <IsHeader>False</IsHeader>
                   </Script>
                 </ScriptAndHeader_Script>
@@ -57824,7 +57829,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:49Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic10</ScriptName>
@@ -57836,7 +57841,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic11</ScriptName>
@@ -57848,7 +57853,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic12</ScriptName>
@@ -57860,7 +57865,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic13</ScriptName>
@@ -57872,7 +57877,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic14</ScriptName>
@@ -57884,7 +57889,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic15</ScriptName>
@@ -57896,7 +57901,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic16</ScriptName>
@@ -57908,7 +57913,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic17</ScriptName>
@@ -57920,7 +57925,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic18</ScriptName>
@@ -57932,7 +57937,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic19</ScriptName>
@@ -57944,7 +57949,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic2</ScriptName>
@@ -57956,7 +57961,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic20</ScriptName>
@@ -57968,7 +57973,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic21</ScriptName>
@@ -57980,7 +57985,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic22</ScriptName>
@@ -57992,7 +57997,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic23</ScriptName>
@@ -58004,7 +58009,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic24</ScriptName>
@@ -58016,7 +58021,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic25</ScriptName>
@@ -58028,7 +58033,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic26</ScriptName>
@@ -58040,7 +58045,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic27</ScriptName>
@@ -58052,7 +58057,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic3</ScriptName>
@@ -58064,7 +58069,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic4</ScriptName>
@@ -58076,7 +58081,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic5</ScriptName>
@@ -58088,7 +58093,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic6</ScriptName>
@@ -58100,7 +58105,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic7</ScriptName>
@@ -58112,7 +58117,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic8</ScriptName>
@@ -58124,7 +58129,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic9</ScriptName>
@@ -58136,7 +58141,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-07-31 14:42:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -58160,7 +58165,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound10</ScriptName>
@@ -58172,7 +58177,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-29 14:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-29 16:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound101</ScriptName>
@@ -58184,7 +58189,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-12 08:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-12 10:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound12</ScriptName>
@@ -58196,7 +58201,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-08 02:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-08 03:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound2</ScriptName>
@@ -58208,7 +58213,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound3</ScriptName>
@@ -58220,7 +58225,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound5</ScriptName>
@@ -58232,7 +58237,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound4</ScriptName>
@@ -58244,7 +58249,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound6</ScriptName>
@@ -58256,7 +58261,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound7</ScriptName>
@@ -58268,7 +58273,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound8</ScriptName>
@@ -58280,7 +58285,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound9</ScriptName>
@@ -58292,7 +58297,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 15:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 17:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aScored11</ScriptName>
@@ -58304,7 +58309,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-08 00:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-08 01:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
