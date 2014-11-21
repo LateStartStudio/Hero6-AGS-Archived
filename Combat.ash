@@ -1,5 +1,8 @@
 // Script header for module 'Combat'
 
+import short heroPrevX;
+import short heroPrevY;
+
 import function GenericMonsterUse(Character *m);
 import function killAllMonsters();
 

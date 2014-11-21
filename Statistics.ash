@@ -1,11 +1,8 @@
 // Script header for module 'Stats'
 
-import function SetMaxHealth();
-import function SetMaxStamina();
-import function SetMaxMagic();
-import function RefreshMaxHealthStat();
-import function RefreshMaxStaminaStat();
-import function RefreshMaxMagicStat();
+import short allocate;
+
+import function InitializeClasses();
 import function IncreaseStengthStat(int val);
 import function IncreaseIntelligenceStat(int val);
 import function IncreaseAgilityStat(int val);

@@ -57157,29 +57157,77 @@ stop
     <Scripts>
       <ScriptFolder Name="Main">
         <SubFolders>
-          <ScriptFolder Name="Extensions">
+          <ScriptFolder Name="Utilities">
             <SubFolders />
             <ScriptAndHeaders>
               <ScriptAndHeader>
                 <ScriptAndHeader_Header>
                   <Script>
-                    <FileName>Mouse.ash</FileName>
+                    <FileName>CharacterManipulation.ash</FileName>
                     <Name />
                     <Description />
                     <Author />
                     <Version />
-                    <Key>8920393</Key>
+                    <Key>1211099500</Key>
                     <IsHeader>True</IsHeader>
                   </Script>
                 </ScriptAndHeader_Header>
                 <ScriptAndHeader_Script>
                   <Script>
-                    <FileName>Mouse.asc</FileName>
+                    <FileName>CharacterManipulation.asc</FileName>
                     <Name />
                     <Description />
                     <Author />
                     <Version />
-                    <Key>8920393</Key>
+                    <Key>1211099500</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>GameOverDialog.ash</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>1838476873</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>GameOverDialog.asc</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>1838476873</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>Math.ash</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>1796359299</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>Math.asc</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>1796359299</Key>
                     <IsHeader>False</IsHeader>
                   </Script>
                 </ScriptAndHeader_Script>
@@ -57239,6 +57287,88 @@ stop
               </ScriptAndHeader>
             </ScriptAndHeaders>
           </ScriptFolder>
+          <ScriptFolder Name="Plot">
+            <SubFolders />
+            <ScriptAndHeaders>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>RiddleData.ash</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>1360303280</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>RiddleData.asc</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>1360303280</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>Flags.ash</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>788309220</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>Flags.asc</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>788309220</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+            </ScriptAndHeaders>
+          </ScriptFolder>
+          <ScriptFolder Name="Extensions">
+            <SubFolders />
+            <ScriptAndHeaders>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>Mouse.ash</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>8920393</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>Mouse.asc</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>8920393</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+            </ScriptAndHeaders>
+          </ScriptFolder>
           <ScriptFolder Name="EnvironmentScripts">
             <SubFolders>
               <ScriptFolder Name="GameData">
@@ -57270,32 +57400,85 @@ stop
                   </ScriptAndHeader>
                 </ScriptAndHeaders>
               </ScriptFolder>
+              <ScriptFolder Name="Time">
+                <SubFolders />
+                <ScriptAndHeaders>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>TimeData.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1733456729</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>TimeData.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1733456729</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>TimerType.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>797061393</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>TimerType.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>797061393</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>Time.ash</FileName>
+                        <Name>Time</Name>
+                        <Description />
+                        <Author />
+                        <Version>1.0</Version>
+                        <Key>2060803498</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>Time.asc</FileName>
+                        <Name>Time</Name>
+                        <Description />
+                        <Author />
+                        <Version>1.0</Version>
+                        <Key>2060803498</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                </ScriptAndHeaders>
+              </ScriptFolder>
             </SubFolders>
             <ScriptAndHeaders>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>Time.ash</FileName>
-                    <Name>Time</Name>
-                    <Description />
-                    <Author />
-                    <Version>1.0</Version>
-                    <Key>2060803498</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>Time.asc</FileName>
-                    <Name>Time</Name>
-                    <Description />
-                    <Author />
-                    <Version>1.0</Version>
-                    <Key>2060803498</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
               <ScriptAndHeader>
                 <ScriptAndHeader_Header>
                   <Script>
@@ -57320,37 +57503,66 @@ stop
                   </Script>
                 </ScriptAndHeader_Script>
               </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>Shortcuts.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>1036054204</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>Shortcuts.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>1036054204</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
             </ScriptAndHeaders>
           </ScriptFolder>
           <ScriptFolder Name="CharacterScripts">
             <SubFolders>
+              <ScriptFolder Name="Movement">
+                <SubFolders />
+                <ScriptAndHeaders>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>HeroMovement.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1195292207</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>HeroMovement.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1195292207</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                </ScriptAndHeaders>
+              </ScriptFolder>
               <ScriptFolder Name="Statistics">
                 <SubFolders />
                 <ScriptAndHeaders>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>HeroData.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>734425211</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>HeroData.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>734425211</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
                   <ScriptAndHeader>
                     <ScriptAndHeader_Header>
                       <Script>
@@ -57465,11 +57677,60 @@ stop
                 </ScriptAndHeaders>
               </ScriptFolder>
             </SubFolders>
-            <ScriptAndHeaders />
+            <ScriptAndHeaders>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>Transaction.ash</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>1740982334</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>Transaction.asc</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>1740982334</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+            </ScriptAndHeaders>
           </ScriptFolder>
           <ScriptFolder Name="GUIs">
             <SubFolders />
             <ScriptAndHeaders>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>TopBarGUI.ash</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>253509168</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>TopBarGUI.asc</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>253509168</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
               <ScriptAndHeader>
                 <ScriptAndHeader_Header>
                   <Script>
@@ -57765,6 +58026,30 @@ stop
           <ScriptAndHeader>
             <ScriptAndHeader_Header>
               <Script>
+                <FileName>Debug.ash</FileName>
+                <Name />
+                <Description />
+                <Author />
+                <Version />
+                <Key>1036054204</Key>
+                <IsHeader>True</IsHeader>
+              </Script>
+            </ScriptAndHeader_Header>
+            <ScriptAndHeader_Script>
+              <Script>
+                <FileName>Debug.asc</FileName>
+                <Name />
+                <Description />
+                <Author />
+                <Version />
+                <Key>1036054204</Key>
+                <IsHeader>False</IsHeader>
+              </Script>
+            </ScriptAndHeader_Script>
+          </ScriptAndHeader>
+          <ScriptAndHeader>
+            <ScriptAndHeader_Header>
+              <Script>
                 <FileName>GlobalScript.ash</FileName>
                 <Name />
                 <Description />
@@ -57796,8 +58081,8 @@ stop
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <ScriptName>aMusic1</ScriptName>
                 <SourceFileName>music\music1.ogg</SourceFileName>
+                <ScriptName>aMusic1</ScriptName>
                 <Index>1</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57805,11 +58090,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic10</ScriptName>
                 <SourceFileName>music\music10.ogg</SourceFileName>
+                <ScriptName>aMusic10</ScriptName>
                 <Index>2</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57817,11 +58102,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic11</ScriptName>
                 <SourceFileName>music\music11.ogg</SourceFileName>
+                <ScriptName>aMusic11</ScriptName>
                 <Index>3</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57829,11 +58114,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic12</ScriptName>
                 <SourceFileName>music\music12.ogg</SourceFileName>
+                <ScriptName>aMusic12</ScriptName>
                 <Index>4</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57841,11 +58126,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic13</ScriptName>
                 <SourceFileName>music\music13.ogg</SourceFileName>
+                <ScriptName>aMusic13</ScriptName>
                 <Index>5</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57853,11 +58138,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic14</ScriptName>
                 <SourceFileName>music\music14.ogg</SourceFileName>
+                <ScriptName>aMusic14</ScriptName>
                 <Index>6</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57865,11 +58150,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic15</ScriptName>
                 <SourceFileName>music\music15.ogg</SourceFileName>
+                <ScriptName>aMusic15</ScriptName>
                 <Index>7</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57877,11 +58162,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic16</ScriptName>
                 <SourceFileName>music\music16.ogg</SourceFileName>
+                <ScriptName>aMusic16</ScriptName>
                 <Index>8</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57889,11 +58174,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic17</ScriptName>
                 <SourceFileName>music\music17.ogg</SourceFileName>
+                <ScriptName>aMusic17</ScriptName>
                 <Index>9</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57901,11 +58186,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic18</ScriptName>
                 <SourceFileName>music\music18.ogg</SourceFileName>
+                <ScriptName>aMusic18</ScriptName>
                 <Index>10</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57913,11 +58198,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic19</ScriptName>
                 <SourceFileName>music\music19.ogg</SourceFileName>
+                <ScriptName>aMusic19</ScriptName>
                 <Index>11</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57925,11 +58210,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic2</ScriptName>
                 <SourceFileName>music\music2.ogg</SourceFileName>
+                <ScriptName>aMusic2</ScriptName>
                 <Index>12</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57937,11 +58222,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic20</ScriptName>
                 <SourceFileName>music\music20.ogg</SourceFileName>
+                <ScriptName>aMusic20</ScriptName>
                 <Index>13</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57949,11 +58234,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic21</ScriptName>
                 <SourceFileName>music\music21.ogg</SourceFileName>
+                <ScriptName>aMusic21</ScriptName>
                 <Index>14</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57961,11 +58246,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic22</ScriptName>
                 <SourceFileName>music\music22.mp3</SourceFileName>
+                <ScriptName>aMusic22</ScriptName>
                 <Index>15</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57973,11 +58258,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic23</ScriptName>
                 <SourceFileName>music\music23.ogg</SourceFileName>
+                <ScriptName>aMusic23</ScriptName>
                 <Index>16</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57985,11 +58270,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic24</ScriptName>
                 <SourceFileName>music\music24.ogg</SourceFileName>
+                <ScriptName>aMusic24</ScriptName>
                 <Index>17</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -57997,11 +58282,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic25</ScriptName>
                 <SourceFileName>music\music25.mp3</SourceFileName>
+                <ScriptName>aMusic25</ScriptName>
                 <Index>18</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -58009,11 +58294,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic26</ScriptName>
                 <SourceFileName>music\music26.mp3</SourceFileName>
+                <ScriptName>aMusic26</ScriptName>
                 <Index>19</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -58021,11 +58306,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic27</ScriptName>
                 <SourceFileName>music\music27.mp3</SourceFileName>
+                <ScriptName>aMusic27</ScriptName>
                 <Index>20</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -58033,11 +58318,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic3</ScriptName>
                 <SourceFileName>music\music3.ogg</SourceFileName>
+                <ScriptName>aMusic3</ScriptName>
                 <Index>21</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -58045,11 +58330,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic4</ScriptName>
                 <SourceFileName>music\music4.ogg</SourceFileName>
+                <ScriptName>aMusic4</ScriptName>
                 <Index>22</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -58057,11 +58342,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic5</ScriptName>
                 <SourceFileName>music\music5.ogg</SourceFileName>
+                <ScriptName>aMusic5</ScriptName>
                 <Index>23</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -58069,11 +58354,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic6</ScriptName>
                 <SourceFileName>music\music6.ogg</SourceFileName>
+                <ScriptName>aMusic6</ScriptName>
                 <Index>24</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -58081,11 +58366,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic7</ScriptName>
                 <SourceFileName>music\music7.ogg</SourceFileName>
+                <ScriptName>aMusic7</ScriptName>
                 <Index>25</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -58093,11 +58378,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic8</ScriptName>
                 <SourceFileName>music\music8.ogg</SourceFileName>
+                <ScriptName>aMusic8</ScriptName>
                 <Index>26</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -58105,11 +58390,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic9</ScriptName>
                 <SourceFileName>music\music9.mp3</SourceFileName>
+                <ScriptName>aMusic9</ScriptName>
                 <Index>27</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -58117,7 +58402,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 20:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 02:25:55Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -58132,8 +58417,8 @@ stop
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <ScriptName>aSound1</ScriptName>
                 <SourceFileName>sound\sound1.wav</SourceFileName>
+                <ScriptName>aSound1</ScriptName>
                 <Index>28</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58141,11 +58426,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 20:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound10</ScriptName>
                 <SourceFileName>sound\sound10.mp3</SourceFileName>
+                <ScriptName>aSound10</ScriptName>
                 <Index>29</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58153,11 +58438,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-29 18:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-30 04:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound101</ScriptName>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
+                <ScriptName>aSound101</ScriptName>
                 <Index>30</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58165,11 +58450,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-12 12:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-12 22:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound12</ScriptName>
                 <SourceFileName>sound\sound12.ogg</SourceFileName>
+                <ScriptName>aSound12</ScriptName>
                 <Index>31</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58177,11 +58462,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-08 04:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-08 09:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound2</ScriptName>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
+                <ScriptName>aSound2</ScriptName>
                 <Index>32</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58189,11 +58474,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 20:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound3</ScriptName>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
+                <ScriptName>aSound3</ScriptName>
                 <Index>33</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58201,11 +58486,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 20:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound5</ScriptName>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
+                <ScriptName>aSound5</ScriptName>
                 <Index>35</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58213,11 +58498,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 20:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound4</ScriptName>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
+                <ScriptName>aSound4</ScriptName>
                 <Index>34</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58225,11 +58510,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 20:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound6</ScriptName>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
+                <ScriptName>aSound6</ScriptName>
                 <Index>36</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58237,11 +58522,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 20:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound7</ScriptName>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
+                <ScriptName>aSound7</ScriptName>
                 <Index>37</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58249,11 +58534,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 20:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound8</ScriptName>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
+                <ScriptName>aSound8</ScriptName>
                 <Index>38</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58261,11 +58546,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-26 20:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound9</ScriptName>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
+                <ScriptName>aSound9</ScriptName>
                 <Index>39</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58273,11 +58558,11 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-26 19:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 05:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aScored11</ScriptName>
                 <SourceFileName xml:space="preserve">sound\Scored Points.ogg</SourceFileName>
+                <ScriptName>aScored11</ScriptName>
                 <Index>40</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -58285,7 +58570,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-08 02:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-08 07:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -58309,24 +58594,24 @@ stop
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <Name xml:space="preserve">Ambient Sound</Name>
         <TypeID>1</TypeID>
+        <Name xml:space="preserve">Ambient Sound</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Music</Name>
         <TypeID>2</TypeID>
+        <Name>Music</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>FastFade</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Sound</Name>
         <TypeID>3</TypeID>
+        <Name>Sound</Name>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
