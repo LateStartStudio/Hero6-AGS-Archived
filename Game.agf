@@ -57680,349 +57680,479 @@ stop
               </ScriptAndHeader>
             </ScriptAndHeaders>
           </ScriptFolder>
-          <ScriptFolder Name="GUIs">
-            <SubFolders />
-            <ScriptAndHeaders>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>TopBarGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>253509168</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>TopBarGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>253509168</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>SaveLoadGameGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>1184324238</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>SaveLoadGameGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>1184324238</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>OptionsGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>507164376</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>OptionsGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>507164376</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>BookGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>1571097760</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>BookGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>1571097760</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>JobBoardGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>441316018</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>JobBoardGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>441316018</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>GameOverGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>1604471530</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>GameOverGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>1604471530</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>CharacterSheetGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>1455529840</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>CharacterSheetGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>1455529840</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>NameSelectGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>916062759</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>NameSelectGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>916062759</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>SubMenuGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>2035117213</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>SubMenuGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>2035117213</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>CombatGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>647180907</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>CombatGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>647180907</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>SpellsGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>620620706</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>SpellsGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>620620706</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>InventoryGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>887950581</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>InventoryGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>887950581</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
-                    <FileName>IconbarGUI.ash</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>2044321150</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>IconbarGUI.asc</FileName>
-                    <Name />
-                    <Description />
-                    <Author />
-                    <Version />
-                    <Key>2044321150</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-            </ScriptAndHeaders>
+          <ScriptFolder Name="AGSComponents">
+            <SubFolders>
+              <ScriptFolder Name="Misc">
+                <SubFolders />
+                <ScriptAndHeaders>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>Dialogs.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>846460708</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>Dialogs.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>846460708</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>Characters.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1864021271</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>Characters.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1864021271</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>Inventory.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>2070971337</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>Inventory.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>2070971337</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                </ScriptAndHeaders>
+              </ScriptFolder>
+              <ScriptFolder Name="GUIs">
+                <SubFolders />
+                <ScriptAndHeaders>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>ShortcutsGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1968187792</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>ShortcutsGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1968187792</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>DolmenSetupGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1644817640</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>DolmenSetupGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1644817640</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>ChapterSelectGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>2125315785</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>ChapterSelectGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>2125315785</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>TopBarGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>253509168</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>TopBarGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>253509168</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>SaveLoadGameGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1184324238</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>SaveLoadGameGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1184324238</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>OptionsGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>507164376</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>OptionsGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>507164376</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>BookGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1571097760</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>BookGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1571097760</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>JobBoardGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>441316018</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>JobBoardGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>441316018</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>GameOverGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1604471530</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>GameOverGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1604471530</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>CharacterSheetGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1455529840</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>CharacterSheetGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1455529840</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>NameSelectGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>916062759</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>NameSelectGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>916062759</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>SubMenuGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>2035117213</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>SubMenuGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>2035117213</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>CombatGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>647180907</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>CombatGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>647180907</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>SpellsGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>620620706</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>SpellsGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>620620706</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>InventoryGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>887950581</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>InventoryGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>887950581</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>IconbarGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>2044321150</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>IconbarGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>2044321150</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                </ScriptAndHeaders>
+              </ScriptFolder>
+            </SubFolders>
+            <ScriptAndHeaders />
           </ScriptFolder>
         </SubFolders>
         <ScriptAndHeaders>
-          <ScriptAndHeader>
-            <ScriptAndHeader_Header>
-              <Script>
-                <FileName>Debug.ash</FileName>
-                <Name />
-                <Description />
-                <Author />
-                <Version />
-                <Key>1036054204</Key>
-                <IsHeader>True</IsHeader>
-              </Script>
-            </ScriptAndHeader_Header>
-            <ScriptAndHeader_Script>
-              <Script>
-                <FileName>Debug.asc</FileName>
-                <Name />
-                <Description />
-                <Author />
-                <Version />
-                <Key>1036054204</Key>
-                <IsHeader>False</IsHeader>
-              </Script>
-            </ScriptAndHeader_Script>
-          </ScriptAndHeader>
           <ScriptAndHeader>
             <ScriptAndHeader_Header>
               <Script>
@@ -58066,7 +58196,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music10.ogg</SourceFileName>
@@ -58078,7 +58208,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music11.ogg</SourceFileName>
@@ -58090,7 +58220,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music12.ogg</SourceFileName>
@@ -58102,7 +58232,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music13.ogg</SourceFileName>
@@ -58114,7 +58244,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music14.ogg</SourceFileName>
@@ -58126,7 +58256,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music15.ogg</SourceFileName>
@@ -58138,7 +58268,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music16.ogg</SourceFileName>
@@ -58150,7 +58280,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music17.ogg</SourceFileName>
@@ -58162,7 +58292,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music18.ogg</SourceFileName>
@@ -58174,7 +58304,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music19.ogg</SourceFileName>
@@ -58186,7 +58316,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music2.ogg</SourceFileName>
@@ -58198,7 +58328,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music20.ogg</SourceFileName>
@@ -58210,7 +58340,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music21.ogg</SourceFileName>
@@ -58222,7 +58352,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music22.mp3</SourceFileName>
@@ -58234,7 +58364,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music23.ogg</SourceFileName>
@@ -58246,7 +58376,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music24.ogg</SourceFileName>
@@ -58258,7 +58388,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music25.mp3</SourceFileName>
@@ -58270,7 +58400,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music26.mp3</SourceFileName>
@@ -58282,7 +58412,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music27.mp3</SourceFileName>
@@ -58294,7 +58424,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music3.ogg</SourceFileName>
@@ -58306,7 +58436,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music4.ogg</SourceFileName>
@@ -58318,7 +58448,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music5.ogg</SourceFileName>
@@ -58330,7 +58460,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music6.ogg</SourceFileName>
@@ -58342,7 +58472,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music7.ogg</SourceFileName>
@@ -58354,7 +58484,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music8.ogg</SourceFileName>
@@ -58366,7 +58496,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music9.mp3</SourceFileName>
@@ -58378,7 +58508,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 22:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -58402,7 +58532,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.mp3</SourceFileName>
@@ -58414,7 +58544,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-30 14:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-30 18:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
@@ -58426,7 +58556,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-13 08:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-13 12:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound12.ogg</SourceFileName>
@@ -58438,7 +58568,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-08 14:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-08 16:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
@@ -58450,7 +58580,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
@@ -58462,7 +58592,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
@@ -58474,7 +58604,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
@@ -58486,7 +58616,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
@@ -58498,7 +58628,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
@@ -58510,7 +58640,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
@@ -58522,7 +58652,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 06:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
@@ -58534,7 +58664,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 15:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 19:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">sound\Scored Points.ogg</SourceFileName>
@@ -58546,7 +58676,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-08 12:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-08 14:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>

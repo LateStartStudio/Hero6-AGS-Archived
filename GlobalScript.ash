@@ -3,20 +3,78 @@
 // place import definitions and #define names here to be used by all
 // scripts.
 
-import function CompleteGreenleafFavor();
+/* INVENTORY SCRIPT IMPORTS - These imports allow modularization of Inventory functions */
+import function inv_24a();
+import function inv_32a();
+import function inv_50a();
+import function inv_58a();
+import function inv_63a();
+import function inv_64a();
+import function inv_64b();
+import function inv_68a();
+import function inv_70a();
+import function inv_72a();
+import function inv_77a();
+import function inv_78a();
+import function inv_80a();
+import function remenBook_Look();
+import function gNote_Look();
+import function torch_UseInv();
+import function flint_UseInv();
+
+/* CHARACTER SCRIPT IMPORTS - These imports allow modularization of Character functions */
+import function VeranPotionResponse();
+import function chr_0e();
+import function chr_2a();
+import function chr_9a();
+import function chr_9b();
+import function chr_17a();
+import function chr_18a();
+import function chr_18e();
+import function chr_18f();
+import function chr_19a();
+import function chr_22a();
+import function chr_23a();
+import function chr_23b();
+import function chr_23c();
+import function chr_28a();
+import function chr_28b();
+import function chr_29a();
+import function chr_37a();
+import function chr_42a();
+import function chr_52a();
+import function ego_UseInv();
+import function guard01_UseInv();
+import function thaen_UseInv();
+import function veran_UseInv();
+import function belenus_UseInv();
+import function fernin_UseInv();
+import function glith_UseInv();
+import function shadowMageDolm_UseInv();
+import function ronbars_UseInv();
+import function rogueMonster_UseInv();
 
 /* GUI SCRIPT IMPORTS - These imports allow modularization of GUI functions */
-/* SpellsGUI Script Functions - A modularization initiative */
+/* DolmenSetupGUI Script Functions */
+import function questA_Click();
+import function questB_Click();
+
+/* ChapterSelectGUI Script Functions */
+import function chap1_Click();
+import function chap2_Click();
+import function chap3_Click();
+
+/* SpellsGUI Script Functions */
 import function spellPoint_Click();
 import function spellOK_Click();
 
-/* InventoryGUI Script Functions - A modularization initiative */
+/* InventoryGUI Script Functions */
 import function invDown_Click();
 import function invOK_Click();
 import function invSelect_Click();
 import function invUp_Click();
 
-/* IconbarGUI Script Functions - A modularization initiative */
+/* IconbarGUI Script Functions */
 import function iconWalk_Click();
 import function iconLook_Click();
 import function iconInteract_Click();
@@ -27,7 +85,7 @@ import function iconCurInv_Click();
 import function iconInv_Click();
 import function options_Click();
 
-/* OptionsGUI Script Functions - A modularization initiative */
+/* OptionsGUI Script Functions */
 import function saveGame_Click();
 import function loadGame_Click();
 import function restartGame_Click();
@@ -36,14 +94,9 @@ import function return_Click();
 import function gameSpeedSlider_Change();
 import function sliderVolume_Change();
 import function sliderDetail_Change();
-/* These appear to be from an old implementation of the Options GUI
-import function iconSave_Click();
-import function iconLoad_Click();
-import function iconExit_Click();
-import function iconAbout_Click();
-*/
 
-/* CombatGUI Script Functions - A modularization initiative */
+/* CombatGUI Script Functions */
+
 import function thrust_Click();
 import function slash_Click();
 import function slice_Click();
@@ -52,38 +105,14 @@ import function block_Click();
 import function runAway_Click();
 import function flame_Click();
 
-/* CharacterSheetGUI Script Functions - A modularization initiative */
-import function addStr_Click();
-import function addInt_Click();
-import function addAgi_Click();
-import function addVit_Click();
-import function addLuck_Click();
-import function addMagic_Click();
-import function addWeaponUse_Click();
-import function addParry_Click();
-import function addDodge_Click();
-import function addThrow_Click();
-import function addClimb_Click();
-import function addStealth_Click();
-import function addLock_Click();
-import function subStr_Click();
-import function subInt_Click();
-import function subAgi_Click();
-import function subVit_Click();
-import function subLuck_Click();
-import function subMagic_Click();
-import function subWeaponUse_Click();
-import function subParry_Click();
-import function subDodge_Click();
-import function subThrow_Click();
-import function subClimb_Click();
-import function subStealth_Click();
-import function subLock_Click();
+/* CharacterSheetGUI Script Functions */
+import function increaseStat_Click(int stat);
+import function decreaseStat_Click(int stat);
 import function back_Click();
 import function start_Click();
 import function reroll_Click();
 
-/* SubMenuGUI Script Functions - A modularization initiative */
+/* SubMenuGUI Script Functions */
 import function viewCharSheet_Click();
 import function subClose_Click();
 import function time_Click();
@@ -96,17 +125,17 @@ import function restCancel_Click();
 import function rest_Click();
 import function restSleep_Click();
 
-/* NameSelectGUI Script Functions - A modularization initiative */
+/* NameSelectGUI Script Functions */
 import function nameCancel_Click();
 import function nameOK_Click();
 
-/* GameOverGUI Script Functions - A modularization initiative */
+/* GameOverGUI Script Functions */
 import function gQuit_Click();
 import function gRestart_Click();
 import function gRestore_Click();
 import function gTryAgain_Click();
 
-/* ShortcutsGUI Script Functions - A modularization initiative */
+/* ShortcutsGUI Script Functions */
 import function warpDF_Click();
 import function warpTower_Click();
 import function warpGreenleaf_Click();
@@ -116,11 +145,11 @@ import function warpClose_Click();
 import function cutEStatue_Click();
 import function startBerryDuel_Click();
 
-/* JobBoardGUI Script Functions - A modularization initiative */
+/* JobBoardGUI Script Functions */
 import function jobBoardClose_Click();
 import function jobPoster1_Click();
 
-/* BookGUI Script Functions - A modularization initiative */
+/* BookGUI Script Functions */
 import function bookClose_Click();
 import function bookLeft_Click();
 import function bookRight_Click();
