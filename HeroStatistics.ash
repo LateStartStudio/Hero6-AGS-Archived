@@ -26,12 +26,11 @@ struct HeroStatistics {
   import function modifyHealthPoints  (short value);
   import function modifyStaminaPoints (short value);
   import function modifyMagicPoints   (short value);
-  
-  import function increaseStat (int stat, short value);
-  
   import function modifyHonour        (short value);
+  import function increaseStat (int stat, short value);  
   
-  import function InitializeTempValues();
+  import function setMaxStats ();	
+  import function InitializeTempValues ();
 };
 
 enum Stats {

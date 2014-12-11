@@ -55,15 +55,6 @@ import function ronbars_UseInv();
 import function rogueMonster_UseInv();
 
 /* GUI SCRIPT IMPORTS - These imports allow modularization of GUI functions */
-/* DolmenSetupGUI Script Functions */
-import function questA_Click();
-import function questB_Click();
-
-/* ChapterSelectGUI Script Functions */
-import function chap1_Click();
-import function chap2_Click();
-import function chap3_Click();
-
 /* SpellsGUI Script Functions */
 import function spellPoint_Click();
 import function spellOK_Click();
@@ -135,16 +126,6 @@ import function gRestart_Click();
 import function gRestore_Click();
 import function gTryAgain_Click();
 
-/* ShortcutsGUI Script Functions */
-import function warpDF_Click();
-import function warpTower_Click();
-import function warpGreenleaf_Click();
-import function warpAlbion_Click();
-import function warpCaves_Click();
-import function warpClose_Click();
-import function cutEStatue_Click();
-import function startBerryDuel_Click();
-
 /* JobBoardGUI Script Functions */
 import function jobBoardClose_Click();
 import function jobPoster1_Click();
@@ -155,3 +136,20 @@ import function bookLeft_Click();
 import function bookRight_Click();
 import function riddleOK_Click();
 
+/* DebugUtilityGUI Script Functions */
+import function agsDebug_OnClick(int command, int data);
+import function maxStats_OnClick();
+import function adjustStats_OnClick();
+import function giveGold_OnClick();
+import function warpToDarkForest_OnClick();
+import function warpToTower_OnClick();
+import function warpToGreenleaf_OnClick();
+import function warpToAlbion_OnClick();
+import function warpToCaves_OnClick();
+import function warpToEloiaStatue_OnClick();
+import function warpToBerryDuel_OnClick();
+import function dolmenA_OnClick();
+import function dolmenB_OnClick();
+import function chapter1Select_OnClick();
+import function chapter2Select_OnClick();
+import function chapter3Select_OnClick();

@@ -2648,8 +2648,8 @@
                 <Text>0</Text>
                 <Height>10</Height>
                 <Locked>False</Locked>
-                <Width>24</Width>
-                <Left>176</Left>
+                <Width>50</Width>
+                <Left>150</Left>
                 <Top>190</Top>
                 <ZOrder>20</ZOrder>
                 <ID>20</ID>
@@ -6155,181 +6155,6 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>100</Height>
-              <Width>150</Width>
-              <Left>84</Left>
-              <Top>80</Top>
-              <Clickable>True</Clickable>
-              <Visibility>PopupModal</Visibility>
-              <PopupYPos>0</PopupYPos>
-              <ZOrder>27</ZOrder>
-              <BorderColor>1</BorderColor>
-              <Transparency>0</Transparency>
-              <BackgroundColor>8</BackgroundColor>
-              <BackgroundImage>-1</BackgroundImage>
-              <ID>27</ID>
-              <Name>gDolmensetup</Name>
-            </NormalGUI>
-            <Controls>
-              <GUILabel>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>15</TextColor>
-                <Font>0</Font>
-                <Text xml:space="preserve">There are two versions of this quest available. Please select and report your preference on the forums.</Text>
-                <Height>50</Height>
-                <Locked>False</Locked>
-                <Width>146</Width>
-                <Left>1</Left>
-                <Top>2</Top>
-                <ZOrder>0</ZOrder>
-                <ID>0</ID>
-                <Name />
-              </GUILabel>
-              <GUIButton>
-                <OnClick>btnQuestA_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text xml:space="preserve">Quest A</Text>
-                <Height>14</Height>
-                <Locked>False</Locked>
-                <Width>120</Width>
-                <Left>11</Left>
-                <Top>52</Top>
-                <ZOrder>1</ZOrder>
-                <ID>1</ID>
-                <Name>btnQuestA</Name>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnQuestB_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text xml:space="preserve">Quest B</Text>
-                <Height>14</Height>
-                <Locked>False</Locked>
-                <Width>120</Width>
-                <Left>11</Left>
-                <Top>71</Top>
-                <ZOrder>2</ZOrder>
-                <ID>2</ID>
-                <Name>btnQuestB</Name>
-              </GUIButton>
-            </Controls>
-          </GUIMain>
-          <GUIMain>
-            <NormalGUI>
-              <OnClick />
-              <Height>80</Height>
-              <Width>80</Width>
-              <Left>120</Left>
-              <Top>80</Top>
-              <Clickable>True</Clickable>
-              <Visibility>PopupModal</Visibility>
-              <PopupYPos>0</PopupYPos>
-              <ZOrder>28</ZOrder>
-              <BorderColor>1</BorderColor>
-              <Transparency>0</Transparency>
-              <BackgroundColor>8</BackgroundColor>
-              <BackgroundImage>-1</BackgroundImage>
-              <ID>28</ID>
-              <Name>gChapterselect</Name>
-            </NormalGUI>
-            <Controls>
-              <GUILabel>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>15</TextColor>
-                <Font>0</Font>
-                <Text xml:space="preserve">Chapter Select:</Text>
-                <Height>16</Height>
-                <Locked>False</Locked>
-                <Width>62</Width>
-                <Left>7</Left>
-                <Top>2</Top>
-                <ZOrder>0</ZOrder>
-                <ID>0</ID>
-                <Name />
-              </GUILabel>
-              <GUIButton>
-                <OnClick>btnChap1_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text xml:space="preserve">Chapter 1</Text>
-                <Height>11</Height>
-                <Locked>False</Locked>
-                <Width>72</Width>
-                <Left>2</Left>
-                <Top>27</Top>
-                <ZOrder>1</ZOrder>
-                <ID>1</ID>
-                <Name>btnChap1</Name>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnChap2_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text xml:space="preserve">Chapter 2</Text>
-                <Height>11</Height>
-                <Locked>False</Locked>
-                <Width>72</Width>
-                <Left>2</Left>
-                <Top>41</Top>
-                <ZOrder>2</ZOrder>
-                <ID>2</ID>
-                <Name>btnChap2</Name>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnChap3_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text xml:space="preserve">Chapter 3</Text>
-                <Height>11</Height>
-                <Locked>False</Locked>
-                <Width>72</Width>
-                <Left>2</Left>
-                <Top>55</Top>
-                <ZOrder>3</ZOrder>
-                <ID>3</ID>
-                <Name>btnChap3</Name>
-              </GUIButton>
-            </Controls>
-          </GUIMain>
-          <GUIMain>
-            <NormalGUI>
-              <OnClick />
               <Height>80</Height>
               <Width>200</Width>
               <Left>50</Left>
@@ -6342,7 +6167,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>0</BackgroundColor>
               <BackgroundImage>1796</BackgroundImage>
-              <ID>29</ID>
+              <ID>27</ID>
               <Name>gNameselect</Name>
             </NormalGUI>
             <Controls>
@@ -6420,7 +6245,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>8</BackgroundColor>
               <BackgroundImage>34</BackgroundImage>
-              <ID>30</ID>
+              <ID>28</ID>
               <Name>gRiddlebox</Name>
             </NormalGUI>
             <Controls>
@@ -6743,7 +6568,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>8</BackgroundColor>
               <BackgroundImage>-1</BackgroundImage>
-              <ID>31</ID>
+              <ID>29</ID>
               <Name>gCombatgui</Name>
             </NormalGUI>
             <Controls>
@@ -7079,7 +6904,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>0</BackgroundColor>
               <BackgroundImage>0</BackgroundImage>
-              <ID>32</ID>
+              <ID>30</ID>
               <Name>gGameover</Name>
             </NormalGUI>
             <Controls>
@@ -7548,7 +7373,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>0</BackgroundColor>
               <BackgroundImage>-1</BackgroundImage>
-              <ID>33</ID>
+              <ID>31</ID>
               <Name>gTitlegui</Name>
             </NormalGUI>
             <Controls>
@@ -7662,251 +7487,6 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>200</Height>
-              <Width>200</Width>
-              <Left>60</Left>
-              <Top>20</Top>
-              <Clickable>True</Clickable>
-              <Visibility>PopupModal</Visibility>
-              <PopupYPos>0</PopupYPos>
-              <ZOrder>35</ZOrder>
-              <BorderColor>1</BorderColor>
-              <Transparency>0</Transparency>
-              <BackgroundColor>8</BackgroundColor>
-              <BackgroundImage>34</BackgroundImage>
-              <ID>34</ID>
-              <Name>gShortcuts</Name>
-            </NormalGUI>
-            <Controls>
-              <GUIButton>
-                <OnClick />
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>2105</Image>
-                <Text xml:space="preserve">New Button</Text>
-                <Height>210</Height>
-                <Locked>False</Locked>
-                <Width>6</Width>
-                <Left>192</Left>
-                <Top>0</Top>
-                <ZOrder>0</ZOrder>
-                <ID>0</ID>
-                <Name />
-              </GUIButton>
-              <GUIButton>
-                <OnClick />
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>2105</Image>
-                <Text xml:space="preserve">New Button</Text>
-                <Height>210</Height>
-                <Locked>False</Locked>
-                <Width>6</Width>
-                <Left>0</Left>
-                <Top>0</Top>
-                <ZOrder>1</ZOrder>
-                <ID>1</ID>
-                <Name />
-              </GUIButton>
-              <GUILabel>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <Text xml:space="preserve">Warning: Using these shortcuts may cause unexpected behaviour.</Text>
-                <Height>31</Height>
-                <Locked>False</Locked>
-                <Width>164</Width>
-                <Left>18</Left>
-                <Top>7</Top>
-                <ZOrder>2</ZOrder>
-                <ID>2</ID>
-                <Name />
-              </GUILabel>
-              <GUIButton>
-                <OnClick>btnWarpDF_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text xml:space="preserve">Enter Dark Forest</Text>
-                <Height>13</Height>
-                <Locked>False</Locked>
-                <Width>165</Width>
-                <Left>17</Left>
-                <Top>43</Top>
-                <ZOrder>3</ZOrder>
-                <ID>3</ID>
-                <Name>btnWarpDF</Name>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnWarpTower_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text xml:space="preserve">Warp to Tower</Text>
-                <Height>14</Height>
-                <Locked>False</Locked>
-                <Width>165</Width>
-                <Left>17</Left>
-                <Top>61</Top>
-                <ZOrder>4</ZOrder>
-                <ID>4</ID>
-                <Name>btnWarpTower</Name>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnWarpGreenleaf_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text>Greenleaf</Text>
-                <Height>14</Height>
-                <Locked>False</Locked>
-                <Width>165</Width>
-                <Left>17</Left>
-                <Top>80</Top>
-                <ZOrder>5</ZOrder>
-                <ID>5</ID>
-                <Name>btnWarpGreenleaf</Name>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnWarpAlbion_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text>Albion</Text>
-                <Height>14</Height>
-                <Locked>False</Locked>
-                <Width>165</Width>
-                <Left>17</Left>
-                <Top>98</Top>
-                <ZOrder>6</ZOrder>
-                <ID>6</ID>
-                <Name>btnWarpAlbion</Name>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnWarpCaves_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text>Caves</Text>
-                <Height>14</Height>
-                <Locked>False</Locked>
-                <Width>165</Width>
-                <Left>17</Left>
-                <Top>117</Top>
-                <ZOrder>7</ZOrder>
-                <ID>7</ID>
-                <Name>btnWarpCaves</Name>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnWarpClose_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>2060</Image>
-                <Text xml:space="preserve">New Button</Text>
-                <Height>15</Height>
-                <Locked>False</Locked>
-                <Width>15</Width>
-                <Left>175</Left>
-                <Top>182</Top>
-                <ZOrder>8</ZOrder>
-                <ID>8</ID>
-                <Name>btnWarpClose</Name>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnCutEStatue_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>1</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text xml:space="preserve">Eloia Statue</Text>
-                <Height>12</Height>
-                <Locked>False</Locked>
-                <Width>67</Width>
-                <Left>18</Left>
-                <Top>152</Top>
-                <ZOrder>9</ZOrder>
-                <ID>9</ID>
-                <Name>btnCutEStatue</Name>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnStartBerryDuel_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopMiddle</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>1</Font>
-                <PushedImage>0</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>0</Image>
-                <Text xml:space="preserve">Berry Duel</Text>
-                <Height>11</Height>
-                <Locked>False</Locked>
-                <Width>67</Width>
-                <Left>18</Left>
-                <Top>166</Top>
-                <ZOrder>10</ZOrder>
-                <ID>10</ID>
-                <Name>btnStartBerryDuel</Name>
-              </GUIButton>
-            </Controls>
-          </GUIMain>
-          <GUIMain>
-            <NormalGUI>
-              <OnClick />
               <Height>101</Height>
               <Width>198</Width>
               <Left>0</Left>
@@ -7919,7 +7499,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>0</BackgroundColor>
               <BackgroundImage>0</BackgroundImage>
-              <ID>35</ID>
+              <ID>32</ID>
               <Name>gDialogBox</Name>
             </NormalGUI>
             <Controls>
@@ -8353,7 +7933,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>0</BackgroundColor>
               <BackgroundImage>0</BackgroundImage>
-              <ID>36</ID>
+              <ID>33</ID>
               <Name>gSaveLoadGame</Name>
             </NormalGUI>
             <Controls>
@@ -8510,6 +8090,531 @@
                 <ID>7</ID>
                 <Name>lblSaveLoadDescription</Name>
               </GUILabel>
+            </Controls>
+          </GUIMain>
+          <GUIMain>
+            <NormalGUI>
+              <OnClick />
+              <Height>170</Height>
+              <Width>260</Width>
+              <Left>0</Left>
+              <Top>0</Top>
+              <Clickable>True</Clickable>
+              <Visibility>PopupModal</Visibility>
+              <PopupYPos>0</PopupYPos>
+              <ZOrder>0</ZOrder>
+              <BorderColor>2</BorderColor>
+              <Transparency>0</Transparency>
+              <BackgroundColor>8</BackgroundColor>
+              <BackgroundImage>0</BackgroundImage>
+              <ID>34</ID>
+              <Name>gDebugUtility</Name>
+            </NormalGUI>
+            <Controls>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text xml:space="preserve">Debug Utility</Text>
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>65</Width>
+                <Left>101</Left>
+                <Top>4</Top>
+                <ZOrder>0</ZOrder>
+                <ID>0</ID>
+                <Name>lblDebugUtility</Name>
+              </GUILabel>
+              <GUIButton>
+                <OnClick>btnAllInventory_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">All Inventory</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>8</Left>
+                <Top>28</Top>
+                <ZOrder>1</ZOrder>
+                <ID>1</ID>
+                <Name>btnAllInventory</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnDisplayVersion_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text>Version</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>8</Left>
+                <Top>43</Top>
+                <ZOrder>2</ZOrder>
+                <ID>2</ID>
+                <Name>btnDisplayVersion</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnWalkable_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text>Walkable</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>8</Left>
+                <Top>58</Top>
+                <ZOrder>3</ZOrder>
+                <ID>3</ID>
+                <Name>btnWalkable</Name>
+              </GUIButton>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text xml:space="preserve">AGS Debug:</Text>
+                <Height>11</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>8</Left>
+                <Top>18</Top>
+                <ZOrder>4</ZOrder>
+                <ID>4</ID>
+                <Name>lblAGSDebug</Name>
+              </GUILabel>
+              <GUIButton>
+                <OnClick>btnTeleport_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text>Teleport</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>8</Left>
+                <Top>73</Top>
+                <ZOrder>5</ZOrder>
+                <ID>5</ID>
+                <Name>btnTeleport</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnShowFPS_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Show FPS</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>8</Left>
+                <Top>88</Top>
+                <ZOrder>6</ZOrder>
+                <ID>6</ID>
+                <Name>btnShowFPS</Name>
+              </GUIButton>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text>Stats:</Text>
+                <Height>11</Height>
+                <Locked>False</Locked>
+                <Width>77</Width>
+                <Left>8</Left>
+                <Top>108</Top>
+                <ZOrder>7</ZOrder>
+                <ID>7</ID>
+                <Name>lblStats</Name>
+              </GUILabel>
+              <GUIButton>
+                <OnClick>btnMaxStats_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Max Stats</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>8</Left>
+                <Top>119</Top>
+                <ZOrder>8</ZOrder>
+                <ID>8</ID>
+                <Name>btnMaxStats</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnAdjustStats_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Adjust Stats</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>8</Left>
+                <Top>134</Top>
+                <ZOrder>9</ZOrder>
+                <ID>9</ID>
+                <Name>btnAdjustStats</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnGiveGold_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Give Gold</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>8</Left>
+                <Top>149</Top>
+                <ZOrder>10</ZOrder>
+                <ID>10</ID>
+                <Name>btnGiveGold</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnWarpToDarkForest_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Dark Forest</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>93</Left>
+                <Top>28</Top>
+                <ZOrder>11</ZOrder>
+                <ID>11</ID>
+                <Name>btnWarpToDarkForest</Name>
+              </GUIButton>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text xml:space="preserve">Warp Event:</Text>
+                <Height>11</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>93</Left>
+                <Top>18</Top>
+                <ZOrder>12</ZOrder>
+                <ID>12</ID>
+                <Name>lblWarpEvent</Name>
+              </GUILabel>
+              <GUIButton>
+                <OnClick>btnWarpToTower_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text>Tower</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>93</Left>
+                <Top>43</Top>
+                <ZOrder>13</ZOrder>
+                <ID>13</ID>
+                <Name>btnWarpToTower</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnWarpToGreenleaf_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text>Greenleaf</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>93</Left>
+                <Top>58</Top>
+                <ZOrder>14</ZOrder>
+                <ID>14</ID>
+                <Name>btnWarpToGreenleaf</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnWarpToAlbion_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text>Albion</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>93</Left>
+                <Top>73</Top>
+                <ZOrder>15</ZOrder>
+                <ID>15</ID>
+                <Name>btnWarpToAlbion</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnWarpToCaves_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text>Caves</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>93</Left>
+                <Top>88</Top>
+                <ZOrder>16</ZOrder>
+                <ID>16</ID>
+                <Name>btnWarpToCaves</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnWarpToEloiaStatue_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Eloia Statue</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>93</Left>
+                <Top>103</Top>
+                <ZOrder>17</ZOrder>
+                <ID>17</ID>
+                <Name>btnWarpToEloiaStatue</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnWarpToBerryDuel_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Berry Duel</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>93</Left>
+                <Top>119</Top>
+                <ZOrder>18</ZOrder>
+                <ID>18</ID>
+                <Name>btnWarpToBerryDuel</Name>
+              </GUIButton>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text xml:space="preserve">Dolmen Setup:</Text>
+                <Height>11</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>175</Left>
+                <Top>18</Top>
+                <ZOrder>19</ZOrder>
+                <ID>19</ID>
+                <Name>lblDolmenSetup</Name>
+              </GUILabel>
+              <GUIButton>
+                <OnClick>btnDolmenA_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Quest A</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>175</Left>
+                <Top>28</Top>
+                <ZOrder>20</ZOrder>
+                <ID>20</ID>
+                <Name>btnDolmenA</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnDolmenB_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Quest B</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>175</Left>
+                <Top>43</Top>
+                <ZOrder>21</ZOrder>
+                <ID>21</ID>
+                <Name>btnDolmenB</Name>
+              </GUIButton>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text xml:space="preserve">Chapter Select:</Text>
+                <Height>11</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>175</Left>
+                <Top>63</Top>
+                <ZOrder>22</ZOrder>
+                <ID>22</ID>
+                <Name>lblChapterSelect</Name>
+              </GUILabel>
+              <GUIButton>
+                <OnClick>btnChapter1Select_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Chapter 1</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>175</Left>
+                <Top>73</Top>
+                <ZOrder>23</ZOrder>
+                <ID>23</ID>
+                <Name>btnChapter1Select</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnChapter2Select_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Chapter 2</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>175</Left>
+                <Top>88</Top>
+                <ZOrder>24</ZOrder>
+                <ID>24</ID>
+                <Name>btnChapter2Select</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnChapter3Select_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Chapter 3</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>175</Left>
+                <Top>103</Top>
+                <ZOrder>25</ZOrder>
+                <ID>25</ID>
+                <Name>btnChapter3Select</Name>
+              </GUIButton>
             </Controls>
           </GUIMain>
         </GUIs>
@@ -57765,78 +57870,6 @@ stop
                   <ScriptAndHeader>
                     <ScriptAndHeader_Header>
                       <Script>
-                        <FileName>ShortcutsGUI.ash</FileName>
-                        <Name />
-                        <Description />
-                        <Author />
-                        <Version />
-                        <Key>1968187792</Key>
-                        <IsHeader>True</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Header>
-                    <ScriptAndHeader_Script>
-                      <Script>
-                        <FileName>ShortcutsGUI.asc</FileName>
-                        <Name />
-                        <Description />
-                        <Author />
-                        <Version />
-                        <Key>1968187792</Key>
-                        <IsHeader>False</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Script>
-                  </ScriptAndHeader>
-                  <ScriptAndHeader>
-                    <ScriptAndHeader_Header>
-                      <Script>
-                        <FileName>DolmenSetupGUI.ash</FileName>
-                        <Name />
-                        <Description />
-                        <Author />
-                        <Version />
-                        <Key>1644817640</Key>
-                        <IsHeader>True</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Header>
-                    <ScriptAndHeader_Script>
-                      <Script>
-                        <FileName>DolmenSetupGUI.asc</FileName>
-                        <Name />
-                        <Description />
-                        <Author />
-                        <Version />
-                        <Key>1644817640</Key>
-                        <IsHeader>False</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Script>
-                  </ScriptAndHeader>
-                  <ScriptAndHeader>
-                    <ScriptAndHeader_Header>
-                      <Script>
-                        <FileName>ChapterSelectGUI.ash</FileName>
-                        <Name />
-                        <Description />
-                        <Author />
-                        <Version />
-                        <Key>2125315785</Key>
-                        <IsHeader>True</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Header>
-                    <ScriptAndHeader_Script>
-                      <Script>
-                        <FileName>ChapterSelectGUI.asc</FileName>
-                        <Name />
-                        <Description />
-                        <Author />
-                        <Version />
-                        <Key>2125315785</Key>
-                        <IsHeader>False</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Script>
-                  </ScriptAndHeader>
-                  <ScriptAndHeader>
-                    <ScriptAndHeader_Header>
-                      <Script>
                         <FileName>TopBarGUI.ash</FileName>
                         <Name />
                         <Description />
@@ -58146,6 +58179,30 @@ stop
                       </Script>
                     </ScriptAndHeader_Script>
                   </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>DebugUtilityGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1316215244</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>DebugUtilityGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1316215244</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
                 </ScriptAndHeaders>
               </ScriptFolder>
             </SubFolders>
@@ -58196,7 +58253,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music10.ogg</SourceFileName>
@@ -58208,7 +58265,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music11.ogg</SourceFileName>
@@ -58220,7 +58277,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music12.ogg</SourceFileName>
@@ -58232,7 +58289,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music13.ogg</SourceFileName>
@@ -58244,7 +58301,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music14.ogg</SourceFileName>
@@ -58256,7 +58313,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music15.ogg</SourceFileName>
@@ -58268,7 +58325,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music16.ogg</SourceFileName>
@@ -58280,7 +58337,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music17.ogg</SourceFileName>
@@ -58292,7 +58349,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music18.ogg</SourceFileName>
@@ -58304,7 +58361,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music19.ogg</SourceFileName>
@@ -58316,7 +58373,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music2.ogg</SourceFileName>
@@ -58328,7 +58385,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music20.ogg</SourceFileName>
@@ -58340,7 +58397,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music21.ogg</SourceFileName>
@@ -58352,7 +58409,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music22.mp3</SourceFileName>
@@ -58364,7 +58421,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music23.ogg</SourceFileName>
@@ -58376,7 +58433,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music24.ogg</SourceFileName>
@@ -58388,7 +58445,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music25.mp3</SourceFileName>
@@ -58400,7 +58457,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music26.mp3</SourceFileName>
@@ -58412,7 +58469,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music27.mp3</SourceFileName>
@@ -58424,7 +58481,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music3.ogg</SourceFileName>
@@ -58436,7 +58493,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music4.ogg</SourceFileName>
@@ -58448,7 +58505,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music5.ogg</SourceFileName>
@@ -58460,7 +58517,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music6.ogg</SourceFileName>
@@ -58472,7 +58529,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music7.ogg</SourceFileName>
@@ -58484,7 +58541,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music8.ogg</SourceFileName>
@@ -58496,7 +58553,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music9.mp3</SourceFileName>
@@ -58508,7 +58565,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-04-29 00:25:55Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -58532,7 +58589,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-28 02:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.mp3</SourceFileName>
@@ -58544,7 +58601,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-30 18:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-31 10:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
@@ -58556,7 +58613,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-13 12:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-14 04:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound12.ogg</SourceFileName>
@@ -58568,7 +58625,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-08 16:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-09 00:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
@@ -58580,7 +58637,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-28 02:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
@@ -58592,7 +58649,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-28 02:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
@@ -58604,7 +58661,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-28 02:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
@@ -58616,7 +58673,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-28 02:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
@@ -58628,7 +58685,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-28 02:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
@@ -58640,7 +58697,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-28 02:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
@@ -58652,7 +58709,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 10:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-28 02:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
@@ -58664,7 +58721,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 19:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-28 11:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">sound\Scored Points.ogg</SourceFileName>
@@ -58676,7 +58733,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-08 14:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-08 22:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
