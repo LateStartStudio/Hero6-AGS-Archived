@@ -138,6 +138,7 @@ import function riddleOK_Click();
 
 /* DebugUtilityGUI Script Functions */
 import function agsDebug_OnClick(int command, int data);
+import function heal_OnClick();
 import function maxStats_OnClick();
 import function adjustStats_OnClick();
 import function giveGold_OnClick();
