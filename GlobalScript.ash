@@ -136,6 +136,9 @@ import function bookLeft_Click();
 import function bookRight_Click();
 import function riddleOK_Click();
 
+/* SetTimeGUI Script Functions */
+import function acceptSetTime_OnClick();
+
 /* DebugUtilityGUI Script Functions */
 import function agsDebug_OnClick(int command, int data);
 import function heal_OnClick();
@@ -154,3 +157,4 @@ import function dolmenB_OnClick();
 import function chapter1Select_OnClick();
 import function chapter2Select_OnClick();
 import function chapter3Select_OnClick();
+import function setTime_OnClick();

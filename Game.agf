@@ -8636,6 +8636,181 @@
                 <ID>26</ID>
                 <Name>btnHeal</Name>
               </GUIButton>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text>Time:</Text>
+                <Height>11</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>93</Left>
+                <Top>139</Top>
+                <ZOrder>27</ZOrder>
+                <ID>27</ID>
+                <Name>Label1</Name>
+              </GUILabel>
+              <GUIButton>
+                <OnClick>btnSetTime_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">Set Time</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>78</Width>
+                <Left>93</Left>
+                <Top>149</Top>
+                <ZOrder>28</ZOrder>
+                <ID>28</ID>
+                <Name>btnSetTime</Name>
+              </GUIButton>
+            </Controls>
+          </GUIMain>
+          <GUIMain>
+            <NormalGUI>
+              <OnClick />
+              <Height>85</Height>
+              <Width>90</Width>
+              <Left>0</Left>
+              <Top>0</Top>
+              <Clickable>True</Clickable>
+              <Visibility>PopupModal</Visibility>
+              <PopupYPos>0</PopupYPos>
+              <ZOrder>0</ZOrder>
+              <BorderColor>2</BorderColor>
+              <Transparency>0</Transparency>
+              <BackgroundColor>8</BackgroundColor>
+              <BackgroundImage>0</BackgroundImage>
+              <ID>35</ID>
+              <Name>gSetTime</Name>
+            </NormalGUI>
+            <Controls>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text xml:space="preserve">Set Time</Text>
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>50</Width>
+                <Left>25</Left>
+                <Top>6</Top>
+                <ZOrder>0</ZOrder>
+                <ID>0</ID>
+                <Name>Label2</Name>
+              </GUILabel>
+              <GUILabel>
+                <TextAlignment>TopRight</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text>Days:</Text>
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>30</Width>
+                <Left>16</Left>
+                <Top>20</Top>
+                <ZOrder>1</ZOrder>
+                <ID>1</ID>
+                <Name>lblDaysDescription</Name>
+              </GUILabel>
+              <GUILabel>
+                <TextAlignment>TopRight</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text>Hour:</Text>
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>40</Width>
+                <Left>6</Left>
+                <Top>31</Top>
+                <ZOrder>2</ZOrder>
+                <ID>2</ID>
+                <Name>lblHourDescription</Name>
+              </GUILabel>
+              <GUILabel>
+                <TextAlignment>TopRight</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text>Minutes:</Text>
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>40</Width>
+                <Left>6</Left>
+                <Top>41</Top>
+                <ZOrder>3</ZOrder>
+                <ID>3</ID>
+                <Name>lblMinutesDescription</Name>
+              </GUILabel>
+              <GUIButton>
+                <OnClick>btnAcceptSetTime_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text>Accept</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>60</Width>
+                <Left>16</Left>
+                <Top>63</Top>
+                <ZOrder>4</ZOrder>
+                <ID>4</ID>
+                <Name>btnAcceptSetTime</Name>
+              </GUIButton>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text />
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>30</Width>
+                <Left>48</Left>
+                <Top>20</Top>
+                <ZOrder>5</ZOrder>
+                <ID>5</ID>
+                <Name>lblDays</Name>
+              </GUILabel>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text />
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>30</Width>
+                <Left>48</Left>
+                <Top>31</Top>
+                <ZOrder>6</ZOrder>
+                <ID>6</ID>
+                <Name>lblHour</Name>
+              </GUILabel>
+              <GUILabel>
+                <TextAlignment>TopLeft</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <Text />
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>30</Width>
+                <Left>48</Left>
+                <Top>41</Top>
+                <ZOrder>7</ZOrder>
+                <ID>7</ID>
+                <Name>lblMinutes</Name>
+              </GUILabel>
             </Controls>
           </GUIMain>
         </GUIs>
@@ -58227,6 +58402,30 @@ stop
                   <ScriptAndHeader>
                     <ScriptAndHeader_Header>
                       <Script>
+                        <FileName>SetTimeGUI.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1945615087</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>SetTimeGUI.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>1945615087</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
                         <FileName>DebugUtilityGUI.ash</FileName>
                         <Name />
                         <Description />
@@ -58634,7 +58833,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.mp3</SourceFileName>
@@ -58646,7 +58845,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-30 12:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-30 16:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
@@ -58658,7 +58857,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2008-08-13 06:32:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2008-08-13 10:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound12.ogg</SourceFileName>
@@ -58670,7 +58869,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-12-08 04:48:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-12-08 06:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
@@ -58682,7 +58881,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
@@ -58694,7 +58893,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
@@ -58706,7 +58905,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
@@ -58718,7 +58917,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
@@ -58730,7 +58929,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
@@ -58742,7 +58941,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
@@ -58754,7 +58953,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 04:49:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
@@ -58766,7 +58965,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-08-27 13:32:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-08-27 17:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">sound\Scored Points.ogg</SourceFileName>
@@ -58778,7 +58977,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-02-08 02:10:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-02-08 04:10:51Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
