@@ -58488,7 +58488,7 @@ stop
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <SourceFileName>music\music1.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music1.ogg</SourceFileName>
                 <ScriptName>aMusic1</ScriptName>
                 <Index>1</Index>
                 <Type>2</Type>
@@ -58500,7 +58500,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music10.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music10.ogg</SourceFileName>
                 <ScriptName>aMusic10</ScriptName>
                 <Index>2</Index>
                 <Type>2</Type>
@@ -58512,7 +58512,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music11.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music11.ogg</SourceFileName>
                 <ScriptName>aMusic11</ScriptName>
                 <Index>3</Index>
                 <Type>2</Type>
@@ -58524,7 +58524,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music12.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music12.ogg</SourceFileName>
                 <ScriptName>aMusic12</ScriptName>
                 <Index>4</Index>
                 <Type>2</Type>
@@ -58536,7 +58536,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music13.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music13.ogg</SourceFileName>
                 <ScriptName>aMusic13</ScriptName>
                 <Index>5</Index>
                 <Type>2</Type>
@@ -58548,7 +58548,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music14.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music14.ogg</SourceFileName>
                 <ScriptName>aMusic14</ScriptName>
                 <Index>6</Index>
                 <Type>2</Type>
@@ -58560,7 +58560,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music15.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music15.ogg</SourceFileName>
                 <ScriptName>aMusic15</ScriptName>
                 <Index>7</Index>
                 <Type>2</Type>
@@ -58572,7 +58572,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music16.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music16.ogg</SourceFileName>
                 <ScriptName>aMusic16</ScriptName>
                 <Index>8</Index>
                 <Type>2</Type>
@@ -58584,7 +58584,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music17.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music17.ogg</SourceFileName>
                 <ScriptName>aMusic17</ScriptName>
                 <Index>9</Index>
                 <Type>2</Type>
@@ -58596,7 +58596,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music18.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music18.ogg</SourceFileName>
                 <ScriptName>aMusic18</ScriptName>
                 <Index>10</Index>
                 <Type>2</Type>
@@ -58608,7 +58608,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music19.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music19.ogg</SourceFileName>
                 <ScriptName>aMusic19</ScriptName>
                 <Index>11</Index>
                 <Type>2</Type>
@@ -58620,7 +58620,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music2.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music2.ogg</SourceFileName>
                 <ScriptName>aMusic2</ScriptName>
                 <Index>12</Index>
                 <Type>2</Type>
@@ -58632,7 +58632,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music20.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music20.ogg</SourceFileName>
                 <ScriptName>aMusic20</ScriptName>
                 <Index>13</Index>
                 <Type>2</Type>
@@ -58644,7 +58644,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music21.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music21.ogg</SourceFileName>
                 <ScriptName>aMusic21</ScriptName>
                 <Index>14</Index>
                 <Type>2</Type>
@@ -58656,7 +58656,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music22.mp3</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music22.mp3</SourceFileName>
                 <ScriptName>aMusic22</ScriptName>
                 <Index>15</Index>
                 <Type>2</Type>
@@ -58668,7 +58668,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music23.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music23.ogg</SourceFileName>
                 <ScriptName>aMusic23</ScriptName>
                 <Index>16</Index>
                 <Type>2</Type>
@@ -58680,7 +58680,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music24.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music24.ogg</SourceFileName>
                 <ScriptName>aMusic24</ScriptName>
                 <Index>17</Index>
                 <Type>2</Type>
@@ -58692,7 +58692,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music25.mp3</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music25.mp3</SourceFileName>
                 <ScriptName>aMusic25</ScriptName>
                 <Index>18</Index>
                 <Type>2</Type>
@@ -58704,7 +58704,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music26.mp3</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music26.mp3</SourceFileName>
                 <ScriptName>aMusic26</ScriptName>
                 <Index>19</Index>
                 <Type>2</Type>
@@ -58716,7 +58716,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music27.mp3</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music27.mp3</SourceFileName>
                 <ScriptName>aMusic27</ScriptName>
                 <Index>20</Index>
                 <Type>2</Type>
@@ -58728,7 +58728,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music3.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music3.ogg</SourceFileName>
                 <ScriptName>aMusic3</ScriptName>
                 <Index>21</Index>
                 <Type>2</Type>
@@ -58740,7 +58740,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music4.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music4.ogg</SourceFileName>
                 <ScriptName>aMusic4</ScriptName>
                 <Index>22</Index>
                 <Type>2</Type>
@@ -58752,7 +58752,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music5.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music5.ogg</SourceFileName>
                 <ScriptName>aMusic5</ScriptName>
                 <Index>23</Index>
                 <Type>2</Type>
@@ -58764,7 +58764,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music6.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music6.ogg</SourceFileName>
                 <ScriptName>aMusic6</ScriptName>
                 <Index>24</Index>
                 <Type>2</Type>
@@ -58776,7 +58776,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music7.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music7.ogg</SourceFileName>
                 <ScriptName>aMusic7</ScriptName>
                 <Index>25</Index>
                 <Type>2</Type>
@@ -58788,7 +58788,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music8.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music8.ogg</SourceFileName>
                 <ScriptName>aMusic8</ScriptName>
                 <Index>26</Index>
                 <Type>2</Type>
@@ -58800,7 +58800,7 @@ stop
                 <FileLastModifiedDate>2014-04-28 18:25:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music9.mp3</SourceFileName>
+                <SourceFileName>Resources\Audio\Music\music9.mp3</SourceFileName>
                 <ScriptName>aMusic9</ScriptName>
                 <Index>27</Index>
                 <Type>2</Type>
@@ -58824,7 +58824,7 @@ stop
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <SourceFileName>sound\sound1.wav</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound1.wav</SourceFileName>
                 <ScriptName>aSound1</ScriptName>
                 <Index>28</Index>
                 <Type>3</Type>
@@ -58836,7 +58836,7 @@ stop
                 <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound10.mp3</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound10.mp3</SourceFileName>
                 <ScriptName>aSound10</ScriptName>
                 <Index>29</Index>
                 <Type>3</Type>
@@ -58848,7 +58848,7 @@ stop
                 <FileLastModifiedDate>2005-05-30 16:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound10.wav</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound10.wav</SourceFileName>
                 <ScriptName>aSound101</ScriptName>
                 <Index>30</Index>
                 <Type>3</Type>
@@ -58860,7 +58860,7 @@ stop
                 <FileLastModifiedDate>2008-08-13 10:32:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound12.ogg</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound12.ogg</SourceFileName>
                 <ScriptName>aSound12</ScriptName>
                 <Index>31</Index>
                 <Type>3</Type>
@@ -58872,7 +58872,7 @@ stop
                 <FileLastModifiedDate>2005-12-08 06:48:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound2.wav</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound2.wav</SourceFileName>
                 <ScriptName>aSound2</ScriptName>
                 <Index>32</Index>
                 <Type>3</Type>
@@ -58884,7 +58884,7 @@ stop
                 <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound3.wav</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound3.wav</SourceFileName>
                 <ScriptName>aSound3</ScriptName>
                 <Index>33</Index>
                 <Type>3</Type>
@@ -58896,7 +58896,7 @@ stop
                 <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound5.wav</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound5.wav</SourceFileName>
                 <ScriptName>aSound5</ScriptName>
                 <Index>35</Index>
                 <Type>3</Type>
@@ -58908,7 +58908,7 @@ stop
                 <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound4.wav</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound4.wav</SourceFileName>
                 <ScriptName>aSound4</ScriptName>
                 <Index>34</Index>
                 <Type>3</Type>
@@ -58920,7 +58920,7 @@ stop
                 <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound6.wav</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound6.wav</SourceFileName>
                 <ScriptName>aSound6</ScriptName>
                 <Index>36</Index>
                 <Type>3</Type>
@@ -58932,7 +58932,7 @@ stop
                 <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound7.wav</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound7.wav</SourceFileName>
                 <ScriptName>aSound7</ScriptName>
                 <Index>37</Index>
                 <Type>3</Type>
@@ -58944,7 +58944,7 @@ stop
                 <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound8.wav</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound8.wav</SourceFileName>
                 <ScriptName>aSound8</ScriptName>
                 <Index>38</Index>
                 <Type>3</Type>
@@ -58956,7 +58956,7 @@ stop
                 <FileLastModifiedDate>2006-08-27 08:49:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound9.wav</SourceFileName>
+                <SourceFileName>Resources\Audio\Sound\sound9.wav</SourceFileName>
                 <ScriptName>aSound9</ScriptName>
                 <Index>39</Index>
                 <Type>3</Type>
@@ -58968,7 +58968,7 @@ stop
                 <FileLastModifiedDate>2006-08-27 17:32:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName xml:space="preserve">sound\Scored Points.ogg</SourceFileName>
+                <SourceFileName xml:space="preserve">Resources\Audio\Sound\Scored Points.ogg</SourceFileName>
                 <ScriptName>aScored11</ScriptName>
                 <Index>40</Index>
                 <Type>3</Type>
