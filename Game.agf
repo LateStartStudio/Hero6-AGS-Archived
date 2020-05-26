@@ -125,7 +125,7 @@
       <CustomPropertySchemaItem>
         <Name xml:space="preserve">Scene Flag</Name>
         <Description xml:space="preserve">0-Ext; 1-N-Forest; 2-Road; 3-Field; 4-DForest; 5-Interior; 6-Town; 7-Cave</Description>
-        <DefaultValue />
+        <DefaultValue>0</DefaultValue>
         <AppliesToCharacters>True</AppliesToCharacters>
         <AppliesToHotspots>True</AppliesToHotspots>
         <AppliesToInvItems>True</AppliesToInvItems>
@@ -18512,7 +18512,7 @@ stop
             <ID>18</ID>
             <Name>dRonBars01</Name>
             <ShowTextParser>False</ShowTextParser>
-            <Script><![CDATA[// dialog script file ’
+            <Script><![CDATA[// dialog script file ï¿½
 @S  // dialog startup entry point
 return
 @1  // option 1 - Ron Bars
@@ -20459,7 +20459,7 @@ stop
             <ID>26</ID>
             <Name>dGlith01</Name>
             <ShowTextParser>False</ShowTextParser>
-            <Script><![CDATA[// dialog script file ’
+            <Script><![CDATA[// dialog script file ï¿½
 @S  // dialog startup entry point
 glith: Welcome to my humble shop. Feel free to browse around.
 run-script 44
